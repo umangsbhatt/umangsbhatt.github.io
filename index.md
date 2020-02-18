@@ -36,12 +36,12 @@ I grew up in Basking Ridge, New Jersey, USA.
     </tr>
     <tr>
         <td valign="top"><strong>[Oct 2019]</strong></td>
-        <td>Joined <a href="http://mlg.eng.cam.ac.uk/">Cambridge MLG</a> as a Ph.D. Student (moving across the pond in the process &#128579;)
+        <td>Joined <a href="http://mlg.eng.cam.ac.uk/">Cambridge MLG</a> as a Ph.D. Student, moving across the pond in the process &#128579;
         </td>
     </tr>
     <tr>
         <td valign="top"><strong>[Jun 2019]</strong></td>
-        <td>Joined <a href="https://www.partnershiponai.org/">Partnership on AI</a> as a Research Fellow (spending the summer in the Bay Area)
+        <td>Joined <a href="https://www.partnershiponai.org/">Partnership on AI</a> as a Research Fellow, spending the summer in the Bay Area
         </td>
     </tr>
     <tr>
