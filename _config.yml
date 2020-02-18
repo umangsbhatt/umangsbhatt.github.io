@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            
+title: Umang Bhatt         
 locale:           en_US
-url: https://satwikkottur.github.io
+url: https://umangsbhatt.github.io
 # Jekyll configuration
 
 permalink:   /:categories/:title/
@@ -23,16 +23,17 @@ kramdown:
 
 # Site owner
 owner:
-  name: Satwik Kottur
-  avatar: bio-photo-3.jpg
-  position: Research Scientist
-  school: Facebook AI
-  place: Menlo Park, CA
-  bio: "Research Scientist<br/>Facebook AI&#13;&#10;Menlo Park, CA"
-  email: satwik27@gmail.com
+  name: Umang Bhatt
+  avatar: bio.jpg
+  position: Ph.D. Student
+  school: University of Cambridge
+  place: Cambridge, England, UK
+  bio: "ML Ph.D. Student<br\> University of Cambridge"
+  email: usb20@cam.ac.uk
   disqus-shortname:
-  twitter: #username
-  facebook: satwik27 #username
+
+  twitter: umangsbhatt #username
+  facebook: #username
   google:
     plus: 
     analytics:
@@ -40,9 +41,9 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: satwikkottur
+  github: umangsbhatt
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: satwik-kottur-6898b634 #username
+  linkedin: umangsbhatt #username
   xing: #username
   instagram: #username
   lastfm: #username
