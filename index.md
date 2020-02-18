@@ -74,7 +74,7 @@ I grew up in Basking Ridge, New Jersey, USA.
         </td>
     </tr>
     <tr>
-        <td>Leverhulme Center for the Future of Intelligence<br>2019-Present</td>
+        <td>Leverhulme CFI<br>2019-Present</td>
         <td>Microsoft<br>Summer 2018</td>
         <td>Groupon<br>Summer 2017</td>
     </tr>

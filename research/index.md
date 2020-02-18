@@ -13,7 +13,7 @@ I am deeply interested in developing productive human-AI teams where humans are 
 
 1. **Umang Bhatt**, Alice Xiang, Shubham Sharma, Adrian Weller, Ankur Taly, Yunhan Jia, Joydeep Ghosh, Ruchir Puri, Jos&eacute; M. F. Moura, Peter Eckersley  
 [Explainable Machine Learning in Deployment]()   
-*ACM Conference on Fairness, Accountability, and Transparency (FAT*), 2020.*  
+*ACM Conference on Fairness, Accountability, and Transparency (FAT*), 2020.*
 [<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/1909.06342)
 [<button type="button" class="btn btn-success">Poster</button>](/reports/hcml.pdf){:target="_blank"} 
 [<button type="button" class="btn">Blog</button>](https://www.partnershiponai.org/xai-in-practice/)
@@ -45,6 +45,8 @@ I am deeply interested in developing productive human-AI teams where humans are 
 [<button type="button" class="btn btn-danger">Code</button>](https://github.com/shouvikmani/Intelligent-Pothole-Detection) 
 [<button type="button" class="btn">Blog</button>](https://medium.com/@percepsense/intelligent-pothole-detection-879ef635dd38)
 [<button type="button" class="btn">Video</button>](https://www.youtube.com/watch?v=w6RMC_io--U&feature=emb_logo)
+
+-----
 
 ### Workshop Publications
 
@@ -84,6 +86,7 @@ I am deeply interested in developing productive human-AI teams where humans are 
 [Building Human-Machine Trust via Interpretability]()    
 *AAAI (Student Abstract), 2019.*    
 [<button type="button" class="btn btn-info">Paper</button>](https://www.aaai.org/ojs/index.php/AAAI/article/view/5096)
+[<button type="button" class="btn btn-success">Poster</button>](/reports/studentposter.pdf){:target="_blank"} 
 
 1. Aaron Roth\*, **Umang Bhatt**\*, Tamara Amin\*, Afsaneh Doryab, Fei Fang, Manuela Veloso  
 \* equal contribution   
@@ -97,5 +100,3 @@ I am deeply interested in developing productive human-AI teams where humans are 
 *AAAI Spring Symposium on AI and Society: Ethics, Safety and Trustworthiness in Intelligent Agents, 2018.*     
 [<button type="button" class="btn btn-info">Paper</button>](https://www.aaai.org/ocs/index.php/SSS/SSS18/paper/view/17478/15369)
 
-
------
