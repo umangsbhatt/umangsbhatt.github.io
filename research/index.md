@@ -51,13 +51,13 @@ I am deeply interested in developing productive human-AI teams where humans are 
 ### Workshop Publications
 
 1. Botty Dimanov, **Umang Bhatt**, Mateja Jamnik, Adrian Weller   
-[You shouldn't trust me: Learning models which conceal unfairness from multiple explanation methods]()   
-*AAAI Workshop on Safe AI Systems, 2020.*    
-**Oral Presentation**   
-*AAAI Workshop on Evaluating Evaluation of AI Systems, 2020.*   
+[Models can be learned to conceal unfairness from explanation methods]()   
+*AAAI Workshop on Safe AI, 2020.*    
+**Selected Oral Presentation**
+*AAAI Workshop on Evaluating Evaluation of AI Systems, 2020.*      
 [<button type="button" class="btn btn-info">Paper</button>](/reports/ecai.pdf){:target="_blank"} 
 
-1. **Umang Bhatt**, Alice Xiang, Adrian Weller, Peter Eckersley  
+1. **Umang Bhatt**, Alice Xiang, Shubham Sharma, Adrian Weller, Ankur Taly, Yunhan Jia, Joydeep Ghosh, Ruchir Puri, Jos&eacute; M. F. Moura, Peter Eckersley  
 [Explainable Machine Learning in Deployment]()    
 *NeurIPS Workshop on Human-Centric Machine Learning (HCML), 2019.*    
 [<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/1909.06342)

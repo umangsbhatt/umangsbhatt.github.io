@@ -21,12 +21,25 @@ I grew up in Basking Ridge, New Jersey, USA.
     <col width="15%">
     <col width="85%">
     <tr>
+        <td valign="top"><strong>[Jan 2020]</strong></td>
+        <td>Our paper, <a href="https://umangsbhatt.github.io/reports/icassp_2020.pdf">On Network Science and Mutual Information for Explaining Deep Neural Networks</a>, has been accepted to <a href="https://2020.ieeeicassp.org/">ICASSP 2020</a></td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[Jan 2020]</strong></td>
+        <td>Our paper, <a href="https://umangsbhatt.github.io/reports/ecai.pdf">You shouldn't trust me: Learning models which conceal unfairness from multiple explanation methods</a>, has been accepted to <a href="http://ecai2020.eu/">ECAI 2020</a></td>
+    </tr>
+    <tr>
         <td valign="top"><strong>[Nov 2019]</strong></td>
         <td>Our paper on <a href="https://arxiv.org/abs/1909.06342">Explainable Machine Learning in Deployment</a> got accepted to <a href="https://facctconference.org/2020/index.html">FAT&#42; 2020</a></td>
     </tr>
     <tr>
         <td valign="top"><strong>[Oct 2019]</strong></td>
-        <td>Joined <a href="http://mlg.eng.cam.ac.uk/">Cambridge MLG</a> as a Ph.D. Student
+        <td>Joined <a href="http://mlg.eng.cam.ac.uk/">Cambridge MLG</a> as a Ph.D. Student (moving across the pond in the process &#128579;)
+        </td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[Jun 2019]</strong></td>
+        <td>Joined <a href="https://www.partnershiponai.org/">Partnership on AI</a> as a Research Fellow (spending the summer in the Bay Area)
         </td>
     </tr>
     <tr>
