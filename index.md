@@ -28,7 +28,7 @@ I grew up in Basking Ridge, New Jersey, USA.
     </tr>
     <tr>
         <td valign="top"><strong>[Jan 2020]</strong></td>
-        <td>Our paper, <a href="https://umangsbhatt.github.io/reports/ecai.pdf">You shouldn't trust me: Learning models which conceal unfairness from multiple explanation methods</a>, has been accepted to <a href="http://ecai2020.eu/">ECAI 2020</a></td>
+        <td>One <a href="https://umangsbhatt.github.io/reports/ecai.pdf">paper</a> accepted to <a href="http://ecai2020.eu/">ECAI 2020</a></td>
     </tr>
     <tr>
         <td valign="top"><strong>[Nov 2019]</strong></td>
