@@ -6,9 +6,13 @@ modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 ---
 
-Hi there! I am a Ph.D. student in University of Cambridge’s [Machine Learning Group](http://mlg.eng.cam.ac.uk/) supervised by [Adrian Weller](http://mlg.eng.cam.ac.uk/adrian/). I am funded by the Trust and Transparency Initiative at the [Leverhulme Center for the Future of Intelligence](http://lcfi.ac.uk/) with generous donations from DeepMind and the Leverhulme Trust. I am also a Research Fellow at the [Partnership On AI](https://www.partnershiponai.org/). My research interests lie in machine learning, explainable AI, and human-machine trust.
+Hey there!
 
-I completed a joint bachelors-masters in [Electrical and Computer Engineering](http://www.ece.cmu.edu/) at [Carnegie Mellon University](http://www.cmu.edu/)) working with [Jos&eacute; Moura](http://users.ece.cmu.edu/~moura/). During four wonderful years in Pittsburgh, I collaborated with [Pradeep Ravikumar](http://www.cs.cmu.edu/~pradeepr/) on explainable AI, [Zico Kolter](http://zicokolter.com/) on automated pothole detection, [Fei Fang](https://feifang.info/) and [Manuela Veloso](https://www.cs.cmu.edu/~mmv/) on robot affect expression in competitive settings, and [Radu Marculescu](http://users.ece.utexas.edu/~radum/) on network science for deep learning. I grew up in Basking Ridge, New Jersey, USA.
+I am a Ph.D. student in University of Cambridge’s [Machine Learning Group](http://mlg.eng.cam.ac.uk/) supervised by [Adrian Weller](http://mlg.eng.cam.ac.uk/adrian/). I am funded by the Trust and Transparency Initiative at the [Leverhulme Center for the Future of Intelligence](http://lcfi.ac.uk/) with generous donations from DeepMind and the Leverhulme Trust. I am also a Research Fellow at the [Partnership on AI](https://www.partnershiponai.org/). My research interests lie in machine learning, explainable AI, and human-machine trust.
+
+I completed a joint bachelors-masters in [Electrical and Computer Engineering](http://www.ece.cmu.edu/) at [Carnegie Mellon University](http://www.cmu.edu/) working with [Jos&eacute; Moura](http://users.ece.cmu.edu/~moura/). During four wonderful years in Pittsburgh, I collaborated with [Pradeep Ravikumar](http://www.cs.cmu.edu/~pradeepr/) on explainable AI, [Zico Kolter](http://zicokolter.com/) on automated pothole detection, [Fei Fang](https://feifang.info/) and [Manuela Veloso](https://www.cs.cmu.edu/~mmv/) on robot affect expression in competitive settings, and [Radu Marculescu](http://users.ece.utexas.edu/~radum/) on network science for deep learning. 
+
+I grew up in Basking Ridge, New Jersey, USA.
 
 ----
 
@@ -18,11 +22,16 @@ I completed a joint bachelors-masters in [Electrical and Computer Engineering](h
     <col width="85%">
     <tr>
         <td valign="top"><strong>[Nov 2019]</strong></td>
-        <td>Our paper on <a href="https://arxiv.org/abs/1909.06342">Explainable Machine Learning in Deployment</a> got accepted to <a href="https://facctconference.org/2020/index.html">FAT 2020</a></td>
+        <td>Our paper on <a href="https://arxiv.org/abs/1909.06342">Explainable Machine Learning in Deployment</a> got accepted to <a href="https://facctconference.org/2020/index.html">FAT&#42; 2020</a></td>
     </tr>
     <tr>
         <td valign="top"><strong>[Oct 2019]</strong></td>
         <td>Joined <a href="http://mlg.eng.cam.ac.uk/">Cambridge MLG</a> as a Ph.D. Student
+        </td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[May 2019]</strong></td>
+        <td>Finished my BS and MS at <a href="http://www.cmu.edu/">Carnegie Mellon</a> &#128522;
         </td>
     </tr>
 </table>
@@ -42,7 +51,7 @@ I completed a joint bachelors-masters in [Electrical and Computer Engineering](h
         </td>
         <td>
             <a href="https://www.partnershiponai.org/">
-            <img src="/images/pai.jpeg"></a>
+            <img src="/images/pai.png"></a>
         </td>
     <tr>
     <tr>
@@ -53,7 +62,7 @@ I completed a joint bachelors-masters in [Electrical and Computer Engineering](h
     </tr>
         <td>
             <a href="http://lcfi.ac.uk/">
-            <img src="/images/cfi.jpeg"></a>
+            <img src="/images/cfi.png"></a>
         </td>
         <td>
             <a href="https://www.microsoft.com/">
