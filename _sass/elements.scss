@@ -193,6 +193,21 @@ svg:not(:root) {
   }
 }
 
+/* Video button */
+
+.btn-vid {
+  background-color: $video;
+  color: $white;
+  border-color: $video;
+  &:visited {
+    color: $white;
+  }
+  &:hover {
+    background-color: $white;
+    color: $video;
+  }
+}
+
 /*
    Wells
    ========================================================================== */
