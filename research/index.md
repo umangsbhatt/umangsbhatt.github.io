@@ -17,6 +17,7 @@ I am deeply interested in developing productive human-AI teams where humans are 
 [<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/1909.06342)
 [<button type="button" class="btn btn-success">Poster</button>](/reports/hcml.pdf){:target="_blank"} 
 [<button type="button" class="btn">Blog</button>](https://www.partnershiponai.org/xai-in-practice/)
+[<button type="button" class="btn-warning">Slides</button>](/reports/fat_slides.pdf){:target="_blank"} 
 
 1. Botty Dimanov, **Umang Bhatt**, Mateja Jamnik, Adrian Weller   
 [You shouldn't trust me: Learning models which conceal unfairness from multiple explanation methods]()    
@@ -44,7 +45,7 @@ I am deeply interested in developing productive human-AI teams where humans are 
 [<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/1710.02595)
 [<button type="button" class="btn btn-danger">Code</button>](https://github.com/shouvikmani/Intelligent-Pothole-Detection) 
 [<button type="button" class="btn">Blog</button>](https://medium.com/@percepsense/intelligent-pothole-detection-879ef635dd38)
-[<button type="button" class="btn">Video</button>](https://www.youtube.com/watch?v=w6RMC_io--U&feature=emb_logo)
+[<button type="button" class="btn-primary">Video</button>](https://www.youtube.com/watch?v=w6RMC_io--U&feature=emb_logo)
 
 -----
 
