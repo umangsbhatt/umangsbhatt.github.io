@@ -35,7 +35,7 @@ I am deeply interested in developing productive human-AI teams where humans are 
 *IEEE International Conference on Robot and Human Interactive Communication (ROMAN), 2019.*    
 **Oral Presentation**   
 [<button type="button" class="btn btn-info">Paper</button>](https://ieeexplore.ieee.org/document/8956412)
-
+[<button type="button" class="btn">Article</button>](https://www.cmu.edu/news/stories/archives/2019/november/robot-trash-talk.html)
 
 1. **Umang Bhatt**\*, Edgar Xi\*, Shouvik Mani\*, Zico Kolter   
 \* equal contribution  
