@@ -45,7 +45,7 @@ I am deeply interested in developing productive human-AI teams where humans are 
 [<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/1710.02595)
 [<button type="button" class="btn btn-danger">Code</button>](https://github.com/shouvikmani/Intelligent-Pothole-Detection) 
 [<button type="button" class="btn">Blog</button>](https://medium.com/@percepsense/intelligent-pothole-detection-879ef635dd38)
-[<button type="button" class="btn btn-primary">Video</button>](https://www.youtube.com/watch?v=w6RMC_io--U&feature=emb_logo)
+[<button type="button" class="btn btn-default">Video</button>](https://www.youtube.com/watch?v=w6RMC_io--U&feature=emb_logo)
 
 -----
 
