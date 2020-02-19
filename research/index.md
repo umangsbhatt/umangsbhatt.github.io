@@ -14,7 +14,7 @@ I am deeply interested in developing productive human-AI teams where humans are 
 1. **Umang Bhatt**, Alice Xiang, Shubham Sharma, Adrian Weller, Ankur Taly, Yunhan Jia, Joydeep Ghosh, Ruchir Puri, Jos&eacute; M. F. Moura, Peter Eckersley  
 [Explainable Machine Learning in Deployment]()   
 *ACM Conference on Fairness, Accountability, and Transparency (FAT\*), 2020.*   
-[<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/1909.06342)
+[<button type="button" class="btn btn-info">Paper</button>](https://dl.acm.org/doi/abs/10.1145/3351095.3375624)
 [<button type="button" class="btn btn-success">Poster</button>](/reports/hcml.pdf){:target="_blank"} 
 [<button type="button" class="btn">Blog</button>](https://www.partnershiponai.org/xai-in-practice/)
 [<button type="button" class="btn btn-warning">Slides</button>](/reports/fat_slides.pdf){:target="_blank"} 
@@ -34,7 +34,7 @@ I am deeply interested in developing productive human-AI teams where humans are 
 [A Robot’s Expressive Language Affects Human Strategy and Perceptions in a Competitive Game]()    
 *IEEE International Conference on Robot and Human Interactive Communication (ROMAN), 2019.*    
 **Oral Presentation**   
-[<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/1910.11459)
+[<button type="button" class="btn btn-info">Paper</button>](https://ieeexplore.ieee.org/document/8956412)
 
 
 1. **Umang Bhatt**\*, Edgar Xi\*, Shouvik Mani\*, Zico Kolter   
@@ -45,7 +45,7 @@ I am deeply interested in developing productive human-AI teams where humans are 
 [<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/1710.02595)
 [<button type="button" class="btn btn-danger">Code</button>](https://github.com/shouvikmani/Intelligent-Pothole-Detection) 
 [<button type="button" class="btn">Blog</button>](https://medium.com/@percepsense/intelligent-pothole-detection-879ef635dd38)
-[<button type="button" class="btn btn-default">Video</button>](https://www.youtube.com/watch?v=w6RMC_io--U&feature=emb_logo)
+[<button type="button" class="btn btn-secondary">Video</button>](https://www.youtube.com/watch?v=w6RMC_io--U&feature=emb_logo)
 
 -----
 
