@@ -49,7 +49,7 @@ I am deeply interested in developing productive human-AI teams where humans are 
 
 -----
 
-### Workshop Publications
+### Workshop Publications (Refereed)
 
 1. Javier Antoran, Jose Miguel Hernandez-Lobato, **Umang Bhatt**, Adrian Weller, Tameem Adel
 [Getting a CLUE: A Method for Explaining Uncertainty Estimates]()   
