@@ -18,6 +18,7 @@ I am deeply interested in developing productive human-AI teams where humans are 
 [<button type="button" class="btn btn-success">Poster</button>](/reports/hcml.pdf){:target="_blank"} 
 [<button type="button" class="btn">Blog</button>](https://www.partnershiponai.org/xai-in-practice/)
 [<button type="button" class="btn btn-warning">Slides</button>](/reports/fat_slides.pdf){:target="_blank"} 
+[<button type="button" class="btn btn-vid">Video</button>](https://www.youtube.com/watch?v=Hofl4uwxtPA)
 
 1. Botty Dimanov, **Umang Bhatt**, Mateja Jamnik, Adrian Weller   
 [You shouldn't trust me: Learning models which conceal unfairness from multiple explanation methods]()    
@@ -51,7 +52,7 @@ I am deeply interested in developing productive human-AI teams where humans are 
 
 ### Workshop Publications (Refereed)
 
-1. Javier Antoran, Jose Miguel Hernandez-Lobato, **Umang Bhatt**, Adrian Weller, Tameem Adel                
+1. Javier Antoran, **Umang Bhatt**, Jose Miguel Hernandez-Lobato, Adrian Weller, Tameem Adel                
 [Getting a CLUE: A Method for Explaining Uncertainty Estimates]()      
 *To appear in ICLR Workshop on Machine Learning in Real Life (ML-IRL), 2020.*         
 **Selected Oral Presentation**          

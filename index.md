@@ -23,6 +23,10 @@ I grew up in Basking Ridge, New Jersey, USA.
     <col width="15%">
     <col width="85%">
     <tr>
+        <td valign="top"><strong>[Mar 2020]</strong></td>
+        <td>Our workshop, Interpertability in Practice, has been accepted to <a href="https://icml.cc/Conferences/2020">ICML 2020</a></td>
+    </tr>
+    <tr>
         <td valign="top"><strong>[Jan 2020]</strong></td>
         <td>Our paper, <a href="https://umangsbhatt.github.io/reports/icassp_2020.pdf">On Network Science and Mutual Information for Explaining Deep Neural Networks</a>, has been accepted to <a href="https://2020.ieeeicassp.org/">ICASSP 2020</a></td>
     </tr>
