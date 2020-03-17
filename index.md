@@ -8,7 +8,7 @@ comments: false
 
 Hey there!
 
-I am a Ph.D. student in the University of Cambridge’s [Machine Learning Group](http://mlg.eng.cam.ac.uk/) supervised by [Adrian Weller](http://mlg.eng.cam.ac.uk/adrian/). My research interests lie in machine learning, explainable AI, and human-machine trust.
+I am a Ph.D. student in the University of Cambridge’s [Machine Learning Group](http://mlg.eng.cam.ac.uk/) supervised by [Adrian Weller](http://mlg.eng.cam.ac.uk/adrian/). My research interests lie in statistical machine learning, explainable artificial intelligence, and human-machine collaboration.
 
 I am funded by the [Leverhulme Center for the Future of Intelligence](http://lcfi.ac.uk/) (Trust and Transparency Initiative) with generous donations from DeepMind and Leverhulme Trust. I am also a Research Fellow at the [Partnership on AI](https://www.partnershiponai.org/). 
 
