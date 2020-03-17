@@ -24,7 +24,7 @@ I grew up in Basking Ridge, New Jersey, USA.
     <col width="85%">
     <tr>
         <td valign="top"><strong>[Mar 2020]</strong></td>
-        <td>Our workshop, Interpertability in Practice, has been accepted to <a href="https://icml.cc/Conferences/2020">ICML 2020</a></td>
+        <td>Our workshop, <a href="https://sites.google.com/view/whi2020/">Interpretability in Practice</a>, has been accepted to <a href="https://icml.cc/Conferences/2020">ICML 2020</a></td>
     </tr>
     <tr>
         <td valign="top"><strong>[Jan 2020]</strong></td>
