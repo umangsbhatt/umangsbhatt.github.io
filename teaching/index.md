@@ -8,8 +8,7 @@ comments: false
 
 Below is a list of courses for which I was a teaching assistant.
 
-### Carnegie Mellon University (2017-2019)
-
+**Carnegie Mellon University (2017-2019)**
 * Spring 2019: [Machine Learning for Engineers](https://www.andrew.cmu.edu/course/18-661/) - Masters (18-661) taught by [Gauri Joshi](https://www.andrew.cmu.edu/user/gaurij/)
 * Fall 2018: [Machine Learning](http://www.cs.cmu.edu/~pradeepr/courses/701/2018-fall/) - PhD (10-701) taught by [Ziv Bar-Joseph](http://www.cs.cmu.edu/~zivbj/) and [Pradeep Ravikumar](http://www.cs.cmu.edu/~pradeepr/)
 * Spring 2018: [Practical Data Science](http://www.datasciencecourse.org/) (15-388/15-688) taught by [Zico Kolter](http://zicokolter.com/)
