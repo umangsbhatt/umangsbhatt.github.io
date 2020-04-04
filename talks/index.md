@@ -12,6 +12,7 @@ Below is a list of research talks I have given organized by year.
 * Explainable Machine Learning in Deployment (QuantumBlack/McKinsey)
 * Explainable Machine Learning in Deployment (IBM/PAI XAI Convening)
 * Explainable Machine Learning in Deployment (ACM FAT\*)
+
 ----
 
 **2019**
@@ -21,6 +22,7 @@ Below is a list of research talks I have given organized by year.
 * Aggregating Feature-based Explanations (Cambridge MLG)
 * Aggregating Feature-based Explanations (CMU, ECE)
 * Aggregating Feature-based Explanations (AAAI Spring Symposium)
+
 ----
 
 **2018**
@@ -29,6 +31,7 @@ Below is a list of research talks I have given organized by year.
 * Neural Information Flow (CMU, ECE)
 * Maintaining the Humanity of Our Models (AAAI Spring Symposium)
 * Maintaining the Humanity of Our Models (CMU, ECE)
+
 ----
 
 **2017**
