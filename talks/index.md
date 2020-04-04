@@ -23,7 +23,7 @@ Below is a list of research talks I have given organized by year.
 
 #### 2018
 * Neural Information Flow (Element AI)
-* Diagnostic Model Explanations (AILA Symposium)
+* Aggregating Feature-based Explanations (AILA Symposium)
 * Neural Information Flow (CMU, ECE)
 * Maintaining the Humanity of Our Models (AAAI Spring Symposium)
 * Maintaining the Humanity of Our Models (CMU, ECE)
