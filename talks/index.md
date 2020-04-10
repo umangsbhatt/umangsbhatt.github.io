@@ -13,7 +13,7 @@ Below is a list of research talks I have given by year.
 **2020**
 * Explainable Machine Learning in Deployment (QuantumBlack/McKinsey - London, UK)
 * Explainable Machine Learning in Deployment (IBM/PAI XAI Convening - New York, NY)
-* Explainable Machine Learning in Deployment (ACM FAT\*, Barcelona, Spain)
+* Explainable Machine Learning in Deployment (ACM FAT\* - Barcelona, Spain)
 
 ----
 
