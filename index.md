@@ -40,7 +40,7 @@ I grew up in Basking Ridge, New Jersey, USA.
     </tr>
     <tr>
         <td valign="top"><strong>[Oct 2019]</strong></td>
-        <td>Joined <a href="http://mlg.eng.cam.ac.uk/">Cambridge MLG</a> as a Ph.D. Student, moving across the pond in the process &#128579;
+        <td>Joined <a href="http://mlg.eng.cam.ac.uk/">Cambridge MLG</a> as a Ph.D. Student, moving across the pond in the process &#128230;
         </td>
     </tr>
     <tr>
@@ -50,7 +50,7 @@ I grew up in Basking Ridge, New Jersey, USA.
     </tr>
     <tr>
         <td valign="top"><strong>[May 2019]</strong></td>
-        <td>Finished my BS and MS at <a href="http://www.cmu.edu/">Carnegie Mellon</a> &#128522;
+        <td>Finished my BS and MS at <a href="http://www.cmu.edu/">Carnegie Mellon</a> &#127891;
         </td>
     </tr>
 </table>
