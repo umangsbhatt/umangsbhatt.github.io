@@ -23,6 +23,10 @@ I grew up in Basking Ridge, New Jersey, USA.
     <col width="15%">
     <col width="85%">
     <tr>
+        <td valign="top"><strong>[Apr 2020]</strong></td>
+        <td>One paper accepted to <a href="https://ijcai20.org/">IJCAI 2020</a></td>
+    </tr>
+    <tr>
         <td valign="top"><strong>[Mar 2020]</strong></td>
         <td>Our workshop, <a href="https://sites.google.com/view/whi2020/">Interpretability in Practice</a>, has been accepted to <a href="https://icml.cc/Conferences/2020">ICML 2020</a></td>
     </tr>
@@ -36,7 +40,7 @@ I grew up in Basking Ridge, New Jersey, USA.
     </tr>
     <tr>
         <td valign="top"><strong>[Nov 2019]</strong></td>
-        <td>Our paper on <a href="https://arxiv.org/abs/1909.06342">Explainable Machine Learning in Deployment</a> got accepted to <a href="https://facctconference.org/2020/index.html">FAT&#42; 2020</a></td>
+        <td>Our paper on <a href="https://arxiv.org/abs/1909.06342">Explainable Machine Learning in Deployment</a> has been accepted to <a href="https://facctconference.org/2020/index.html">FAT&#42; 2020</a></td>
     </tr>
     <tr>
         <td valign="top"><strong>[Oct 2019]</strong></td>

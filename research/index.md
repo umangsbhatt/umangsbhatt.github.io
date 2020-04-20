@@ -11,6 +11,15 @@ I am deeply interested in developing productive human-AI teams where humans are 
 
 ### Conference Publications (Refereed and Archived)
 
+1. **Umang Bhatt**, Adrian Weller, Jos&eacute; M. F. Moura
+[Evaluating and Aggregating Feature-based Model Explanations]()   
+*International Joint Conference on Artificial Intelligence (IJCAI), 2020.*   
+<!-- [<button type="button" class="btn btn-info">Paper</button>](https://dl.acm.org/doi/abs/10.1145/3351095.3375624)
+[<button type="button" class="btn btn-success">Poster</button>](/reports/hcml.pdf){:target="_blank"} 
+[<button type="button" class="btn">Blog</button>](https://www.partnershiponai.org/xai-in-practice/)
+[<button type="button" class="btn btn-warning">Slides</button>](/reports/fat_slides.pdf){:target="_blank"} 
+[<button type="button" class="btn btn-vid">Video</button>](https://www.youtube.com/watch?v=Hofl4uwxtPA) -->
+
 1. **Umang Bhatt**, Alice Xiang, Shubham Sharma, Adrian Weller, Ankur Taly, Yunhan Jia, Joydeep Ghosh, Ruchir Puri, Jos&eacute; M. F. Moura, Peter Eckersley  
 [Explainable Machine Learning in Deployment]()   
 *ACM Conference on Fairness, Accountability, and Transparency (FAT\*), 2020.*   
