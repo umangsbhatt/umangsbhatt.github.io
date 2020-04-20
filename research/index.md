@@ -11,7 +11,7 @@ I am deeply interested in developing productive human-AI teams where humans are 
 
 ### Conference Publications (Refereed and Archived)
 
-1. **Umang Bhatt**, Adrian Weller, Jos&eacute; M. F. Moura
+1. **Umang Bhatt**, Adrian Weller, Jos&eacute; M. F. Moura    
 [Evaluating and Aggregating Feature-based Model Explanations]()   
 *International Joint Conference on Artificial Intelligence (IJCAI), 2020.*   
 <!-- [<button type="button" class="btn btn-info">Paper</button>](https://dl.acm.org/doi/abs/10.1145/3351095.3375624)
