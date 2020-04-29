@@ -64,11 +64,14 @@ I am deeply interested in developing productive human-AI teams where humans are 
 1. Javier Antoran, **Umang Bhatt**, Jose Miguel Hernandez-Lobato, Adrian Weller, Tameem Adel                
 [Getting a CLUE: A Method for Explaining Uncertainty Estimates]()      
 *To appear in ICLR Workshop on Machine Learning in Real Life (ML-IRL), 2020.*         
-**Selected Oral Presentation**          
+**Selected Oral Presentation**  
+[<button type="button" class="btn btn-info">Paper</button>](https://drive.google.com/file/d/1chl0ooYK_ZJUSSRS22IwzMACvJYk7Nkv/view)        
 
 1. **Umang Bhatt**, Adrian Weller, Muhammad Bilal Zafar, Krishna Gummadi                 
 [Counterfactual Accuracies of Alternative Models]()         
 *To appear in ICLR Workshop on Machine Learning in Real Life (ML-IRL), 2020.*   
+[<button type="button" class="btn btn-info">Paper</button>](https://drive.google.com/file/d/1zqtr1xV7MSMtU9j83N6kq1mYkgF3sN20/view)   
+[<button type="button" class="btn btn-warning">Slides</button>](/reports/cfa_iclr.pdf){:target="_blank"}   
 
 1. Botty Dimanov, **Umang Bhatt**, Mateja Jamnik, Adrian Weller   
 [Models can be learned to conceal unfairness from explanation methods]()   
