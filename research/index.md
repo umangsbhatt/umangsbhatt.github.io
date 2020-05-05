@@ -14,11 +14,7 @@ I am deeply interested in developing productive human-AI teams where humans are 
 1. **Umang Bhatt**, Adrian Weller, Jos&eacute; M. F. Moura    
 [Evaluating and Aggregating Feature-based Model Explanations]()   
 *International Joint Conference on Artificial Intelligence (IJCAI), 2020.*   
-[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/2005.00631) 
-<!-- [<button type="button" class="btn btn-success">Poster</button>](/reports/hcml.pdf){:target="_blank"} 
-[<button type="button" class="btn">Blog</button>](https://www.partnershiponai.org/xai-in-practice/)
-[<button type="button" class="btn btn-warning">Slides</button>](/reports/fat_slides.pdf){:target="_blank"} 
-[<button type="button" class="btn btn-vid">Video</button>](https://www.youtube.com/watch?v=Hofl4uwxtPA) -->
+[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/2005.00631)   
 
 1. **Umang Bhatt**, Alice Xiang, Shubham Sharma, Adrian Weller, Ankur Taly, Yunhan Jia, Joydeep Ghosh, Ruchir Puri, Jos&eacute; M. F. Moura, Peter Eckersley  
 [Explainable Machine Learning in Deployment]()   
@@ -27,25 +23,25 @@ I am deeply interested in developing productive human-AI teams where humans are 
 [<button type="button" class="btn btn-success">Poster</button>](/reports/hcml.pdf){:target="_blank"} 
 [<button type="button" class="btn">Blog</button>](https://www.partnershiponai.org/xai-in-practice/)
 [<button type="button" class="btn btn-warning">Slides</button>](/reports/fat_slides.pdf){:target="_blank"} 
-[<button type="button" class="btn btn-vid">Video</button>](https://www.youtube.com/watch?v=Hofl4uwxtPA)
+[<button type="button" class="btn btn-vid">Video</button>](https://www.youtube.com/watch?v=Hofl4uwxtPA)   
 
 1. Botty Dimanov, **Umang Bhatt**, Mateja Jamnik, Adrian Weller   
 [You shouldn't trust me: Learning models which conceal unfairness from multiple explanation methods]()    
 *European Conference on Artificial Intelligence (ECAI), 2020.*  
-[<button type="button" class="btn btn-info">Paper</button>](/reports/ecai.pdf){:target="_blank"} 
+[<button type="button" class="btn btn-info">Paper</button>](/reports/ecai.pdf){:target="_blank"}   
 
 1. Brian Davis\*, **Umang Bhatt**\*, Kartikeya Bhardwaj\*, Radu Marculescu, Jos&eacute; M. F. Moura   
 \* equal contribution   
 [On Network Science and Mutual Information for Explaining Deep Neural Networks]()   
 *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2020.*   
-[<button type="button" class="btn btn-info">Paper</button>](https://ieeexplore.ieee.org/document/9053078)   
+[<button type="button" class="btn btn-info">Paper</button>](https://ieeexplore.ieee.org/document/9053078)    
 
 1. Aaron Roth, Samantha Reig, **Umang Bhatt**, Jonathan Shulgach, Tamara Amin, Afsaneh Doryab, Fei Fang, Manuela Veloso   
 [A Robot’s Expressive Language Affects Human Strategy and Perceptions in a Competitive Game]()    
 *IEEE International Conference on Robot and Human Interactive Communication (ROMAN), 2019.*    
 **Oral Presentation**   
 [<button type="button" class="btn btn-info">Paper</button>](https://ieeexplore.ieee.org/document/8956412)
-[<button type="button" class="btn">Article</button>](https://www.cmu.edu/news/stories/archives/2019/november/robot-trash-talk.html)  
+[<button type="button" class="btn">Article</button>](https://www.cmu.edu/news/stories/archives/2019/november/robot-trash-talk.html)    
 
 1. **Umang Bhatt**\*, Edgar Xi\*, Shouvik Mani\*, Zico Kolter   
 \* equal contribution  
@@ -55,7 +51,7 @@ I am deeply interested in developing productive human-AI teams where humans are 
 [<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/1710.02595)
 [<button type="button" class="btn btn-danger">Code</button>](https://github.com/shouvikmani/Intelligent-Pothole-Detection)
 [<button type="button" class="btn">Blog</button>](https://medium.com/@percepsense/intelligent-pothole-detection-879ef635dd38)
-[<button type="button" class="btn btn-vid">Video</button>](https://www.youtube.com/watch?v=w6RMC_io--U&feature=emb_logo)  
+[<button type="button" class="btn btn-vid">Video</button>](https://www.youtube.com/watch?v=w6RMC_io--U&feature=emb_logo)     
 
 -----
 
@@ -71,26 +67,26 @@ I am deeply interested in developing productive human-AI teams where humans are 
 [Counterfactual Accuracies of Alternative Models]()         
 *ICLR Workshop on Machine Learning in Real Life (ML-IRL), 2020.*   
 [<button type="button" class="btn btn-info">Paper</button>](/reports/ML_IRL_20_CFA.pdf){:target="_blank"}
-[<button type="button" class="btn btn-warning">Slides</button>](/reports/cfa_iclr.pdf){:target="_blank"}   
+[<button type="button" class="btn btn-warning">Slides</button>](/reports/cfa_iclr.pdf){:target="_blank"}     
 
 1. Botty Dimanov, **Umang Bhatt**, Mateja Jamnik, Adrian Weller   
 [Models can be learned to conceal unfairness from explanation methods]()   
 *AAAI Workshop on Safe AI, 2020.*    
 **Selected Oral Presentation**     
 *AAAI Workshop on Evaluating Evaluation of AI Systems, 2020.*        
-[<button type="button" class="btn btn-info">Paper</button>](/reports/ecai.pdf){:target="_blank"} 
+[<button type="button" class="btn btn-info">Paper</button>](/reports/ecai.pdf){:target="_blank"}   
 
 1. **Umang Bhatt**, Alice Xiang, Shubham Sharma, Adrian Weller, Ankur Taly, Yunhan Jia, Joydeep Ghosh, Ruchir Puri, Jos&eacute; M. F. Moura, Peter Eckersley  
 [Explainable Machine Learning in Deployment]()    
 *NeurIPS Workshop on Human-Centric Machine Learning (HCML), 2019.*    
 [<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/1909.06342)
-[<button type="button" class="btn btn-success">Poster</button>](/reports/hcml.pdf){:target="_blank"} 
+[<button type="button" class="btn btn-success">Poster</button>](/reports/hcml.pdf){:target="_blank"}   
 
 1. **Umang Bhatt**, Brian Davis, Jos&eacute; M. F. Moura     
 [Diagnostic Model Explanations: A Medical Narrative]()    
 *AAAI Spring Symposium on Interpretable AI for Well-being, 2019.*    
 **Best Paper Award**    
-[<button type="button" class="btn btn-info">Paper</button>](/reports/iaw.pdf){:target="_blank"}  
+[<button type="button" class="btn btn-info">Paper</button>](/reports/iaw.pdf){:target="_blank"}    
 
 1. Brian Davis\*, **Umang Bhatt**\*, Kartikeya Bhardwaj\*, Radu Marculescu, Jos&eacute; M. F. Moura   
 \* equal contribution      
