@@ -14,8 +14,8 @@ I am deeply interested in developing productive human-AI teams where humans are 
 1. **Umang Bhatt**, Adrian Weller, Jos&eacute; M. F. Moura    
 [Evaluating and Aggregating Feature-based Model Explanations]()   
 *International Joint Conference on Artificial Intelligence (IJCAI), 2020.*   
-<!-- [<button type="button" class="btn btn-info">Paper</button>](https://dl.acm.org/doi/abs/10.1145/3351095.3375624)
-[<button type="button" class="btn btn-success">Poster</button>](/reports/hcml.pdf){:target="_blank"} 
+[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/2005.00631) 
+<!-- [<button type="button" class="btn btn-success">Poster</button>](/reports/hcml.pdf){:target="_blank"} 
 [<button type="button" class="btn">Blog</button>](https://www.partnershiponai.org/xai-in-practice/)
 [<button type="button" class="btn btn-warning">Slides</button>](/reports/fat_slides.pdf){:target="_blank"} 
 [<button type="button" class="btn btn-vid">Video</button>](https://www.youtube.com/watch?v=Hofl4uwxtPA) -->
@@ -45,7 +45,7 @@ I am deeply interested in developing productive human-AI teams where humans are 
 *IEEE International Conference on Robot and Human Interactive Communication (ROMAN), 2019.*    
 **Oral Presentation**   
 [<button type="button" class="btn btn-info">Paper</button>](https://ieeexplore.ieee.org/document/8956412)
-[<button type="button" class="btn">Article</button>](https://www.cmu.edu/news/stories/archives/2019/november/robot-trash-talk.html)
+[<button type="button" class="btn">Article</button>](https://www.cmu.edu/news/stories/archives/2019/november/robot-trash-talk.html)  
 
 1. **Umang Bhatt**\*, Edgar Xi\*, Shouvik Mani\*, Zico Kolter   
 \* equal contribution  
@@ -53,9 +53,9 @@ I am deeply interested in developing productive human-AI teams where humans are 
 *Bloomberg Data for Good Exchange (D4GX), 2017.*    
 *Talk at UChicago Data Science for Social Good (DSSG), 2017.*    
 [<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/1710.02595)
-[<button type="button" class="btn btn-danger">Code</button>](https://github.com/shouvikmani/Intelligent-Pothole-Detection) 
+[<button type="button" class="btn btn-danger">Code</button>](https://github.com/shouvikmani/Intelligent-Pothole-Detection)
 [<button type="button" class="btn">Blog</button>](https://medium.com/@percepsense/intelligent-pothole-detection-879ef635dd38)
-[<button type="button" class="btn btn-vid">Video</button>](https://www.youtube.com/watch?v=w6RMC_io--U&feature=emb_logo)
+[<button type="button" class="btn btn-vid">Video</button>](https://www.youtube.com/watch?v=w6RMC_io--U&feature=emb_logo)  
 
 -----
 
@@ -65,12 +65,12 @@ I am deeply interested in developing productive human-AI teams where humans are 
 [Getting a CLUE: A Method for Explaining Uncertainty Estimates]()      
 *ICLR Workshop on Machine Learning in Real Life (ML-IRL), 2020.*         
 **Selected Oral Presentation**  
-[<button type="button" class="btn btn-info">Paper</button>](https://drive.google.com/file/d/1chl0ooYK_ZJUSSRS22IwzMACvJYk7Nkv/view)        
+[<button type="button" class="btn btn-info">Paper</button>](/reports/ML_IRL_20_CLUE.pdf){:target="_blank"}          
 
 1. **Umang Bhatt**, Adrian Weller, Muhammad Bilal Zafar, Krishna Gummadi                 
 [Counterfactual Accuracies of Alternative Models]()         
 *ICLR Workshop on Machine Learning in Real Life (ML-IRL), 2020.*   
-[<button type="button" class="btn btn-info">Paper</button>](https://drive.google.com/file/d/1zqtr1xV7MSMtU9j83N6kq1mYkgF3sN20/view)
+[<button type="button" class="btn btn-info">Paper</button>](/reports/ML_IRL_20_CFA.pdf){:target="_blank"}
 [<button type="button" class="btn btn-warning">Slides</button>](/reports/cfa_iclr.pdf){:target="_blank"}   
 
 1. Botty Dimanov, **Umang Bhatt**, Mateja Jamnik, Adrian Weller   
@@ -116,7 +116,7 @@ I am deeply interested in developing productive human-AI teams where humans are 
 [The Impact of Humanoid Affect Expression on Human Behavior in Game-Theoretic Setting]()      
 *IJCAI Workshop on Humanizing Artificial Intelligence, 2018.*     
 **Oral Presentation**   
-[<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/1806.03671)
+[<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/1806.03671) 
 
 1. **Umang Bhatt**  
 [Maintaining the Humanity of Our Models]()    
