@@ -1,7 +1,7 @@
 # Site wide configuration
 
 title: Umang Bhatt         
-locale:           en_US
+locale: en_US
 url: https://umangsbhatt.github.io
 # Jekyll configuration
 

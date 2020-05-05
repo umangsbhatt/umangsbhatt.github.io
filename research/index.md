@@ -7,7 +7,7 @@ comments: false
 ---
 
 My interests broadly lie in the fields of machine learning, Bayesian statistics, and artificial intelligence.
-I am deeply interested in developing productive human-AI teams where humans are provide explanations for model behavior and are made aware of model uncertainty. 
+I am interested in developing productive human-AI teams where humans are provide explanations for model behavior and are made aware of model uncertainty. 
 
 ### Conference Publications (Refereed and Archived)
 
