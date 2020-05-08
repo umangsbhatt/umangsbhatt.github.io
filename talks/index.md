@@ -18,7 +18,7 @@ Below is a list of research talks I have given by year.
 ----
 
 **2019**
-* Explainable Machine Learning in Deployment (PAI All Partners Meeting - New York, NY)
+* Explainable Machine Learning in Deployment (PAI All Partners Meeting - London, UK)
 * Aggregating Feature-based Explanations (PAI - San Francisco, CA)
 * Aggregating Feature-based Explanations (Fiddler Labs - Palo Alto, CA)
 * Aggregating Feature-based Explanations (Cambridge MLG - Cambridge, UK)
@@ -29,7 +29,7 @@ Below is a list of research talks I have given by year.
 
 **2018**
 * Neural Information Flow (Element AI - Toronto, Canada)
-* Aggregating Feature-based Explanations (AILA Symposium - Pasadena, CA)
+* Maintaining the Humanity of Our Models (AILA Symposium - Pasadena, CA)
 * Neural Information Flow (CMU, ECE - Pittsburgh, PA)
 * Maintaining the Humanity of Our Models (AAAI Spring Symposium - Stanford, CA)
 * Maintaining the Humanity of Our Models (CMU, ECE - Pittsburgh, PA)

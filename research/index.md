@@ -34,7 +34,8 @@ I am interested in developing productive human-AI teams where humans are provide
 \* equal contribution   
 [On Network Science and Mutual Information for Explaining Deep Neural Networks]()   
 *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2020.*   
-[<button type="button" class="btn btn-info">Paper</button>](https://ieeexplore.ieee.org/document/9053078)    
+[<button type="button" class="btn btn-info">Paper</button>](https://ieeexplore.ieee.org/document/9053078)
+[<button type="button" class="btn btn-vid">Video</button>](https://2020.ieeeicassp-virtual.org/presentation/lecture/network-science-and-mutual-information-explaining-deep-neural-networks)      
 
 1. Aaron Roth, Samantha Reig, **Umang Bhatt**, Jonathan Shulgach, Tamara Amin, Afsaneh Doryab, Fei Fang, Manuela Veloso   
 [A Robot’s Expressive Language Affects Human Strategy and Perceptions in a Competitive Game]()    
