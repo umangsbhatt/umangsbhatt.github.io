@@ -74,7 +74,6 @@ I am interested in developing productive human-AI teams where humans are provide
 [Models can be learned to conceal unfairness from explanation methods]()   
 *AAAI Workshop on Safe AI, 2020.*    
 **Selected Oral Presentation**     
-*AAAI Workshop on Evaluating Evaluation of AI Systems, 2020.*        
 [<button type="button" class="btn btn-info">Paper</button>](/reports/ecai.pdf){:target="_blank"}   
 
 1. **Umang Bhatt**, Alice Xiang, Shubham Sharma, Adrian Weller, Ankur Taly, Yunhan Jia, Joydeep Ghosh, Ruchir Puri, Jos&eacute; M. F. Moura, Peter Eckersley  

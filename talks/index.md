@@ -6,39 +6,35 @@ modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 ---
 
-Below is a list of research talks I have given by year.
+Below is a list of research talks I have given.
 
 ----
 
-**2020**
-* Explainable Machine Learning in Deployment (QuantumBlack/McKinsey - London, UK)
-* Explainable Machine Learning in Deployment (IBM/PAI XAI Convening - New York, NY)
-* Explainable Machine Learning in Deployment (ACM FAT\* - Barcelona, Spain)
+"Explainable Machine Learning in Deployment"
+* QuantumBlack (McKinsey) AI Seminar. London, UK. May 2020.
+* IBM+Partnership on AI Explainable AI Workshop. New York, NY. February 2020.
+* ACM FAT\*. Barcelona, Spain. January 2020.
+* Partnership on AI, All Partners Meeting. London, UK. September 2019.
 
-----
+"Aggregating Feature-based Explanations"
+* Partnership on AI. San Francisco, CA. July 2019.
+* Fiddler Labs. Palo Alto, CA. May 2019.
+* University of Cambridge. Cambridge, UK. April 2019.
+* AAAI Spring Symposium on Interpretable AI. Stanford, CA. March 2019.
+* Carnegie Mellon University. Pittsburgh, PA. March 2019.
 
-**2019**
-* Explainable Machine Learning in Deployment (PAI All Partners Meeting - London, UK)
-* Aggregating Feature-based Explanations (PAI - San Francisco, CA)
-* Aggregating Feature-based Explanations (Fiddler Labs - Palo Alto, CA)
-* Aggregating Feature-based Explanations (Cambridge MLG - Cambridge, UK)
-* Aggregating Feature-based Explanations (CMU, ECE - Pittsburgh, PA)
-* Aggregating Feature-based Explanations (AAAI Spring Symposium - Stanford, CA)
+"Neural Information Flow"
+* Element AI. Toronto, Canada. December 2018.
+* Carnegie Mellon University. Pittsburgh, PA. November 2018.
 
-----
+"Maintaining the Humanity of Our Models"
+* AILA Symposium on Creating a Fair and Ethical Future. Pasadena, CA. October 2018.
+* AAAI Spring Symposium on AI and Society. Stanford, CA. March 2018.
+* Carnegie Mellon University. Pittsburgh, PA. February 2018.
 
-**2018**
-* Neural Information Flow (Element AI - Toronto, Canada)
-* Maintaining the Humanity of Our Models (AILA Symposium - Pasadena, CA)
-* Neural Information Flow (CMU, ECE - Pittsburgh, PA)
-* Maintaining the Humanity of Our Models (AAAI Spring Symposium - Stanford, CA)
-* Maintaining the Humanity of Our Models (CMU, ECE - Pittsburgh, PA)
-
-----
-
-**2017**
-* Intelligent Pothole Detection (UChicago, DSSG - Chicago, IL)
-* Intelligent Pothole Detection (Bloomberg, D4GX - New York, NY)
-* Intelligent Pothole Detection (CMU, CS - Pittsburgh, PA)
+"Intelligent Pothole Detection"
+* University of Chicago, Data Science for Social Good. Chicago, IL. October 2017.
+* Bloomberg, Data for Good Exchange. New York, NY. September 2017.
+* Carnegie Mellon University. Pittsburgh, PA. September 2017.
 
 
