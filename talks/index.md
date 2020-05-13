@@ -16,6 +16,8 @@ Below is a list of research talks I have given.
 * ACM FAT\*. Barcelona, Spain. January 2020.
 * Partnership on AI, All Partners Meeting. London, UK. September 2019.
 
+----
+
 "Aggregating Feature-based Explanations"
 * Partnership on AI. San Francisco, CA. July 2019.
 * Fiddler Labs. Palo Alto, CA. May 2019.
@@ -23,14 +25,20 @@ Below is a list of research talks I have given.
 * AAAI Spring Symposium on Interpretable AI. Stanford, CA. March 2019.
 * Carnegie Mellon University. Pittsburgh, PA. March 2019.
 
+----
+
 "Neural Information Flow"
 * Element AI. Toronto, Canada. December 2018.
 * Carnegie Mellon University. Pittsburgh, PA. November 2018.
+
+----
 
 "Maintaining the Humanity of Our Models"
 * AILA Symposium on Creating a Fair and Ethical Future. Pasadena, CA. October 2018.
 * AAAI Spring Symposium on AI and Society. Stanford, CA. March 2018.
 * Carnegie Mellon University. Pittsburgh, PA. February 2018.
+
+----
 
 "Intelligent Pothole Detection"
 * University of Chicago, Data Science for Social Good. Chicago, IL. October 2017.
