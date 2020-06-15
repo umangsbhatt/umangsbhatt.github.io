@@ -10,7 +10,7 @@ Hey there!
 
 I am a Ph.D. student in the [Machine Learning Group](http://mlg.eng.cam.ac.uk/) at the [University of Cambridge](https://www.cam.ac.uk/), where I am supervised by [Adrian Weller](http://mlg.eng.cam.ac.uk/adrian/). My research interests lie in statistical machine learning, explainable artificial intelligence, and human-machine collaboration.
 
-I am funded by the [Leverhulme Center for the Future of Intelligence](http://lcfi.ac.uk/) (Trust and Transparency Initiative) with generous donations from DeepMind and Leverhulme Trust. I am also a Research Fellow at the [Partnership on AI](https://www.partnershiponai.org/). 
+I am funded by the [Leverhulme Center for the Future of Intelligence](http://lcfi.ac.uk/) (Trust and Transparency Initiative) with generous donations from DeepMind and Leverhulme Trust. I am also a Research Fellow at the [Partnership on AI](https://www.partnershiponai.org/). Starting January 2021, I will be spending some time at [The Alan Turing Institute](https://www.turing.ac.uk/) as an Enrichment Student.
 
 I completed a joint bachelors-masters in [Electrical and Computer Engineering](http://www.ece.cmu.edu/) at [Carnegie Mellon University](http://www.cmu.edu/) working with [Jos&eacute; Moura](http://users.ece.cmu.edu/~moura/). During four wonderful years in Pittsburgh, I collaborated with [Pradeep Ravikumar](http://www.cs.cmu.edu/~pradeepr/) on explainable AI, [Zico Kolter](http://zicokolter.com/) on automated pothole detection, [Fei Fang](https://feifang.info/) and [Manuela Veloso](https://www.cs.cmu.edu/~mmv/) on robot affect expression in competitive settings, and [Radu Marculescu](http://users.ece.utexas.edu/~radum/) on network science for deep learning. 
 
@@ -24,19 +24,19 @@ I grew up in Basking Ridge, New Jersey, USA.
     <col width="85%">
     <tr>
         <td valign="top"><strong>[Apr 2020]</strong></td>
-        <td>One <a href="https://arxiv.org/abs/2005.00631">paper</a> accepted to <a href="https://ijcai20.org/">IJCAI 2020</a></td>
+        <td>Our <a href="https://arxiv.org/abs/2005.00631">paper</a> on evaluating explanation methods was accepted to <a href="https://ijcai20.org/">IJCAI 2020</a></td>
     </tr>
     <tr>
         <td valign="top"><strong>[Mar 2020]</strong></td>
-        <td>Our workshop, <a href="https://sites.google.com/view/whi2020/">Interpretability in Practice</a>, has been accepted to <a href="https://icml.cc/Conferences/2020">ICML 2020</a></td>
+        <td>Co-organizing a workshop, <a href="https://sites.google.com/view/whi2020/">Human Interpretability in ML</a>, at <a href="https://icml.cc/Conferences/2020">ICML 2020</a></td>
     </tr>
     <tr>
         <td valign="top"><strong>[Jan 2020]</strong></td>
-        <td>Our paper, <a href="https://arxiv.org/abs/1901.08557">On Network Science and Mutual Information for Explaining Deep Neural Networks</a>, has been accepted to <a href="https://2020.ieeeicassp.org/">ICASSP 2020</a></td>
+        <td><a href="https://arxiv.org/abs/1901.08557">On Network Science and Mutual Information for Explaining Deep Neural Networks</a> has been accepted to <a href="https://2020.ieeeicassp.org/">ICASSP 2020</a></td>
     </tr>
     <tr>
         <td valign="top"><strong>[Jan 2020]</strong></td>
-        <td>One <a href="https://umangsbhatt.github.io/reports/ecai.pdf">paper</a> accepted to <a href="http://ecai2020.eu/">ECAI 2020</a></td>
+        <td>One <a href="https://umangsbhatt.github.io/reports/ecai.pdf">paper</a> on concealing model unfairness from explanation methods accepted to <a href="http://ecai2020.eu/">ECAI 2020</a></td>
     </tr>
     <tr>
         <td valign="top"><strong>[Nov 2019]</strong></td>
