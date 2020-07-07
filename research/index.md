@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Research
-tags: [research, umang, bhatt, cambridge, cmu, graduate]
+tags: [research, umang, bhatt, cambridge, cmu, graduate, explainability, interpretability, explainable AI]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 ---
 
 My interests broadly lie in the fields of machine learning, Bayesian statistics, and artificial intelligence.
-I am interested in developing productive human-AI teams where humans are provide explanations for model behavior and are made aware of model uncertainty. 
+I am interested in developing productive human-AI teams where humans are provided explanations of model behavior and are made aware of predictive uncertainty. 
 
 ### Conference Publications (Refereed and Archived)
 
@@ -28,7 +28,7 @@ I am interested in developing productive human-AI teams where humans are provide
 1. Botty Dimanov, **Umang Bhatt**, Mateja Jamnik, Adrian Weller   
 [You shouldn't trust me: Learning models which conceal unfairness from multiple explanation methods]()    
 *European Conference on Artificial Intelligence (ECAI), 2020.*  
-[<button type="button" class="btn btn-info">Paper</button>](/reports/ecai.pdf){:target="_blank"}   
+[<button type="button" class="btn btn-info">Paper</button>](http://ecai2020.eu/papers/72_paper.pdf)    
 
 1. Brian Davis\*, **Umang Bhatt**\*, Kartikeya Bhardwaj\*, Radu Marculescu, Jos&eacute; M. F. Moura   
 \* equal contribution   
@@ -42,14 +42,14 @@ I am interested in developing productive human-AI teams where humans are provide
 *IEEE International Conference on Robot and Human Interactive Communication (ROMAN), 2019.*    
 **Oral Presentation**   
 [<button type="button" class="btn btn-info">Paper</button>](https://ieeexplore.ieee.org/document/8956412)
-[<button type="button" class="btn">Article</button>](https://www.cmu.edu/news/stories/archives/2019/november/robot-trash-talk.html)    
+[<button type="button" class="btn">Blog</button>](https://www.cmu.edu/news/stories/archives/2019/november/robot-trash-talk.html)    
 
 1. **Umang Bhatt**\*, Edgar Xi\*, Shouvik Mani\*, Zico Kolter   
 \* equal contribution  
 [Intelligent Pothole Detection and Road Condition Assessment]()   
 *Bloomberg Data for Good Exchange (D4GX), 2017.*    
 *Talk at UChicago Data Science for Social Good (DSSG), 2017.*    
-[<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/1710.02595)
+[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/1710.02595)
 [<button type="button" class="btn btn-danger">Code</button>](https://github.com/shouvikmani/Intelligent-Pothole-Detection)
 [<button type="button" class="btn">Blog</button>](https://medium.com/@percepsense/intelligent-pothole-detection-879ef635dd38)
 [<button type="button" class="btn btn-vid">Video</button>](https://www.youtube.com/watch?v=w6RMC_io--U&feature=emb_logo)     
@@ -57,6 +57,10 @@ I am interested in developing productive human-AI teams where humans are provide
 -----
 
 ### Workshop Publications (Refereed)
+
+1. **Umang Bhatt**, McKane Andrus, Adrian Weller, Alice Xiang                
+[Machine Learning Explainability for External Stakeholders]()      
+*ICML Workshop on Extending Explainable AI: Beyond Deep Models and Classifiers*         
 
 1. Javier Antoran, **Umang Bhatt**, Jose Miguel Hernandez-Lobato, Adrian Weller, Tameem Adel                
 [Getting a CLUE: A Method for Explaining Uncertainty Estimates]()      
@@ -79,7 +83,7 @@ I am interested in developing productive human-AI teams where humans are provide
 1. **Umang Bhatt**, Alice Xiang, Shubham Sharma, Adrian Weller, Ankur Taly, Yunhan Jia, Joydeep Ghosh, Ruchir Puri, Jos&eacute; M. F. Moura, Peter Eckersley  
 [Explainable Machine Learning in Deployment]()    
 *NeurIPS Workshop on Human-Centric Machine Learning (HCML), 2019.*    
-[<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/1909.06342)
+[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/1909.06342)
 [<button type="button" class="btn btn-success">Poster</button>](/reports/hcml.pdf){:target="_blank"}   
 
 1. **Umang Bhatt**, Brian Davis, Jos&eacute; M. F. Moura     
@@ -92,13 +96,13 @@ I am interested in developing productive human-AI teams where humans are provide
 \* equal contribution      
 [NIF: A Framework for Quantifying Neural Information Flow in Deep Networks]()      
 *AAAI Workshop on Network Interpretability for Deep Learning, 2019.*     
-[<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/1901.08557)
+[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/1901.08557)
 [<button type="button" class="btn btn-success">Poster</button>](/reports/nif.pdf){:target="_blank"}  
 
 1. **Umang Bhatt**, Pradeep Ravikumar, Jos&eacute; M. F. Moura   
 [Towards Aggregating Weighted Feature Attributions]()    
 *AAAI Workshop on Network Interpretability for Deep Learning, 2019.*    
-[<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/1901.10040)
+[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/1901.10040)
 [<button type="button" class="btn btn-success">Poster</button>](/reports/ava_wrkshp.pdf){:target="_blank"} 
 
 1. **Umang Bhatt**, Pradeep Ravikumar, Jos&eacute; M. F. Moura   
@@ -112,7 +116,7 @@ I am interested in developing productive human-AI teams where humans are provide
 [The Impact of Humanoid Affect Expression on Human Behavior in Game-Theoretic Setting]()      
 *IJCAI Workshop on Humanizing Artificial Intelligence, 2018.*     
 **Oral Presentation**   
-[<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/1806.03671) 
+[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/1806.03671) 
 
 1. **Umang Bhatt**  
 [Maintaining the Humanity of Our Models]()    
