@@ -60,12 +60,13 @@ I am interested in developing productive human-AI teams where humans are provide
 
 1. **Umang Bhatt**, McKane Andrus, Adrian Weller, Alice Xiang                
 [Machine Learning Explainability for External Stakeholders]()      
-*ICML Workshop on Extending Explainable AI: Beyond Deep Models and Classifiers*         
+*ICML Workshop on Extending Explainable AI: Beyond Deep Models and Classifiers, 2020.*   
+*ICML Workshop on Human Interpretability, 2020* **(Spotlight Presentation)**    
+[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/2007.05408)   
 
 1. Javier Antoran, **Umang Bhatt**, Jose Miguel Hernandez-Lobato, Adrian Weller, Tameem Adel                
 [Getting a CLUE: A Method for Explaining Uncertainty Estimates]()      
-*ICLR Workshop on Machine Learning in Real Life (ML-IRL), 2020.*         
-**Selected Oral Presentation**  
+*ICLR Workshop on Machine Learning in Real Life (ML-IRL), 2020.* **(Selected Oral Presentation)**  
 [<button type="button" class="btn btn-info">Paper</button>](/reports/ML_IRL_20_CLUE.pdf){:target="_blank"}          
 
 1. **Umang Bhatt**, Adrian Weller, Muhammad Bilal Zafar, Krishna Gummadi                 
@@ -76,8 +77,7 @@ I am interested in developing productive human-AI teams where humans are provide
 
 1. Botty Dimanov, **Umang Bhatt**, Mateja Jamnik, Adrian Weller   
 [Models can be learned to conceal unfairness from explanation methods]()   
-*AAAI Workshop on Safe AI, 2020.*    
-**Selected Oral Presentation**     
+*AAAI Workshop on Safe AI, 2020.* **(Selected Oral Presentation)**     
 [<button type="button" class="btn btn-info">Paper</button>](/reports/ecai.pdf){:target="_blank"}   
 
 1. **Umang Bhatt**, Alice Xiang, Shubham Sharma, Adrian Weller, Ankur Taly, Yunhan Jia, Joydeep Ghosh, Ruchir Puri, Jos&eacute; M. F. Moura, Peter Eckersley  
@@ -114,8 +114,7 @@ I am interested in developing productive human-AI teams where humans are provide
 1. Aaron Roth\*, **Umang Bhatt**\*, Tamara Amin\*, Afsaneh Doryab, Fei Fang, Manuela Veloso  
 \* equal contribution   
 [The Impact of Humanoid Affect Expression on Human Behavior in Game-Theoretic Setting]()      
-*IJCAI Workshop on Humanizing Artificial Intelligence, 2018.*     
-**Oral Presentation**   
+*IJCAI Workshop on Humanizing Artificial Intelligence, 2018.* **(Selected Oral Presentation)**   
 [<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/1806.03671) 
 
 1. **Umang Bhatt**  
