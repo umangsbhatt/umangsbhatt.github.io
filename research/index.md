@@ -61,6 +61,7 @@ I am interested in developing productive human-AI teams where humans are provide
 [Machine Learning Explainability for External Stakeholders]()      
 *ICML Workshop on Extending Explainable AI: Beyond Deep Models and Classifiers, 2020.*   
 *ICML Workshop on Human Interpretability, 2020* **(Spotlight Presentation)**    
+*IJCAI Workshop on Explainable AI, 2020*     
 [<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/2007.05408)
 [<button type="button" class="btn">Blog</button>](https://www.partnershiponai.org/multistakeholder-explainableml/)     
 
