@@ -91,7 +91,7 @@ I grew up in Basking Ridge, New Jersey, USA.
         </td>
         <td>
             <a href="https://foundation.mozilla.org/en/">
-            <img src="/images/moz.png"></a>
+            <img src="/images/mozilla.png"></a>
         </td>
         <td>
             <a href="https://www.microsoft.com/">
