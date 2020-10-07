@@ -22,7 +22,7 @@ I grew up in Basking Ridge, New Jersey, USA.
     <col width="85%">
     <tr>
         <td valign="top"><strong>[Oct 2020]</strong></td>
-        <td>Awarded a <a href="https://foundation.mozilla.org/en/fellowships/">Mozilla Fellowship</a></td>
+        <td>Awarded a <a href="https://foundation.mozilla.org/en/fellowships/meet-our-fellows/">Mozilla Fellowship</a></td>
     </tr>
     <tr>
         <td valign="top"><strong>[Apr 2020]</strong></td>
@@ -90,17 +90,17 @@ I grew up in Basking Ridge, New Jersey, USA.
             <img src="/images/cfi.png"></a>
         </td>
         <td>
-            <a href="https://www.microsoft.com/">
-            <img src="/images/msft.png"></a>
+            <a href="https://foundation.mozilla.org/en/">
+            <img src="/images/moz.png"></a>
         </td>
         <td>
-            <a href="https://www.groupon.com/">
-            <img src="/images/grpn.png"></a>
+            <a href="https://www.microsoft.com/">
+            <img src="/images/msft.png"></a>
         </td>
     </tr>
     <tr>
         <td>Leverhulme CFI<br>2019-Present</td>
+        <td>Mozilla<br>2020-Present</td>
         <td>Microsoft<br>Summer 2018</td>
-        <td>Groupon<br>Summer 2017</td>
     </tr>
 </table>
