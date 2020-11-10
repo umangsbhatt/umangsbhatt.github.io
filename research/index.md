@@ -57,6 +57,11 @@ I am interested in developing productive human-AI teams where humans are provide
 
 ### Workshop Publications (Refereed)
 
+1. Julius von Kugelgen, **Umang Bhatt**, Amir-Hossein Karimi, Isabel Valera, Adrian Weller, Bernhard Scholkopf                
+[On the Fairness of Causal Algorithmic Recourse]()      
+*NeurIPS Workshop on Algorithmic Fairness through the Lens of Causality and Interpretability, 2020.*     
+[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/2010.06529)    
+
 1. **Umang Bhatt**, McKane Andrus, Adrian Weller, Alice Xiang                
 [Machine Learning Explainability for External Stakeholders]()      
 *ICML Workshop on Extending Explainable AI: Beyond Deep Models and Classifiers, 2020.*   

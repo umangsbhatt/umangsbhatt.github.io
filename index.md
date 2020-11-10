@@ -6,7 +6,7 @@ modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 ---
 
-I am a Ph.D. student in the [Machine Learning Group](http://mlg.eng.cam.ac.uk/) at the [University of Cambridge](https://www.cam.ac.uk/), where I am supervised by [Adrian Weller](http://mlg.eng.cam.ac.uk/adrian/). My research interests lie in statistical machine learning, explainable artificial intelligence, and human-machine collaboration.
+I am a PhD candidate in the [Machine Learning Group](http://mlg.eng.cam.ac.uk/) at the [University of Cambridge](https://www.cam.ac.uk/), where I am supervised by [Adrian Weller](http://mlg.eng.cam.ac.uk/adrian/). My research interests lie in statistical machine learning, explainable artificial intelligence, and human-machine collaboration.
 
 I am a Fellow at the [Mozilla Foundation](https://foundation.mozilla.org/en/) and a Research Fellow at the [Partnership on AI](https://www.partnershiponai.org/), where I closely collaborate with [Alice Xiang](https://www.linkedin.com/in/alice-xiang-3832aa18/). My PhD research is funded by the [Leverhulme Center for the Future of Intelligence](http://lcfi.ac.uk/) (Trust and Transparency Initiative) with generous donations from [DeepMind](https://deepmind.com/) and [Leverhulme Trust](https://www.leverhulme.ac.uk/).
 
@@ -22,7 +22,7 @@ I grew up in Basking Ridge, New Jersey, USA.
     <col width="85%">
     <tr>
         <td valign="top"><strong>[Oct 2020]</strong></td>
-        <td>Awarded a <a href="https://foundation.mozilla.org/en/fellowships/meet-our-fellows/">Mozilla Fellowship</a></td>
+        <td>Awarded a <a href="https://foundation.mozilla.org/en/blog/mozilla-welcomes-two-new-fellows-trustworthy-ai/">Mozilla Fellowship</a></td>
     </tr>
     <tr>
         <td valign="top"><strong>[Apr 2020]</strong></td>
