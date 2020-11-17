@@ -8,7 +8,7 @@ comments: false
 
 I am a PhD candidate in the [Machine Learning Group](http://mlg.eng.cam.ac.uk/) at the [University of Cambridge](https://www.cam.ac.uk/), where I am supervised by [Adrian Weller](http://mlg.eng.cam.ac.uk/adrian/). My research interests lie in statistical machine learning, explainable artificial intelligence, and human-machine collaboration.
 
-I am a Fellow at the [Mozilla Foundation](https://foundation.mozilla.org/en/) and a Research Fellow at the [Partnership on AI](https://www.partnershiponai.org/), where I closely collaborate with [Alice Xiang](https://www.linkedin.com/in/alice-xiang-3832aa18/). My PhD research is funded by the [Leverhulme Center for the Future of Intelligence](http://lcfi.ac.uk/) (Trust and Transparency Initiative) with generous donations from [DeepMind](https://deepmind.com/) and [Leverhulme Trust](https://www.leverhulme.ac.uk/).
+My PhD research is funded by the [Leverhulme Center for the Future of Intelligence](http://lcfi.ac.uk/) (Trust and Transparency Initiative) with generous donations from [DeepMind](https://deepmind.com/) and [Leverhulme Trust](https://www.leverhulme.ac.uk/). Currently, I am a Fellow at the [Mozilla Foundation](https://foundation.mozilla.org/en/). Before that, I was a Research Fellow at the [Partnership on AI](https://www.partnershiponai.org/), where I closely collaborated with [Alice Xiang](https://www.linkedin.com/in/alice-xiang-3832aa18/).
 
 I completed a joint bachelors-masters in [Electrical and Computer Engineering](http://www.ece.cmu.edu/) at [Carnegie Mellon University](http://www.cmu.edu/) advised by [Jos&eacute; Moura](http://users.ece.cmu.edu/~moura/). During four wonderful years in Pittsburgh, I collaborated with [Pradeep Ravikumar](http://www.cs.cmu.edu/~pradeepr/) on explainable AI, [Zico Kolter](http://zicokolter.com/) on automated pothole detection, [Fei Fang](https://feifang.info/) and [Manuela Veloso](https://www.cs.cmu.edu/~mmv/) on robot affect expression in competitive settings, and [Radu Marculescu](http://users.ece.utexas.edu/~radum/) on network science for deep learning. 
 
@@ -82,7 +82,7 @@ I grew up in Basking Ridge, New Jersey, USA.
     <tr>
         <td>University of Cambridge<br>2019-Present</td>
         <td>Carnegie Mellon University<br>2015-2019</td>
-        <td>Partnership on AI<br>2019-Present</td>
+        <td>Partnership on AI<br>2019-2020</td>
     </tr>
     </tr>
         <td>
