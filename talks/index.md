@@ -11,8 +11,8 @@ Below is a list of research talks I have given.
 ----
 
 "Challenges in Deploying Explainable Machine Learning"
-* Partnership on AI. Virtual. August 2020.
-* Robust and Responsible AI (Rsqrd) Developers Meetup. Virtual. July 2020.
+* [Partnership on AI](https://www.youtube.com/watch?v=Ll6ZGKDz-l8&list=PLDOvLcRogwzftEjdD3FKjFFuTPG7970HF&index=5). Virtual. August 2020.
+* [Robust and Responsible AI (Rsqrd) Developers Meetup](https://www.youtube.com/watch?v=tXYQoV0XkSs). Virtual. July 2020.
 * (Keynote) ICML Workshop on Extending Explainable AI. Virtual. July 2020.
 * QuantumBlack (McKinsey) AI Seminar. London, UK. May 2020.
 
