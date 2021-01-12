@@ -21,6 +21,10 @@ I grew up in Basking Ridge, New Jersey, USA.
     <col width="15%">
     <col width="85%">
     <tr>
+        <td valign="top"><strong>[Jan 2021]</strong></td>
+        <td>One paper accepted at <a href="https://iclr.cc/">ICLR 2021</a> as an Oral and one paper accepted at <a href="https://aaai.org/Conferences/AAAI-21/#">AAAI 2021</a></td>
+    </tr>
+    <tr>
         <td valign="top"><strong>[Oct 2020]</strong></td>
         <td>Awarded a <a href="https://foundation.mozilla.org/en/blog/mozilla-welcomes-two-new-fellows-trustworthy-ai/">Mozilla Fellowship</a></td>
     </tr>
@@ -49,11 +53,11 @@ I grew up in Basking Ridge, New Jersey, USA.
         <td>Joined <a href="http://mlg.eng.cam.ac.uk/">Cambridge MLG</a> as a Ph.D. Student, moving across the pond in the process &#128230;
         </td>
     </tr>
-    <tr>
+    <!-- <tr>
         <td valign="top"><strong>[Jun 2019]</strong></td>
         <td>Joined <a href="https://www.partnershiponai.org/">Partnership on AI</a> as a Research Fellow, spending the summer in the Bay Area
         </td>
-    </tr>
+    </tr> -->
     <tr>
         <td valign="top"><strong>[May 2019]</strong></td>
         <td>Finished my BS and MS at <a href="http://www.cmu.edu/">Carnegie Mellon</a> &#127891;

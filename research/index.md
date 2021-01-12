@@ -11,6 +11,16 @@ I am interested in developing productive human-AI teams where humans are provide
 
 ### Conference Publications (Refereed and Archived)
 
+1. Javier Antoran, **Umang Bhatt**, Jose Miguel Hernandez-Lobato, Adrian Weller, Tameem Adel                
+<span style="color:navy">Getting a CLUE: A Method for Explaining Uncertainty Estimates</span>      
+*International Conference on Learning Representations (ICLR), 2021.*   
+[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/2006.06848)  
+
+1. Matt Chapman-Rounds, **Umang Bhatt**, Erik Pazos, Marc-Andre Schulz, Konstantinos Georgatzis   
+<span style="color:navy">FIMAP: Feature Importance by Minimal Adversarial Perturbation</span>   
+*AAAI Conference on Artificial Intelligence (AAAI), 2021.*    
+[<button type="button" class="btn btn-info">Paper</button>]()   
+
 1. **Umang Bhatt**, Adrian Weller, Jos&eacute; M. F. Moura    
 <span style="color:navy">Evaluating and Aggregating Feature-based Model Explanations</span>   
 *International Joint Conference on Artificial Intelligence (IJCAI), 2020.*   
@@ -57,6 +67,11 @@ I am interested in developing productive human-AI teams where humans are provide
 
 ### Workshop Publications (Refereed)
 
+1. Torgyn Shaikhina\*, **Umang Bhatt**\*, Roxanne Zhang, Konstantinos Georgatzis, Alice Xiang,  Adrian Weller   
+<span style="color:navy">Effects of Uncertainty on the Quality of Feature Importance Estimates</span>      
+*AAAI Workshop on Explainable Agency in Artificial Intelligence, 2021.*     
+[<button type="button" class="btn btn-info">Paper</button>]()    
+
 1. Julius von Kugelgen, **Umang Bhatt**, Amir-Hossein Karimi, Isabel Valera, Adrian Weller, Bernhard Scholkopf                
 <span style="color:navy">On the Fairness of Causal Algorithmic Recourse</span>      
 *NeurIPS Workshop on Algorithmic Fairness through the Lens of Causality and Interpretability, 2020.*     
@@ -65,8 +80,8 @@ I am interested in developing productive human-AI teams where humans are provide
 1. **Umang Bhatt**, McKane Andrus, Adrian Weller, Alice Xiang                
 <span style="color:navy">Machine Learning Explainability for External Stakeholders</span>      
 *ICML Workshop on Extending Explainable AI: Beyond Deep Models and Classifiers, 2020.*   
-*ICML Workshop on Human Interpretability, 2020* **(Spotlight Presentation)**    
-*IJCAI Workshop on Explainable AI, 2020*     
+*ICML Workshop on Human Interpretability, 2020.* **(Spotlight Presentation)**    
+*IJCAI Workshop on Explainable AI, 2020.*     
 [<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/2007.05408)
 [<button type="button" class="btn">Blog</button>](https://www.partnershiponai.org/multistakeholder-explainableml/)     
 

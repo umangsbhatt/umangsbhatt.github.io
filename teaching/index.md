@@ -8,6 +8,9 @@ comments: false
 
 Below is a list of courses for which I was a teaching assistant.
 
+**University of Cambridge (2020-Present)**
+* Michaelmas 2020: [Probabilistic Machine Learning](http://mlg.eng.cam.ac.uk/teaching/4f13/1920/) (4F13) taught by [Zoubin Ghahramani](http://mlg.eng.cam.ac.uk/zoubin/) and [Jose Miguel Hernandez-Lobato](https://jmhl.org/)
+
 **Carnegie Mellon University (2017-2019)**
 * Spring 2019: [Machine Learning for Engineers](https://www.andrew.cmu.edu/course/18-661/) - Masters (18-661) taught by [Gauri Joshi](https://www.andrew.cmu.edu/user/gaurij/)
 * Fall 2018: [Machine Learning](http://www.cs.cmu.edu/~pradeepr/courses/701/2018-fall/) - PhD (10-701) taught by [Ziv Bar-Joseph](http://www.cs.cmu.edu/~zivbj/) and [Pradeep Ravikumar](http://www.cs.cmu.edu/~pradeepr/)
