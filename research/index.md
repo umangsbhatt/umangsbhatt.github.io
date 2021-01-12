@@ -13,8 +13,7 @@ I am interested in developing productive human-AI teams where humans are provide
 
 1. Javier Antoran, **Umang Bhatt**, Tameem Adel, Adrian Weller, Jose Miguel Hernandez-Lobato            
 <span style="color:navy">Getting a CLUE: A Method for Explaining Uncertainty Estimates</span>      
-*International Conference on Learning Representations (ICLR), 2021.*   
-**Selected Oral Presentation**    
+*International Conference on Learning Representations (ICLR), 2021.* **(Selected Oral Presentation)**     
 [<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/2006.06848)  
 
 1. Matt Chapman-Rounds, **Umang Bhatt**, Erik Pazos, Marc-Andre Schulz, Konstantinos Georgatzis   
@@ -49,8 +48,7 @@ I am interested in developing productive human-AI teams where humans are provide
 
 1. Aaron Roth, Samantha Reig, **Umang Bhatt**, Jonathan Shulgach, Tamara Amin, Afsaneh Doryab, Fei Fang, Manuela Veloso   
 <span style="color:navy">A Robot’s Expressive Language Affects Human Strategy and Perceptions in a Competitive Game</span>    
-*IEEE International Conference on Robot and Human Interactive Communication (ROMAN), 2019.*    
-**Selected Oral Presentation**   
+*IEEE International Conference on Robot and Human Interactive Communication (ROMAN), 2019.* **(Selected Oral Presentation)**     
 [<button type="button" class="btn btn-info">Paper</button>](https://ieeexplore.ieee.org/document/8956412)
 [<button type="button" class="btn">Blog</button>](https://www.cmu.edu/news/stories/archives/2019/november/robot-trash-talk.html)    
 
