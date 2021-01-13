@@ -25,6 +25,7 @@ I am interested in developing productive human-AI teams where humans are provide
 <span style="color:navy">Evaluating and Aggregating Feature-based Model Explanations</span>   
 *International Joint Conference on Artificial Intelligence (IJCAI), 2020.*   
 [<button type="button" class="btn btn-info">Paper</button>](https://www.ijcai.org/Proceedings/2020/0417) 
+[<button type="button" class="btn btn-success">Poster</button>](/reports/ijcai20_poster.pdf){:target="_blank"} 
 [<button type="button" class="btn btn-warning">Slides</button>](/reports/ijcai20_slides.pdf){:target="_blank"} 
 [<button type="button" class="btn btn-vid">Video</button>](https://videos.ijcai20.org/26669/index.html)     
 
