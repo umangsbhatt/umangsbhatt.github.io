@@ -14,7 +14,7 @@ I am interested in developing productive human-AI teams where humans are provide
 1. Javier Antoran, **Umang Bhatt**, Tameem Adel, Adrian Weller, Jose Miguel Hernandez-Lobato            
 <span style="color:navy">Getting a CLUE: A Method for Explaining Uncertainty Estimates</span>      
 *International Conference on Learning Representations (ICLR), 2021.* **(Selected Oral Presentation)**     
-[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/2006.06848)  
+[<button type="button" class="btn btn-info">Preprint</button>](https://arxiv.org/abs/2006.06848)  
 
 1. Matt Chapman-Rounds, **Umang Bhatt**, Erik Pazos, Marc-Andre Schulz, Konstantinos Georgatzis   
 <span style="color:navy">FIMAP: Feature Importance by Minimal Adversarial Perturbation</span>   
@@ -24,7 +24,9 @@ I am interested in developing productive human-AI teams where humans are provide
 1. **Umang Bhatt**, Adrian Weller, Jos&eacute; M. F. Moura    
 <span style="color:navy">Evaluating and Aggregating Feature-based Model Explanations</span>   
 *International Joint Conference on Artificial Intelligence (IJCAI), 2020.*   
-[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/2005.00631)   
+[<button type="button" class="btn btn-info">Paper</button>](https://www.ijcai.org/Proceedings/2020/0417)  
+[<button type="button" class="btn btn-warning">Slides</button>](/reports/ijcai20_slides.pdf){:target="_blank"} 
+[<button type="button" class="btn btn-vid">Video</button>](https://videos.ijcai20.org/26669/index.html)     
 
 1. **Umang Bhatt**, Alice Xiang, Shubham Sharma, Adrian Weller, Ankur Taly, Yunhan Jia, Joydeep Ghosh, Ruchir Puri, Jos&eacute; M. F. Moura, Peter Eckersley  
 <span style="color:navy">Explainable Machine Learning in Deployment</span>   
