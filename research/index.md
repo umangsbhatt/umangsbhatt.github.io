@@ -35,13 +35,14 @@ I am interested in developing productive human-AI teams where humans are provide
 [<button type="button" class="btn btn-info">Paper</button>](https://dl.acm.org/doi/abs/10.1145/3351095.3375624)
 [<button type="button" class="btn btn-success">Poster</button>](/reports/hcml.pdf){:target="_blank"} 
 [<button type="button" class="btn">Blog</button>](https://www.partnershiponai.org/xai-in-practice/)
-[<button type="button" class="btn btn-warning">Slides</button>](/reports/fat_slides.pdf){:target="_blank"} 
-[<button type="button" class="btn btn-vid">Video</button>](https://www.youtube.com/watch?v=Hofl4uwxtPA)   
+[<button type="button" class="btn btn-warning">Slides</button>](/reports/fat_slides.pdf){:target="_blank"}
+[<button type="button" class="btn btn-vid">Video</button>](https://www.youtube.com/watch?v=Hofl4uwxtPA)     
 
 1. Botty Dimanov, **Umang Bhatt**, Mateja Jamnik, Adrian Weller   
 <span style="color:navy">You shouldn't trust me: Learning models which conceal unfairness from multiple explanation methods</span>    
 *European Conference on Artificial Intelligence (ECAI), 2020.*  
-[<button type="button" class="btn btn-info">Paper</button>](http://ecai2020.eu/papers/72_paper.pdf)    
+[<button type="button" class="btn btn-info">Paper</button>](http://ecai2020.eu/papers/72_paper.pdf)
+[<button type="button" class="btn btn-vid">Press</button>](https://spectrum.ieee.org/computing/software/its-too-easy-to-hide-bias-in-deeplearning-systems)       
 
 1. Brian Davis\*, **Umang Bhatt**\*, Kartikeya Bhardwaj\*, Radu Marculescu, Jos&eacute; M. F. Moura   
 \* equal contribution   
