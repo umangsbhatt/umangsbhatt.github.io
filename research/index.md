@@ -42,7 +42,7 @@ I am interested in developing productive human-AI teams where humans are provide
 <span style="color:navy">You shouldn't trust me: Learning models which conceal unfairness from multiple explanation methods</span>    
 *European Conference on Artificial Intelligence (ECAI), 2020.*  
 [<button type="button" class="btn btn-info">Paper</button>](http://ecai2020.eu/papers/72_paper.pdf)
-[<button type="button" class="btn btn-vid">Press</button>](https://spectrum.ieee.org/computing/software/its-too-easy-to-hide-bias-in-deeplearning-systems)       
+[<button type="button" class="btn">Press</button>](https://spectrum.ieee.org/computing/software/its-too-easy-to-hide-bias-in-deeplearning-systems)       
 
 1. Brian Davis\*, **Umang Bhatt**\*, Kartikeya Bhardwaj\*, Radu Marculescu, Jos&eacute; M. F. Moura   
 \* equal contribution   
