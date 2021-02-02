@@ -22,7 +22,7 @@ I grew up in Basking Ridge, New Jersey, USA.
     <col width="85%">
     <tr>
         <td valign="top"><strong>[Jan 2021]</strong></td>
-        <td><a href="https://arxiv.org/abs/2006.06848">CLUE</a> will appear as an oral at <a href="https://iclr.cc/">ICLR 2021</a>. Paper connecting feature importance and counterfactual explanations accepted at <a href="https://aaai.org/Conferences/AAAI-21/#">AAAI 2021</a></td>
+        <td>Our paper,<a href="https://arxiv.org/abs/2006.06848">CLUE</a>, has been accepted to <a href="https://iclr.cc/">ICLR 2021</a> as an <b>oral</b> presentation. Our paper connecting feature importance and counterfactual explanations accepted at <a href="https://aaai.org/Conferences/AAAI-21/#">AAAI 2021</a></td>
     </tr>
     <tr>
         <td valign="top"><strong>[Oct 2020]</strong></td>
@@ -42,7 +42,7 @@ I grew up in Basking Ridge, New Jersey, USA.
     </tr>
     <tr>
         <td valign="top"><strong>[Jan 2020]</strong></td>
-        <td>One <a href="https://umangsbhatt.github.io/reports/ecai.pdf">paper</a> on concealing model unfairness from explanation methods accepted to <a href="http://ecai2020.eu/">ECAI 2020</a></td>
+        <td>Our <a href="https://umangsbhatt.github.io/reports/ecai.pdf">paper</a> on concealing model unfairness from explanation methods has been accepted to <a href="http://ecai2020.eu/">ECAI 2020</a></td>
     </tr>
     <tr>
         <td valign="top"><strong>[Nov 2019]</strong></td>
