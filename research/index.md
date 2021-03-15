@@ -13,7 +13,7 @@ I am interested in developing productive human-AI teams where humans are provide
 
 1. Javier Antoran, **Umang Bhatt**, Tameem Adel, Adrian Weller, Jose Miguel Hernandez-Lobato            
 <span style="color:navy">Getting a CLUE: A Method for Explaining Uncertainty Estimates</span>      
-*International Conference on Learning Representations (ICLR), 2021.* **(Selected Oral Presentation)**     
+*International Conference on Learning Representations (ICLR), 2021.* **(Oral Presentation)**     
 [<button type="button" class="btn btn-info">Preprint</button>](https://arxiv.org/abs/2006.06848)  
 
 1. Matt Chapman-Rounds, **Umang Bhatt**, Erik Pazos, Marc-Andre Schulz, Konstantinos Georgatzis   
@@ -52,7 +52,7 @@ I am interested in developing productive human-AI teams where humans are provide
 
 1. Aaron Roth, Samantha Reig, **Umang Bhatt**, Jonathan Shulgach, Tamara Amin, Afsaneh Doryab, Fei Fang, Manuela Veloso   
 <span style="color:navy">A Robot’s Expressive Language Affects Human Strategy and Perceptions in a Competitive Game</span>    
-*IEEE International Conference on Robot and Human Interactive Communication (ROMAN), 2019.* **(Selected Oral Presentation)**     
+*IEEE International Conference on Robot and Human Interactive Communication (ROMAN), 2019.* **(Oral Presentation)**     
 [<button type="button" class="btn btn-info">Paper</button>](https://ieeexplore.ieee.org/document/8956412)
 [<button type="button" class="btn">Blog</button>](https://www.cmu.edu/news/stories/archives/2019/november/robot-trash-talk.html)    
 
@@ -69,6 +69,11 @@ I am interested in developing productive human-AI teams where humans are provide
 -----
 
 ### Workshop Publications (Refereed)
+
+1. Ana Lucic, Madhulika Srikumar, **Umang Bhatt**, Alice Xiang, Ankur Taly, Q. Vera Liao, Maarten de Rijke    
+<span style="color:navy">A Multistakeholder Approach Towards Evaluating AI Transparency Mechanisms</span>      
+*CHI Workshop on Operationalizing Human-centered Perspectives in Explainable AI, 2021.*  **(Spotlight Presentation)**       
+[<button type="button" class="btn btn-info">Paper</button>]()    
 
 1. Torgyn Shaikhina\*, **Umang Bhatt**\*, Roxanne Zhang, Konstantinos Georgatzis, Alice Xiang,  Adrian Weller   
 <span style="color:navy">Effects of Uncertainty on the Quality of Feature Importance Estimates</span>      
@@ -90,7 +95,7 @@ I am interested in developing productive human-AI teams where humans are provide
 
 1. Javier Antoran, **Umang Bhatt**, Jose Miguel Hernandez-Lobato, Adrian Weller, Tameem Adel                
 <span style="color:navy">Getting a CLUE: A Method for Explaining Uncertainty Estimates</span>      
-*ICLR Workshop on Machine Learning in Real Life (ML-IRL), 2020.* **(Selected Oral Presentation)**  
+*ICLR Workshop on Machine Learning in Real Life (ML-IRL), 2020.* **(Oral Presentation)**  
 [<button type="button" class="btn btn-info">Paper</button>](/reports/ML_IRL_20_CLUE.pdf){:target="_blank"}          
 
 1. **Umang Bhatt**, Adrian Weller, Muhammad Bilal Zafar, Krishna Gummadi                 
@@ -101,7 +106,7 @@ I am interested in developing productive human-AI teams where humans are provide
 
 1. Botty Dimanov, **Umang Bhatt**, Mateja Jamnik, Adrian Weller   
 <span style="color:navy">Models can be learned to conceal unfairness from explanation methods</span>   
-*AAAI Workshop on Safe AI, 2020.* **(Selected Oral Presentation)**     
+*AAAI Workshop on Safe AI, 2020.* **(Oral Presentation)**     
 [<button type="button" class="btn btn-info">Paper</button>](/reports/ecai.pdf){:target="_blank"}   
 
 1. **Umang Bhatt**, Alice Xiang, Shubham Sharma, Adrian Weller, Ankur Taly, Yunhan Jia, Joydeep Ghosh, Ruchir Puri, Jos&eacute; M. F. Moura, Peter Eckersley  
@@ -131,14 +136,14 @@ I am interested in developing productive human-AI teams where humans are provide
 
 1. **Umang Bhatt**, Pradeep Ravikumar, Jos&eacute; M. F. Moura   
 <span style="color:navy">Building Human-Machine Trust via Interpretability</span>    
-*AAAI (Student Abstract), 2019.*    
+*AAAI, 2019.* (Student Abstract)       
 [<button type="button" class="btn btn-info">Paper</button>](https://www.aaai.org/ojs/index.php/AAAI/article/view/5096)
 [<button type="button" class="btn btn-success">Poster</button>](/reports/studentposter.pdf){:target="_blank"} 
 
 1. Aaron Roth\*, **Umang Bhatt**\*, Tamara Amin\*, Afsaneh Doryab, Fei Fang, Manuela Veloso  
 \* equal contribution   
 <span style="color:navy">The Impact of Humanoid Affect Expression on Human Behavior in Game-Theoretic Setting</span>      
-*IJCAI Workshop on Humanizing Artificial Intelligence, 2018.* **(Selected Oral Presentation)**   
+*IJCAI Workshop on Humanizing Artificial Intelligence, 2018.* **(Oral Presentation)**   
 [<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/1806.03671) 
 
 1. **Umang Bhatt**  
