@@ -71,7 +71,7 @@ I am interested in developing productive human-AI teams where humans are provide
 ### Workshop Publications (Refereed)
 
 1. Dan Ley, **Umang Bhatt**, Adrian Weller      
-<span style="color:navy">$$\delta$$-CLUE: Diverse Sets of Explanations for Uncertainty Estimates</span>      
+<span style="color:navy">$\delta$-CLUE: Diverse Sets of Explanations for Uncertainty Estimates</span>      
 *ICLR Workshop on Security and Safety in Machine Learning Systems, 2021.*        
 [<button type="button" class="btn btn-info">Paper</button>]()    
 
