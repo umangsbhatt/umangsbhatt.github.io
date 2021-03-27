@@ -6,8 +6,8 @@ modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 ---
 
-My interests broadly lie in the fields of machine learning, Bayesian statistics, and artificial intelligence.
-I am interested in developing productive human-AI teams where humans are provided explanations of model behavior and are made aware of predictive uncertainty. 
+My interests broadly lie in the fields of machine learning, robust statistics, and artificial intelligence.
+I am interested in developing productive human-AI teams where humans are provided with transparency into an AI system's behavior via semantically meaningful explanations or well-calibrated uncertainty estimates. 
 
 ### Conference Publications (Refereed and Archived)
 
@@ -16,7 +16,7 @@ I am interested in developing productive human-AI teams where humans are provide
 *International Conference on Learning Representations (ICLR), 2021.* **(Oral)**     
 [<button type="button" class="btn btn-info">Paper</button>](https://openreview.net/pdf?id=XSLF1XFq5h)  
 
-1. Matt Chapman-Rounds, **Umang Bhatt**, Erik Pazos, Marc-Andre Schulz, Konstantinos Georgatzis   
+1. Matt Chapman-Rounds, Erik Pazos, Marc-Andre Schulz, **Umang Bhatt**, Konstantinos Georgatzis   
 <span style="color:navy">FIMAP: Feature Importance by Minimal Adversarial Perturbation</span>   
 *AAAI Conference on Artificial Intelligence (AAAI), 2021.*    
 [<button type="button" class="btn btn-info">Paper</button>]()   
@@ -57,7 +57,6 @@ I am interested in developing productive human-AI teams where humans are provide
 [<button type="button" class="btn">Blog</button>](https://www.cmu.edu/news/stories/archives/2019/november/robot-trash-talk.html)    
 
 1. **Umang Bhatt**\*, Edgar Xi\*, Shouvik Mani\*, Zico Kolter   
-\* equal contribution  
 <span style="color:navy">Intelligent Pothole Detection and Road Condition Assessment</span>   
 *Bloomberg Data for Good Exchange (D4GX), 2017.*    
 *Talk at UChicago Data Science for Social Good (DSSG), 2017.*    
@@ -126,8 +125,7 @@ I am interested in developing productive human-AI teams where humans are provide
 **Best Paper Award**    
 [<button type="button" class="btn btn-info">Paper</button>](/reports/iaw.pdf){:target="_blank"}    
 
-1. Brian Davis\*, **Umang Bhatt**\*, Kartikeya Bhardwaj\*, Radu Marculescu, Jos&eacute; M. F. Moura   
-\* equal contribution      
+1. Brian Davis\*, **Umang Bhatt**\*, Kartikeya Bhardwaj\*, Radu Marculescu, Jos&eacute; M. F. Moura        
 <span style="color:navy">NIF: A Framework for Quantifying Neural Information Flow in Deep Networks</span>      
 *AAAI Workshop on Network Interpretability for Deep Learning, 2019.*     
 [<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/1901.08557)
