@@ -69,6 +69,11 @@ I am interested in developing productive human-AI teams where humans are provide
 
 ### Workshop Publications (Refereed)
 
+1. **Umang Bhatt**, Matthew Ashman, Andrei Margeloiu, Yanzhi Chen, Pang Wei Koh, Mateja Jamnik, Percy Liang, Adrian Weller      
+<span style="color:navy">Do Concept Bottleneck Models Learn As Intended?</span>      
+*ICLR Workshop on Responsible AI, 2021.*        
+[<button type="button" class="btn btn-info">Paper</button>]()    
+
 1. Dan Ley, **Umang Bhatt**, Adrian Weller      
 <span style="color:navy">δ-CLUE: Diverse Sets of Explanations for Uncertainty Estimates</span>      
 *ICLR Workshop on Security and Safety in Machine Learning Systems, 2021.*        
