@@ -10,6 +10,11 @@ Below is a list of research talks I have given.
 
 ----
 
+"Beyond Feature Importance: Explaining Uncertainty Estimates"
+* Harvard SEAS. Virtual. April 2021.
+
+----
+
 "Challenges in Deploying Explainable Machine Learning"
 * Imperial College Explainable AI Seminar. Virtual. February 2021.   
 * [Partnership on AI](https://www.youtube.com/watch?v=Ll6ZGKDz-l8&list=PLDOvLcRogwzftEjdD3FKjFFuTPG7970HF&index=5). Virtual. August 2020.
@@ -28,6 +33,7 @@ Below is a list of research talks I have given.
 ----
 
 "Aggregating Feature-based Explanations"
+* IJCAI. Virtual. July 2020.
 * Partnership on AI. San Francisco, CA. July 2019.
 * Fiddler Labs. Palo Alto, CA. May 2019.
 * University of Cambridge. Cambridge, UK. April 2019.

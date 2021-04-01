@@ -72,22 +72,19 @@ I am interested in developing productive human-AI teams where humans are provide
 1. **Umang Bhatt**, Matthew Ashman, Andrei Margeloiu, Yanzhi Chen, Mateja Jamnik, Adrian Weller      
 <span style="color:navy">Do Concept Bottleneck Models Learn As Intended?</span>      
 *ICLR Workshop on Responsible AI, 2021.*        
-[<button type="button" class="btn btn-info">Paper</button>]()    
 
 1. Dan Ley, **Umang Bhatt**, Adrian Weller      
 <span style="color:navy">δ-CLUE: Diverse Sets of Explanations for Uncertainty Estimates</span>      
-*ICLR Workshop on Security and Safety in Machine Learning Systems, 2021.*        
-[<button type="button" class="btn btn-info">Paper</button>]()    
+*ICLR Workshop on Security and Safety in Machine Learning Systems, 2021.*          
 
 1. Ana Lucic, Madhulika Srikumar, **Umang Bhatt**, Alice Xiang, Ankur Taly, Q. Vera Liao, Maarten de Rijke    
 <span style="color:navy">A Multistakeholder Approach Towards Evaluating AI Transparency Mechanisms</span>      
 *CHI Workshop on Operationalizing Human-centered Perspectives in Explainable AI, 2021.*  **(Spotlight)**       
-[<button type="button" class="btn btn-info">Paper</button>]()    
+[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/2103.14976)    
 
 1. Torgyn Shaikhina\*, **Umang Bhatt**\*, Roxanne Zhang, Konstantinos Georgatzis, Alice Xiang,  Adrian Weller   
 <span style="color:navy">Effects of Uncertainty on the Quality of Feature Importance Estimates</span>      
 *AAAI Workshop on Explainable Agency in Artificial Intelligence, 2021.*     
-[<button type="button" class="btn btn-info">Paper</button>]()    
 
 1. Julius von Kugelgen, **Umang Bhatt**, Amir-Hossein Karimi, Isabel Valera, Adrian Weller, Bernhard Scholkopf                
 <span style="color:navy">On the Fairness of Causal Algorithmic Recourse</span>      
