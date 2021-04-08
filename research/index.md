@@ -11,27 +11,26 @@ I am interested in developing productive human-AI teams where humans are provide
 
 ### Conference Publications (Refereed and Archived)
 
-1. Javier Antoran, **Umang Bhatt**, Tameem Adel, Adrian Weller, Jose Miguel Hernandez-Lobato            
-<span style="color:navy">Getting a CLUE: A Method for Explaining Uncertainty Estimates</span>      
-*International Conference on Learning Representations (ICLR), 2021.* **(Oral)**     
-[<button type="button" class="btn btn-info">Paper</button>](https://openreview.net/pdf?id=XSLF1XFq5h)  
-
 1. **Umang Bhatt**, Javier Antoran, Yunfeng Zhang, Vera Liao, Gabrielle Melancon, Prasanna Sattigeri, Ranganath Krishnan, Omesh Tickoo, Riccardo Fogliato, Jason Stanley, Madhulika Srikumar, Lama Nachman, Rumi Chunara, Adrian Weller, Alice Xiang    
 <span style="color:navy">Uncertainty as a Form of Transparency: Measuring, Communicating, and Using Uncertainty</span>   
 *AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society (AIES) 2021.*   
-[<button type="button" class="btn btn-info">Preprint</button>](https://arxiv.org/abs/2011.07586)   
+[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/2011.07586)    
 
 1. McKane Andrus\*, **Umang Bhatt**\*,  Adrian Weller, Alice Xiang       
 \* equal contribution            
 <span style="color:navy">Machine Learning Explainability for External Stakeholders</span>      
 *AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society (AIES) 2021.*    
-[<button type="button" class="btn btn-info">Preprint</button>](https://arxiv.org/abs/2007.05408)
+[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/2007.05408)
 [<button type="button" class="btn">Blog</button>](https://www.partnershiponai.org/multistakeholder-explainableml/)     
+
+1. Javier Antoran, **Umang Bhatt**, Tameem Adel, Adrian Weller, Jose Miguel Hernandez-Lobato            
+<span style="color:navy">Getting a CLUE: A Method for Explaining Uncertainty Estimates</span>      
+*International Conference on Learning Representations (ICLR), 2021.* **(Oral)**     
+[<button type="button" class="btn btn-info">Paper</button>](https://openreview.net/pdf?id=XSLF1XFq5h)  
 
 1. Matt Chapman-Rounds, Erik Pazos, Marc-Andre Schulz, **Umang Bhatt**, Konstantinos Georgatzis   
 <span style="color:navy">FIMAP: Feature Importance by Minimal Adversarial Perturbation</span>   
 *AAAI Conference on Artificial Intelligence (AAAI), 2021.*    
-[<button type="button" class="btn btn-info">Paper</button>]()   
 
 1. **Umang Bhatt**, Adrian Weller, Jos&eacute; M. F. Moura    
 <span style="color:navy">Evaluating and Aggregating Feature-based Model Explanations</span>   
@@ -156,8 +155,7 @@ I am interested in developing productive human-AI teams where humans are provide
 [<button type="button" class="btn btn-info">Paper</button>](https://www.aaai.org/ojs/index.php/AAAI/article/view/5096)
 [<button type="button" class="btn btn-success">Poster</button>](/reports/studentposter.pdf){:target="_blank"} 
 
-1. Aaron Roth\*, **Umang Bhatt**\*, Tamara Amin\*, Afsaneh Doryab, Fei Fang, Manuela Veloso  
-\* equal contribution   
+1. Aaron Roth\*, **Umang Bhatt**\*, Tamara Amin\*, Afsaneh Doryab, Fei Fang, Manuela Veloso   
 <span style="color:navy">The Impact of Humanoid Affect Expression on Human Behavior in Game-Theoretic Setting</span>      
 *IJCAI Workshop on Humanizing Artificial Intelligence, 2018.* **(Oral)**   
 [<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/1806.03671) 
