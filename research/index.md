@@ -17,7 +17,7 @@ I am interested in developing productive human-AI teams where humans are provide
 [<button type="button" class="btn btn-info">Paper</button>](https://openreview.net/pdf?id=XSLF1XFq5h)  
 
 1. **Umang Bhatt**, Javier Antoran, Yunfeng Zhang, Vera Liao, Gabrielle Melancon, Prasanna Sattigeri, Ranganath Krishnan, Omesh Tickoo, Riccardo Fogliato, Jason Stanley, Madhulika Srikumar, Lama Nachman, Rumi Chunara, Adrian Weller, Alice Xiang    
-<span style="color:navy">Evaluating and Aggregating Feature-based Model Explanations</span>   
+<span style="color:navy">Uncertainty as a Form of Transparency: Measuring, Communicating, and Using Uncertainty</span>   
 *AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society (AIES) 2021.*   
 [<button type="button" class="btn btn-info">Preprint</button>](https://arxiv.org/abs/2011.07586)   
 
