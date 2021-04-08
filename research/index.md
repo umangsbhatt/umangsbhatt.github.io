@@ -16,6 +16,18 @@ I am interested in developing productive human-AI teams where humans are provide
 *International Conference on Learning Representations (ICLR), 2021.* **(Oral)**     
 [<button type="button" class="btn btn-info">Paper</button>](https://openreview.net/pdf?id=XSLF1XFq5h)  
 
+1. **Umang Bhatt**, Javier Antoran, Yunfeng Zhang, Vera Liao, Gabrielle Melancon, Prasanna Sattigeri, Ranganath Krishnan, Omesh Tickoo, Riccardo Fogliato, Jason Stanley, Madhulika Srikumar, Lama Nachman, Rumi Chunara, Adrian Weller, Alice Xiang    
+<span style="color:navy">Evaluating and Aggregating Feature-based Model Explanations</span>   
+*AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society (AIES) 2021.*   
+[<button type="button" class="btn btn-info">Preprint</button>](https://arxiv.org/abs/2011.07586)   
+
+1. McKane Andrus\*, **Umang Bhatt**\*,  Adrian Weller, Alice Xiang       
+\* equal contribution            
+<span style="color:navy">Machine Learning Explainability for External Stakeholders</span>      
+*AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society (AIES) 2021.*    
+[<button type="button" class="btn btn-info">Preprint</button>](https://arxiv.org/abs/2007.05408)
+[<button type="button" class="btn">Blog</button>](https://www.partnershiponai.org/multistakeholder-explainableml/)     
+
 1. Matt Chapman-Rounds, Erik Pazos, Marc-Andre Schulz, **Umang Bhatt**, Konstantinos Georgatzis   
 <span style="color:navy">FIMAP: Feature Importance by Minimal Adversarial Perturbation</span>   
 *AAAI Conference on Artificial Intelligence (AAAI), 2021.*    
@@ -45,7 +57,6 @@ I am interested in developing productive human-AI teams where humans are provide
 [<button type="button" class="btn">Press</button>](https://spectrum.ieee.org/computing/software/its-too-easy-to-hide-bias-in-deeplearning-systems)       
 
 1. Brian Davis\*, **Umang Bhatt**\*, Kartikeya Bhardwaj\*, Radu Marculescu, Jos&eacute; M. F. Moura   
-\* equal contribution   
 <span style="color:navy">On Network Science and Mutual Information for Explaining Deep Neural Networks</span>    
 *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2020.*    
 [<button type="button" class="btn btn-info">Paper</button>](https://ieeexplore.ieee.org/document/9053078)          
