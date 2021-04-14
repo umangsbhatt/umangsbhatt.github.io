@@ -85,11 +85,12 @@ I am interested in developing productive human-AI teams where humans are provide
 
 1. Dan Ley, **Umang Bhatt**, Adrian Weller      
 <span style="color:navy">δ-CLUE: Diverse Sets of Explanations for Uncertainty Estimates</span>      
-*ICLR Workshop on Security and Safety in Machine Learning Systems, 2021.*          
+*ICLR Workshop on Security and Safety in Machine Learning Systems, 2021.*         
+[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/2104.06323)     
 
 1. Ana Lucic, Madhulika Srikumar, **Umang Bhatt**, Alice Xiang, Ankur Taly, Q. Vera Liao, Maarten de Rijke    
 <span style="color:navy">A Multistakeholder Approach Towards Evaluating AI Transparency Mechanisms</span>      
-*CHI Workshop on Operationalizing Human-centered Perspectives in Explainable AI, 2021.*  **(Spotlight)**       
+*CHI Workshop on Operationalizing Human-centered Perspectives in Explainable AI, 2021.*          
 [<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/2103.14976)    
 
 1. Torgyn Shaikhina\*, **Umang Bhatt**\*, Roxanne Zhang, Konstantinos Georgatzis, Alice Xiang,  Adrian Weller   

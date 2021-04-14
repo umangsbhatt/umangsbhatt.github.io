@@ -11,6 +11,7 @@ Below is a list of research talks I have given.
 ----
 
 "Beyond Feature Importance: Explaining Uncertainty Estimates"
+* Technical University of Denmark (DTU). Virtual. April 2021.
 * Harvard SEAS. Virtual. April 2021.
 
 ----
