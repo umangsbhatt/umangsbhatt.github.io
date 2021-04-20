@@ -22,7 +22,7 @@ I grew up in Basking Ridge, New Jersey, USA.
     <col width="85%">
     <tr>
         <td valign="top"><strong>[Apr 2021]</strong></td>
-        <td>Two papers accepted at <a href="https://www.aies-conference.com/2021/">AIES 2021</a></td>
+        <td>One paper accepted at <a href="https://www.aies-conference.com/2021/">AIES 2021</a></td>
     </tr>
     <tr>
         <td valign="top"><strong>[Jan 2021]</strong></td>

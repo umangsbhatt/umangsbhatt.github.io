@@ -16,13 +16,6 @@ I am interested in developing productive human-AI teams where humans are provide
 *AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society (AIES) 2021.*   
 [<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/2011.07586)    
 
-1. McKane Andrus\*, **Umang Bhatt**\*,  Adrian Weller, Alice Xiang       
-\* equal contribution            
-<span style="color:navy">Machine Learning Explainability for External Stakeholders</span>      
-*AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society (AIES) 2021.*    
-[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/2007.05408)
-[<button type="button" class="btn">Blog</button>](https://www.partnershiponai.org/multistakeholder-explainableml/)     
-
 1. Javier Antoran, **Umang Bhatt**, Tameem Adel, Adrian Weller, Jose Miguel Hernandez-Lobato            
 <span style="color:navy">Getting a CLUE: A Method for Explaining Uncertainty Estimates</span>      
 *International Conference on Learning Representations (ICLR), 2021.* **(Oral)**     
