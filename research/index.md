@@ -88,7 +88,8 @@ I am interested in developing productive human-AI teams where humans are provide
 
 1. Torgyn Shaikhina\*, **Umang Bhatt**\*, Roxanne Zhang, Konstantinos Georgatzis, Alice Xiang,  Adrian Weller   
 <span style="color:navy">Effects of Uncertainty on the Quality of Feature Importance Estimates</span>      
-*AAAI Workshop on Explainable Agency in Artificial Intelligence, 2021.*     
+*AAAI Workshop on Explainable Agency in Artificial Intelligence, 2021.*      
+[<button type="button" class="btn btn-info">Paper</button>](/reports/AAAI_XAI_QB.pdf){:target="_blank"}   
 
 1. Julius von Kugelgen, **Umang Bhatt**, Amir-Hossein Karimi, Isabel Valera, Adrian Weller, Bernhard Scholkopf                
 <span style="color:navy">On the Fairness of Causal Algorithmic Recourse</span>      
