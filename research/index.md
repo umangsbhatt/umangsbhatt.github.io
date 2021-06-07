@@ -21,9 +21,10 @@ I am interested in developing productive human-AI teams where humans are provide
 *International Conference on Learning Representations (ICLR), 2021.* **(Oral)**     
 [<button type="button" class="btn btn-info">Paper</button>](https://openreview.net/pdf?id=XSLF1XFq5h)  
 
-1. Matt Chapman-Rounds, Erik Pazos, Marc-Andre Schulz, **Umang Bhatt**, Konstantinos Georgatzis   
-<span style="color:navy">FIMAP: Feature Importance by Minimal Adversarial Perturbation</span>   
-*AAAI Conference on Artificial Intelligence (AAAI), 2021.*    
+1. Matt Chapman-Rounds,  **Umang Bhatt**,  Erik Pazos, Marc-Andre Schulz, Konstantinos Georgatzis    
+<span style="color:navy">FIMAP: Feature Importance by Minimal Adversarial Perturbation</span>     
+*AAAI Conference on Artificial Intelligence (AAAI), 2021.*     
+[<button type="button" class="btn btn-info">Paper</button>](https://ojs.aaai.org/index.php/AAAI/article/view/17362)    
 
 1. **Umang Bhatt**, Adrian Weller, Jos&eacute; M. F. Moura    
 <span style="color:navy">Evaluating and Aggregating Feature-based Model Explanations</span>   
@@ -55,7 +56,7 @@ I am interested in developing productive human-AI teams where humans are provide
 
 1. Aaron Roth, Samantha Reig, **Umang Bhatt**, Jonathan Shulgach, Tamara Amin, Afsaneh Doryab, Fei Fang, Manuela Veloso   
 <span style="color:navy">A Robot’s Expressive Language Affects Human Strategy and Perceptions in a Competitive Game</span>    
-*IEEE International Conference on Robot and Human Interactive Communication (ROMAN), 2019.* **(Oral)**     
+*IEEE International Conference on Robot and Human Interactive Communication (ROMAN), 2019.*       
 [<button type="button" class="btn btn-info">Paper</button>](https://ieeexplore.ieee.org/document/8956412)
 [<button type="button" class="btn">Blog</button>](https://www.cmu.edu/news/stories/archives/2019/november/robot-trash-talk.html)    
 
@@ -72,9 +73,10 @@ I am interested in developing productive human-AI teams where humans are provide
 
 ### Workshop Publications (Refereed)
 
-1. **Umang Bhatt**, Matthew Ashman, Andrei Margeloiu, Yanzhi Chen, Mateja Jamnik, Adrian Weller      
+1. Andrei Margeloiu\*, Matthew Ashman\*, **Umang Bhatt**\*, Yanzhi Chen, Mateja Jamnik, Adrian Weller      
 <span style="color:navy">Do Concept Bottleneck Models Learn As Intended?</span>      
-*ICLR Workshop on Responsible AI, 2021.*        
+*ICLR Workshop on Responsible AI, 2021.*      
+[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/2105.04289)          
 
 1. Dan Ley, **Umang Bhatt**, Adrian Weller      
 <span style="color:navy">δ-CLUE: Diverse Sets of Explanations for Uncertainty Estimates</span>      
