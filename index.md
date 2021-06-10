@@ -79,21 +79,6 @@ I grew up in Basking Ridge, New Jersey, USA.
             <img src="/images/camb.png"></a>
         </td>
         <td>
-            <a href="http://www.cmu.edu/">
-            <img src="/images/cmu-logo.png"></a>
-        </td>
-        <td>
-            <a href="https://www.partnershiponai.org/">
-            <img src="/images/pai.png"></a>
-        </td>
-    <tr>
-    <tr>
-        <td>University of Cambridge<br>2019-Present</td>
-        <td>Carnegie Mellon University<br>2015-2019</td>
-        <td>Partnership on AI<br>2019-2020</td>
-    </tr>
-    </tr>
-        <td>
             <a href="http://lcfi.ac.uk/">
             <img src="/images/cfi.png"></a>
         </td>
@@ -101,14 +86,29 @@ I grew up in Basking Ridge, New Jersey, USA.
             <a href="https://foundation.mozilla.org/en/">
             <img src="/images/mozilla.png"></a>
         </td>
+    <tr>
+    <tr>
+        <td>University of Cambridge<br>2019-Present</td>
+        <td>Leverhulme CFI<br>2019-Present</td>
+        <td>Mozilla<br>2020-Present</td>
+    </tr>
+    </tr>
+        <td>
+            <a href="http://www.cmu.edu/">
+            <img src="/images/cmu-logo.png"></a>
+        </td>
+        <td>
+            <a href="https://www.partnershiponai.org/">
+            <img src="/images/pai.png"></a>
+        </td>
         <td>
             <a href="https://www.microsoft.com/">
             <img src="/images/msft.png"></a>
         </td>
     </tr>
     <tr>
-        <td>Leverhulme CFI<br>2019-Present</td>
-        <td>Mozilla<br>2020-Present</td>
+        <td>Carnegie Mellon University<br>2015-2019</td>
+        <td>Partnership on AI<br>2019-2020</td>
         <td>Microsoft<br>Summer 2018</td>
     </tr>
 </table>
