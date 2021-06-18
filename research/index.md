@@ -73,6 +73,10 @@ I am interested in developing productive human-AI teams where humans are provide
 
 ### Workshop Publications (Refereed)
 
+1. Dan Ley, **Umang Bhatt**, Adrian Weller      
+<span style="color:navy">Diverse and Amortised Counterfactual Explanations for Uncertainty Estimates</span>      
+*ICML Workshop on Theoretic Foundation, Criticism, and Application Trend of Explainable AI, 2021.*             
+
 1. Andrei Margeloiu\*, Matthew Ashman\*, **Umang Bhatt**\*, Yanzhi Chen, Mateja Jamnik, Adrian Weller      
 <span style="color:navy">Do Concept Bottleneck Models Learn As Intended?</span>      
 *ICLR Workshop on Responsible AI, 2021.*      
