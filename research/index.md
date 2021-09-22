@@ -73,9 +73,15 @@ I am interested in developing productive human-AI teams where humans are provide
 
 ### Workshop Publications (Refereed)
 
+1. **Umang Bhatt**, Adrian Weller, Giovanni Cherubin      
+<span style="color:navy">Fast Conformal Classification using Influence Functions</span>      
+*10th Symposium on Conformal and Probabilistic Prediction with Applications (COPA), 2021.*         
+[<button type="button" class="btn btn-info">Paper</button>](https://proceedings.mlr.press/v152/bhatt21a.html)       
+
 1. Dan Ley, **Umang Bhatt**, Adrian Weller      
 <span style="color:navy">Diverse and Amortised Counterfactual Explanations for Uncertainty Estimates</span>      
 *ICML Workshop on Theoretic Foundation, Criticism, and Application Trend of Explainable AI, 2021.*             
+[<button type="button" class="btn btn-info">Paper</button>](https://drive.google.com/file/d/1wd7KPSPTqzVQqqb7IgS0XgwOnANzgsX7)     
 
 1. Andrei Margeloiu\*, Matthew Ashman\*, **Umang Bhatt**\*, Yanzhi Chen, Mateja Jamnik, Adrian Weller      
 <span style="color:navy">Do Concept Bottleneck Models Learn As Intended?</span>      

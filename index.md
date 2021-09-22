@@ -8,7 +8,7 @@ comments: false
 
 I am a PhD candidate in the [Machine Learning Group](http://mlg.eng.cam.ac.uk/) at the [University of Cambridge](https://www.cam.ac.uk/), where I am supervised by [Adrian Weller](http://mlg.eng.cam.ac.uk/adrian/). My research interests lie in statistical machine learning, explainable artificial intelligence, and human-machine collaboration.
 
-My PhD research is funded by the [Leverhulme Center for the Future of Intelligence](http://lcfi.ac.uk/) (Trust and Transparency Initiative) with generous donations from [DeepMind](https://deepmind.com/) and [Leverhulme Trust](https://www.leverhulme.ac.uk/). Currently, I am a Fellow at the [Mozilla Foundation](https://foundation.mozilla.org/en/). Before that, I spent a year and a half as a Research Fellow at the [Partnership on AI](https://www.partnershiponai.org/). Starting Fall 2021, I will be at the [Alan Turing Institute](http://turing.ac.uk/) part-time as an Enrichment Student.
+My PhD research is funded by the [Leverhulme Center for the Future of Intelligence](http://lcfi.ac.uk/) (Trust and Transparency Initiative) with generous donations from [DeepMind](https://deepmind.com/) and [Leverhulme Trust](https://www.leverhulme.ac.uk/). Currently, I am a Fellow at the [Mozilla Foundation](https://foundation.mozilla.org/en/) and an Enrichment Student at the [Alan Turing Institute](http://turing.ac.uk/). Before that, I spent a year and a half as a Research Fellow at the [Partnership on AI](https://www.partnershiponai.org/).
 
 I completed a joint bachelors-masters in [Electrical and Computer Engineering](http://www.ece.cmu.edu/) at [Carnegie Mellon University](http://www.cmu.edu/) advised by [Jos&eacute; Moura](http://users.ece.cmu.edu/~moura/). During four wonderful years in Pittsburgh, I collaborated with [Pradeep Ravikumar](http://www.cs.cmu.edu/~pradeepr/) on explainable AI, [Zico Kolter](http://zicokolter.com/) on automated pothole detection, [Fei Fang](https://feifang.info/) and [Manuela Veloso](https://www.cs.cmu.edu/~mmv/) on robot affect expression in competitive settings, and [Radu Marculescu](http://users.ece.utexas.edu/~radum/) on network science for deep learning. 
 
@@ -20,6 +20,10 @@ I grew up in Basking Ridge, New Jersey, USA.
 <table class='news-table'>
     <col width="15%">
     <col width="85%">
+    <tr>
+        <td valign="top"><strong>[Sept 2021]</strong></td>
+        <td>Joined the <a href="http://www.eng.cam.ac.uk/news/umang-bhatt-accepted-turing-enrichment-scheme-alan-turing-institute">The Alan Turing Institute</a> as an Enrichment Student</td>
+    </tr>
     <tr>
         <td valign="top"><strong>[Apr 2021]</strong></td>
         <td>One paper accepted at <a href="https://www.aies-conference.com/2021/">AIES 2021</a></td>
