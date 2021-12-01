@@ -21,6 +21,10 @@ I grew up in Basking Ridge, New Jersey, USA.
     <col width="15%">
     <col width="85%">
     <tr>
+        <td valign="top"><strong>[Dec 2021]</strong></td>
+        <td>Two papers accepted at <a href="https://aaai.org/Conferences/AAAI-22/#">AAAI 2022</a></td>
+    </tr>
+    <tr>
         <td valign="top"><strong>[Sept 2021]</strong></td>
         <td>Joined the <a href="http://www.eng.cam.ac.uk/news/umang-bhatt-accepted-turing-enrichment-scheme-alan-turing-institute">The Alan Turing Institute</a> as an Enrichment Student</td>
     </tr>

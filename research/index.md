@@ -11,6 +11,15 @@ I am interested in developing productive human-AI teams where humans are provide
 
 ### Conference Publications (Refereed and Archived)
 
+1. Dan Ley, **Umang Bhatt**, Adrian Weller      
+<span style="color:navy">Diverse and Amortised Counterfactual Explanations for Uncertainty Estimates</span>      
+*AAAI Conference on Artificial Intelligence (AAAI), 2022.*     
+
+1. Julius von Kugelgen, Amir-Hossein Karimi, **Umang Bhatt**, Isabel Valera, Adrian Weller, Bernhard Scholkopf                
+<span style="color:navy">On the Fairness of Causal Algorithmic Recourse</span>      
+*AAAI Conference on Artificial Intelligence (AAAI), 2022.*     
+[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/2010.06529)   
+
 1. **Umang Bhatt**, Javier Antoran, Yunfeng Zhang, Q. Vera Liao, Prasanna Sattigeri, Riccardo Fogliato, Gabrielle Melancon, Ranganath Krishnan, Jason Stanley,  Omesh Tickoo, Lama Nachman, Rumi Chunara, Madhulika Srikumar, Adrian Weller, Alice Xiang     
 <span style="color:navy">Uncertainty as a Form of Transparency: Measuring, Communicating, and Using Uncertainty</span>   
 *AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society (AIES) 2021.*   
