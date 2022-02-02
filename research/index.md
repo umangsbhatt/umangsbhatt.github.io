@@ -6,14 +6,15 @@ modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 ---
 
-My interests broadly lie in the fields of machine learning, robust statistics, and artificial intelligence.
-I am interested in developing productive human-AI teams where humans are provided with transparency into an AI system's behavior via semantically meaningful explanations or well-calibrated uncertainty estimates. 
+My interests broadly lie in the field of trustworthy machine learning (ML). Specifically, I focus on algorithmic transparency and its effects on decision-making. Algorithmic transparency exposes properties of ML models to various stakeholders for purposes that include understanding, improving, and contesting model predictions. Algorithmic transparency modulates a stakeholder's trust in decision-support systems through tools like explainability, uncertainty estimation, and preference learning.
+I study how to create ML models that explain their predictions to stakeholders, leverage stakeholder expertise for better human-machine team performance, and interact with stakeholders to account for their goals and values.
 
 ### Conference Publications (Refereed and Archived)
 
 1. Dan Ley, **Umang Bhatt**, Adrian Weller      
 <span style="color:navy">Diverse and Amortised Counterfactual Explanations for Uncertainty Estimates</span>      
 *AAAI Conference on Artificial Intelligence (AAAI), 2022.*     
+[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/2112.02646)       
 
 1. Julius von Kugelgen, Amir-Hossein Karimi, **Umang Bhatt**, Isabel Valera, Adrian Weller, Bernhard Scholkopf                
 <span style="color:navy">On the Fairness of Causal Algorithmic Recourse</span>      
