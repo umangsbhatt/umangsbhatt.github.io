@@ -6,8 +6,8 @@ modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 ---
 
-My interests broadly lie in the field of trustworthy machine learning (ML). Specifically, I focus on algorithmic transparency and its effects on decision-making. Algorithmic transparency exposes properties of ML models to various stakeholders for purposes that include understanding, improving, and contesting model predictions. Algorithmic transparency modulates a stakeholder's trust in decision-support systems through tools like explainability, uncertainty estimation, and preference learning.
-I study how to create ML models that explain their predictions to stakeholders, leverage stakeholder expertise for better human-machine team performance, and interact with stakeholders to account for their goals and values.
+My interests broadly lie in the field of **trustworthy machine learning** (ML). Specifically, I focus on algorithmic transparency and its effects on decision-making. I study how to create ML systems that explain their predictions to stakeholders, leverage stakeholder expertise for better human-machine team performance, and interact with stakeholders to account for their goals and values.
+
 
 ### Conference Publications (Refereed and Archived)
 
