@@ -81,6 +81,20 @@ My interests broadly lie in the field of **trustworthy machine learning** (ML). 
 
 -----
 
+### Journal Papers and Book Chapters (Refereed and Archived)    
+
+1. John Zerilli, **Umang Bhatt**, Adrian Weller      
+<span style="color:navy">How Transparency Modulates Trust in Artificial Intelligence</span>      
+*Patterns, 2022.*             
+[<button type="button" class="btn btn-info">Paper</button>](https://www.sciencedirect.com/science/article/pii/S2666389922000289)   
+
+1. **Umang Bhatt**, Zohreh Shams      
+<span style="color:navy">Trust in Artificial Intelligence: Clinicians Are Essential</span>      
+*Healthcare Information Technology for Cardiovascular Medicine, 2021.*         
+[<button type="button" class="btn btn-info">Paper</button>](https://link.springer.com/chapter/10.1007/978-3-030-81030-6_10)   
+
+-----
+
 ### Workshop Publications (Refereed)
 
 1. **Umang Bhatt**, Adrian Weller, Giovanni Cherubin      
