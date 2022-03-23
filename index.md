@@ -21,8 +21,12 @@ I grew up in Basking Ridge, New Jersey, USA.
     <col width="15%">
     <col width="85%">
     <tr>
+        <td valign="top"><strong>[Mar 2022]</strong></td>
+        <td>Awarded a <a href="https://www.jpmorgan.com/technology/artificial-intelligence/research-awards/phd-fellowship">J.P. Morgan AI PhD Fellowship</a></td>
+    </tr>
+    <tr>
         <td valign="top"><strong>[Feb 2022]</strong></td>
-        <td>Launched the Alan Turing Institute's <a href="https://www.turing.ac.uk/research/interest-groups/human-machine-teams">Interest Group on Human-Machine Teams</a> with <a href="http://bradlove.org/">Bradley Love</a> and <a href="https://www.linkedin.com/in/manross/">Michael Ross</a></td>
+        <td>Launched the Alan Turing Institute's <a href="https://www.turing.ac.uk/research/interest-groups/human-machine-teams">Interest Group on Human-Machine Teams</a></td>
     </tr>
     <tr>
         <td valign="top"><strong>[Dec 2021]</strong></td>
