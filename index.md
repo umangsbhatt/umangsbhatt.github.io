@@ -26,7 +26,7 @@ I grew up in Basking Ridge, New Jersey, USA.
     </tr>
     <tr>
         <td valign="top"><strong>[Feb 2022]</strong></td>
-        <td>Launched the Alan Turing Institute's <a href="https://www.turing.ac.uk/research/interest-groups/human-machine-teams">Interest Group on Human-Machine Teams</a></td>
+        <td>Launched the Alan Turing Institute's Interest Group on Human-Machine Teams</td>
     </tr>
     <tr>
         <td valign="top"><strong>[Dec 2021]</strong></td>
