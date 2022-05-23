@@ -8,8 +8,9 @@ share: false
 ---
 
 
-Upon moving to the United Kingdom in Fall 2019, I decided that I wanted to *attempt* to visit every country in Europe before I finish my Ph.D. I will keep a running list of countries here (along with the date and city I first visit):
+Upon moving to the United Kingdom in Fall 2019, I decided that I wanted to *attempt* to visit every country in Europe during my Ph.D. I will keep a running list of countries here (along with the date and city I visit):
 
+1. San Marino: April 19, 2022. (San Marino with ED)
 1. Italy: March 28, 2022. (Pisa with ZV and AF)
 1. Scotland: June 13, 2021. (Edinburgh with AK)
 1. Denmark: March 5, 2020. (Copenhagen with HP)
