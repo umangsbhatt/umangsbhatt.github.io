@@ -11,6 +11,11 @@ My interests broadly lie in the field of **trustworthy machine learning** (ML). 
 
 ### Conference Publications (Refereed and Archived)
 
+1. Varun Babbar, **Umang Bhatt**, Adrian Weller      
+<span style="color:navy">On the Utility of Prediction Sets in Human-AI Teams</span>      
+*International Joint Conference on Artificial Intelligence (IJCAI), 2022.* **(Oral)**       
+[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/2205.01411)   
+
 1. Dan Ley, **Umang Bhatt**, Adrian Weller      
 <span style="color:navy">Diverse and Amortised Counterfactual Explanations for Uncertainty Estimates</span>      
 *AAAI Conference on Artificial Intelligence (AAAI), 2022.*     
@@ -96,6 +101,11 @@ My interests broadly lie in the field of **trustworthy machine learning** (ML). 
 -----
 
 ### Workshop Publications (Refereed)
+
+1. Valerie Chen\*, **Umang Bhatt**\*, Hoda Heidari, Adrian Weller, Ameet Talwalkar      
+<span style="color:navy">Perspectives on Incorporating Expert Feedback into Model Updates</span>      
+*ICML Workshop on Updatable Machine Learning, 2022.*      
+[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/2205.06905) 
 
 1. **Umang Bhatt**, Adrian Weller, Giovanni Cherubin      
 <span style="color:navy">Fast Conformal Classification using Influence Functions</span>      

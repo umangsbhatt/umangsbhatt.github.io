@@ -22,7 +22,7 @@ I grew up in Basking Ridge, New Jersey, USA.
     <col width="85%">
     <tr>
         <td valign="top"><strong>[Mar 2022]</strong></td>
-        <td>Awarded a <a href="https://www.jpmorgan.com/technology/artificial-intelligence/research-awards/phd-fellowship">J.P. Morgan AI PhD Fellowship</a></td>
+        <td>Awarded a <a href="http://www.eng.cam.ac.uk/news/phd-student-umang-bhatt-has-been-awarded-jp-morgan-ai-phd-fellowship">J.P. Morgan AI PhD Fellowship</a></td>
     </tr>
     <tr>
         <td valign="top"><strong>[Feb 2022]</strong></td>

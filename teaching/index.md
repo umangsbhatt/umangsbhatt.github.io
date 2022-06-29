@@ -9,6 +9,7 @@ comments: false
 Below is a list of courses for which I was a teaching assistant.
 
 **University of Cambridge (2020-Present)**
+* Lent 2022: [Inference](http://teaching.eng.cam.ac.uk/content/engineering-tripos-part-iia-3f8-inference-2021-22) (3F8) taught by [Richard E. Turner](http://learning.eng.cam.ac.uk/Public/Turner/WebHome) and [David Krueger](https://www.davidscottkrueger.com/)
 * Michaelmas 2020: [Probabilistic Machine Learning](http://mlg.eng.cam.ac.uk/teaching/4f13/1920/) (4F13) taught by [Zoubin Ghahramani](http://mlg.eng.cam.ac.uk/zoubin/) and [Jose Miguel Hernandez-Lobato](https://jmhl.org/)
 
 **Carnegie Mellon University (2017-2019)**
