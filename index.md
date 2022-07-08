@@ -20,6 +20,10 @@ I grew up in Basking Ridge, New Jersey, USA.
 <table class='news-table'>
     <col width="15%">
     <col width="85%">
+        <tr>
+        <td valign="top"><strong>[Jul 2022]</strong></td>
+        <td>Joined the <a href="https://crcs.seas.harvard.edu/">Center for Research on Computation and Society</a>at Harvard SEAS as a Summer Fellow</td>
+    </tr>
     <tr>
         <td valign="top"><strong>[Mar 2022]</strong></td>
         <td>Awarded a <a href="http://www.eng.cam.ac.uk/news/phd-student-umang-bhatt-has-been-awarded-jp-morgan-ai-phd-fellowship">J.P. Morgan AI PhD Fellowship</a></td>
@@ -106,7 +110,7 @@ I grew up in Basking Ridge, New Jersey, USA.
     <tr>
         <td>University of Cambridge<br>2019-Present</td>
         <td>Leverhulme CFI<br>2019-Present</td>
-        <td>Mozilla<br>2020-Present</td>
+        <td>Mozilla<br>2020-2021</td>
     </tr>
     </tr>
         <td>

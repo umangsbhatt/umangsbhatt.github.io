@@ -23,7 +23,7 @@ My interests broadly lie in the field of **trustworthy machine learning** (ML). 
 
 1. Julius von Kugelgen, Amir-Hossein Karimi, **Umang Bhatt**, Isabel Valera, Adrian Weller, Bernhard Scholkopf                
 <span style="color:navy">On the Fairness of Causal Algorithmic Recourse</span>      
-*AAAI Conference on Artificial Intelligence (AAAI), 2022.*     
+*AAAI Conference on Artificial Intelligence (AAAI), 2022.* **(Oral)**       
 [<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/2010.06529)   
 
 1. **Umang Bhatt**, Javier Antoran, Yunfeng Zhang, Q. Vera Liao, Prasanna Sattigeri, Riccardo Fogliato, Gabrielle Melancon, Ranganath Krishnan, Jason Stanley,  Omesh Tickoo, Lama Nachman, Rumi Chunara, Madhulika Srikumar, Adrian Weller, Alice Xiang     
@@ -34,7 +34,8 @@ My interests broadly lie in the field of **trustworthy machine learning** (ML). 
 1. Javier Antoran, **Umang Bhatt**, Tameem Adel, Adrian Weller, Jose Miguel Hernandez-Lobato            
 <span style="color:navy">Getting a CLUE: A Method for Explaining Uncertainty Estimates</span>      
 *International Conference on Learning Representations (ICLR), 2021.* **(Oral)**     
-[<button type="button" class="btn btn-info">Paper</button>](https://openreview.net/pdf?id=XSLF1XFq5h)  
+[<button type="button" class="btn btn-info">Paper</button>](https://openreview.net/pdf?id=XSLF1XFq5h)
+[<button type="button" class="btn btn-danger">Code</button>](https://github.com/cambridge-mlg/CLUE)       
 
 1. Matt Chapman-Rounds,  **Umang Bhatt**,  Erik Pazos, Marc-Andre Schulz, Konstantinos Georgatzis    
 <span style="color:navy">FIMAP: Feature Importance by Minimal Adversarial Perturbation</span>     
