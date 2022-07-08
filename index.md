@@ -22,7 +22,7 @@ I grew up in Basking Ridge, New Jersey, USA.
     <col width="85%">
         <tr>
         <td valign="top"><strong>[Jul 2022]</strong></td>
-        <td>Joined the <a href="https://crcs.seas.harvard.edu/">Center for Research on Computation and Society</a>at Harvard SEAS as a Summer Fellow</td>
+        <td>Joined the <a href="https://crcs.seas.harvard.edu/">Center for Research on Computation and Society</a> at Harvard SEAS as a Summer Fellow</td>
     </tr>
     <tr>
         <td valign="top"><strong>[Mar 2022]</strong></td>
