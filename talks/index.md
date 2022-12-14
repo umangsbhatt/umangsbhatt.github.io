@@ -10,8 +10,20 @@ Below is a list of research talks I have given.
 
 ----
 
+"[Algorithmic Transparency in Machine Learning](/reports/UB_HMT_2022.pdf)"
+* St. Edmund’s College, *Winter Programme on AI*. Virtual. December 2022.
+* University of Chicago, *Chicago Human+AI Lab*. Virtual. November 2022.
+* Alan Turing Institute, *Safe and Ethical AI Programme*. Virtual. November 2022.
+* Massachusetts Institute of Technology, *AI Ethics and Policy Group*. Virtual. October 2022.
+* Birbeck, University of London, *[Workshop on Human Behavioral Aspects of (X)AI](https://sites.google.com/view/human-behavioral-xai/)*. Virtual. September 2022.
+* Harvard University, *Data to Actionable Knowledge Lab*. Cambridge, MA. September 2022.
+* Harvard Business School, *AI4LIFE Lab*. Cambridge, MA. September 2022.
+* DeepMind, *Ethics Research Team*. Virtual. July 2022.
+
+----
+
 "Challenges and Frontiers in Deploying Transparent Machine Learning"
-* St. Edmund’s College, *Summer Programme in AI and Science*. Virtual. July 2022.
+* University of Electronic Science and Technology of China, *Summer Programme on AI and Science*. Virtual. July 2022.
 * University of Bristol, *[REPHRAIN](https://www.rephrain.ac.uk/rephrain-masterclass-challenges-and-frontiers-in-algorithmic-transparency/) Masterclass*. Virtual. June 2022.
 * University of Cambridge, *Guest Lecture for [MSt in AI Ethics and Society](http://lcfi.ac.uk/education/master-ai-ethics/)*. Cambridge, UK. June 2022.
 * University of Manchester, *Keynote at [Advances in Data Science and AI Conference](https://www.idsai.manchester.ac.uk/connect/events/conference/conference2022/conference-schedule/)*. Virtual. June 2022.

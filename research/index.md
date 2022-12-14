@@ -11,6 +11,12 @@ My interests broadly lie in the field of **trustworthy machine learning** (ML). 
 
 ### Conference Publications (Refereed and Archived)
 
+1. Katherine Collins\*, **Umang Bhatt**\*, Adrian Weller      
+<span style="color:navy">Eliciting and Learning with Soft Labels from Every Annotator</span>      
+*AAAI Conference on Human Computation and Crowdsourcing (HCOMP), 2022.*          
+[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/2207.00810)
+[<button type="button" class="btn btn-danger">Code</button>](https://github.com/cambridge-mlg/cifar-10s/)        
+
 1. Varun Babbar, **Umang Bhatt**, Adrian Weller      
 <span style="color:navy">On the Utility of Prediction Sets in Human-AI Teams</span>      
 *International Joint Conference on Artificial Intelligence (IJCAI), 2022.* **(Oral)**       
