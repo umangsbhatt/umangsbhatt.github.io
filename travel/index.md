@@ -10,6 +10,7 @@ share: false
 
 Upon moving to the United Kingdom in Fall 2019, I decided to *attempt* to visit every nation in Europe during my Ph.D. I will keep a running list here with the date and first city I visit:
 
+1. Finland: March 22, 2023. (Helsinki for ELSA)
 1. Wales: May 29, 2022. (Cardiff with MA and DL)
 1. San Marino: April 19, 2022. (San Marino with ED)
 1. Italy: March 28, 2022. (Pisa with ZV and AF)

@@ -6,10 +6,22 @@ modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 ---
 
-My interests broadly lie in the field of **trustworthy machine learning** (ML). Specifically, I focus on algorithmic transparency and its effects on decision-making. I study how to create ML systems that explain their predictions to stakeholders, leverage stakeholder expertise for better human-machine team performance, and interact with stakeholders to account for their goals and values.
+My interests broadly lie in the field of **trustworthy machine learning** (ML). Specifically, I focus on algorithmic transparency and its effects on decision-making. I study how to create ML systems that explain their predictions to stakeholders and leverage stakeholder expertise for better human-machine team performance.
 
+You can find the most up-to-date list of my work on [Google Scholar](https://scholar.google.com/citations?user=qq8bxPkAAAAJ&hl=en).
 
 ### Conference Publications (Refereed and Archived)
+
+1. Katherine Collins, **Umang Bhatt**, Weiyang Liu, Vihari Piratla, Ilia Sucholutsky, Bradley Love, Adrian Weller      
+<span style="color:navy">Human-in-the-Loop Mixup</span>      
+*Conference on Uncertainty in Artificial Intelligence (UAI), 2023.*          
+[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/2211.01202)        
+
+1. Yuxin Xiao, Paul Pu Liang, **Umang Bhatt**,  Willie Neiswanger, Ruslan Salakhutdinov, Louis-Philippe Morency   
+<span style="color:navy">Uncertainty Quantification with Pre-trained Language Models: A Large-Scale Empirical Analysis</span>      
+*Findings of the Association for Computational Linguistics (EMNLP), 2022.*          
+[<button type="button" class="btn btn-info">Paper</button>](https://aclanthology.org/2022.findings-emnlp.538/)
+[<button type="button" class="btn btn-danger">Code</button>](https://github.com/xiaoyuxin1002/UQ-PLM)     
 
 1. Katherine Collins\*, **Umang Bhatt**\*, Adrian Weller      
 <span style="color:navy">Eliciting and Learning with Soft Labels from Every Annotator</span>      
@@ -107,7 +119,7 @@ My interests broadly lie in the field of **trustworthy machine learning** (ML). 
 
 -----
 
-### Workshop Publications (Refereed)
+### Workshop Publications (Refereed) -- Not Updated Frequently
 
 1. Valerie Chen\*, **Umang Bhatt**\*, Hoda Heidari, Adrian Weller, Ameet Talwalkar      
 <span style="color:navy">Perspectives on Incorporating Expert Feedback into Model Updates</span>      
