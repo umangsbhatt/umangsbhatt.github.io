@@ -6,7 +6,8 @@ modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 ---
 
-I am very fortunate to co-supervise and mentor stellar students:
+I am very fortunate to co-supervise and mentor stellar students:   
+
 **University of Cambridge (2020-Present)**
 * [Matthew Barker](https://matthewbarker.me/), MEng in Information Engineering 
 * [Vivek Palaniappan](https://www.linkedin.com/in/vivek-palaniappan), MEng in Information Engineering *(Next: Citadel)*
