@@ -11,10 +11,13 @@ I am very fortunate to co-supervise and mentor stellar students:
 **University of Cambridge (2020-Present)**
 * [Matthew Barker](https://matthewbarker.me/), MEng in Information Engineering 
 * [Vivek Palaniappan](https://www.linkedin.com/in/vivek-palaniappan), MEng in Information Engineering *(Next: Citadel)*
-* [Katherine Collins](https://collinskatie.github.io/), MPhil in Machine Learning and Machine Intelligence *(Departmental Thesis Distinction -- Next: ML PhD at Cambridge)*
-* [Varun Babbar](https://scholar.google.com/citations?user=cXV58usAAAAJ&hl=en), MEng in Information Engineering *(Winner of 2022 Engineering Division F Thesis Prize -- Next: CS PhD at Duke)*
+* [Katherine Collins](https://collinskatie.github.io/), MPhil in Machine Learning and Machine Intelligence *(Next: ML PhD at Cambridge)*
+Departmental Thesis Distinction
+* [Varun Babbar](https://scholar.google.com/citations?user=cXV58usAAAAJ&hl=en), MEng in Information Engineering *(Next: CS PhD at Duke)*
+Winner of 2022 Engineering Division F Thesis Prize
 * [Javier Abad Martinez](https://ml.inf.ethz.ch/people/person-detail.MzEwOTc5.TGlzdC8xODA3LC0xNzg2MjE4NDI4.html), Research Assistant *(Next: CS PhD at ETH Zurich)*
-* [Dan Ley](https://www.dan-ley.com/), MEng in Information Engineering *(Winner of 2021 Engineering Division F Thesis Prize -- Next: CS PhD at Harvard)*
+* [Dan Ley](https://www.dan-ley.com/), MEng in Information Engineering *(Next: CS PhD at Harvard)*
+Winner of 2021 Engineering Division F Thesis Prize
 
 -----
 
