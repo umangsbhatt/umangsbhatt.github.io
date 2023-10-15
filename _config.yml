@@ -25,9 +25,9 @@ kramdown:
 owner:
   name: Umang Bhatt
   avatar: bio.jpg
-  position: Assistant Professor and Faculty Fellow
+  position: Assistant Professor & Faculty Fellow
   school: New York University
-  place: New York, NY
+  place: #
   bio: "Faculty Fellow, New York University"
   email: umangbhatt@nyu.edu
   disqus-shortname:
@@ -36,7 +36,7 @@ owner:
   facebook: #username
   google:
     plus: 
-    analytics: UA-134194584-1
+    analytics: G-JN7HSBS1PH
     verify:
     ad-client:
     ad-slot:
