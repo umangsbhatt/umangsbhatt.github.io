@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Courses
-tags: [courses, umang, bhatt, cambridge, cmu, graduate]
+title: Teaching
+tags: [teaching, umang, bhatt, cambridge, cmu, graduate]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 ---

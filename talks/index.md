@@ -11,6 +11,8 @@ Below is a list of research talks I have given.
 ----
 
 "[Algorithmic Transparency in Machine Learning](/reports/UB_HMT_2022.pdf)"
+* House of Lords, *Select Committee on AI in Weapon Systems*. Cambridge, UK. June 2023.
+* Indian Institute of Technology Bombay, *C-MInDS Seminar*. Mumbai, India. January 2023.
 * St. Edmund’s College, *Winter Programme on AI*. Virtual. December 2022.
 * University of Chicago, *Chicago Human+AI Lab*. Virtual. November 2022.
 * Alan Turing Institute, *Safe and Ethical AI Programme*. Virtual. November 2022.
