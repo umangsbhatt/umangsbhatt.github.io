@@ -6,15 +6,15 @@ modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 ---
 
-My interests broadly lie in the field of **trustworthy machine learning** (ML). Specifically, I focus on algorithmic transparency and its effects on decision-making. I study how to create ML systems that explain their predictions to stakeholders and leverage stakeholder expertise for better human-machine team performance.
+My interests broadly lie in the field of **trustworthy machine learning** (ML). Specifically, I focus on algorithmic transparency and its effects on decision-making in human-machine teams. I build tools for routing decision-makers to appropriate forms of decision support and for capturing how AI systems are used in decision-making contexts all over the world. I study how to create ML systems that explain their predictions to stakeholders and leverage stakeholder expertise for better human-machine team performance.
 
-You can find the most up-to-date list of my work on [Google Scholar](https://scholar.google.com/citations?user=qq8bxPkAAAAJ&hl=en).
+You can find the most up-to-date list of my work on [Google Scholar](https://scholar.google.com/citations?user=qq8bxPkAAAAJ&hl=en). The list below is not maintained regularly. 
 
 ### Conference Publications (Refereed and Archived)
 
 1. Katherine Collins, **Umang Bhatt**, Weiyang Liu, Vihari Piratla, Ilia Sucholutsky, Bradley Love, Adrian Weller      
 <span style="color:navy">Human-in-the-Loop Mixup</span>      
-*Conference on Uncertainty in Artificial Intelligence (UAI), 2023.*          
+*Conference on Uncertainty in Artificial Intelligence (UAI), 2023.* **(Oral)**             
 [<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/2211.01202)        
 
 1. Yuxin Xiao, Paul Pu Liang, **Umang Bhatt**,  Willie Neiswanger, Ruslan Salakhutdinov, Louis-Philippe Morency   

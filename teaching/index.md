@@ -6,10 +6,10 @@ modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 ---
 
-I am very fortunate to co-supervise and mentor stellar students:   
+I am very fortunate to co-supervise and mentor stellar students.   
 
-**University of Cambridge (2020-Present)**
-* [Matthew Barker](https://matthewbarker.me/), MEng in Information Engineering 
+**University of Cambridge (2020-2023)**
+* [Matthew Barker](https://matthewbarker.me/), MEng in Information Engineering *(Next: Trustwise)* 
 * [Vivek Palaniappan](https://www.linkedin.com/in/vivek-palaniappan), MEng in Information Engineering *(Next: Citadel)*
 * [Katherine Collins](https://collinskatie.github.io/), MPhil in Machine Learning and Machine Intelligence *(Next: ML PhD at Cambridge)*
 Departmental Thesis Distinction
@@ -23,7 +23,7 @@ Winner of 2021 Engineering Division F Thesis Prize
 
 Below is a list of courses for which I was a teaching assistant.
 
-**University of Cambridge (2020-Present)**
+**University of Cambridge (2020-2023)**
 * Lent 2023: [Inference](http://teaching.eng.cam.ac.uk/content/engineering-tripos-part-iia-3f8-inference-2022-23) (3F8) taught by [Jose Miguel Hernandez-Lobato](https://jmhl.org/) and [David Krueger](https://www.davidscottkrueger.com/)
 * Lent 2022: [Inference](http://teaching.eng.cam.ac.uk/content/engineering-tripos-part-iia-3f8-inference-2021-22) (3F8) taught by [Richard E. Turner](http://learning.eng.cam.ac.uk/Public/Turner/WebHome) and [David Krueger](https://www.davidscottkrueger.com/)
 * Michaelmas 2020: [Probabilistic Machine Learning](http://mlg.eng.cam.ac.uk/teaching/4f13/1920/) (4F13) taught by [Zoubin Ghahramani](http://mlg.eng.cam.ac.uk/zoubin/) and [Jose Miguel Hernandez-Lobato](https://jmhl.org/)

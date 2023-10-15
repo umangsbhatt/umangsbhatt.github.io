@@ -6,12 +6,9 @@ modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 ---
 
-I am a PhD candidate in the [Machine Learning Group](http://mlg.eng.cam.ac.uk/) at the [University of Cambridge](https://www.cam.ac.uk/), where I am supervised by [Adrian Weller](http://mlg.eng.cam.ac.uk/adrian/). My research interests lie in machine learning, explainable artificial intelligence, and human-machine collaboration.
+I am an Assistant Professor and Faculty Fellow at the [Center for Data Science](https://cds.nyu.edu/) at [New York University](https://www.nyu.edu/). I spent my PhD years in the [Machine Learning Group](http://mlg.eng.cam.ac.uk/) at the [University of Cambridge](https://www.cam.ac.uk/), where I was advised by [Adrian Weller](http://mlg.eng.cam.ac.uk/adrian/). Currently, I am also a Research Associate at the [Alan Turing Institute](http://turing.ac.uk/) and an Advisor to the [Responsible AI Institute](https://www.responsible.ai/). My research interests lie in trustworthy machine learning, responsible artificial intelligence, and human-machine collaboration.
 
-My PhD research is funded by the [Leverhulme Center for the Future of Intelligence](http://lcfi.ac.uk/) (Trust and Transparency Initiative) with generous donations from [DeepMind](https://deepmind.com/) and [Leverhulme Trust](https://www.leverhulme.ac.uk/). Currently, I am a Research Associate at the [Alan Turing Institute](http://turing.ac.uk/) and an Advisor at the [Responsible AI Institute](https://www.responsible.ai/). Previously, I was a Fellow at the [Mozilla Foundation](https://foundation.mozilla.org/en/) and a Research Fellow at the [Partnership on AI](https://www.partnershiponai.org/).
-
-I completed a joint bachelors-masters in [Electrical and Computer Engineering](http://www.ece.cmu.edu/) at [Carnegie Mellon University](http://www.cmu.edu/) advised by [Jos&eacute; Moura](http://users.ece.cmu.edu/~moura/). During four wonderful years in Pittsburgh, I collaborated with [Pradeep Ravikumar](http://www.cs.cmu.edu/~pradeepr/) on explainable AI and [Zico Kolter](http://zicokolter.com/) on automated pothole detection. 
- <!-- [Fei Fang](https://feifang.info/) and [Manuela Veloso](https://www.cs.cmu.edu/~mmv/) on robot affect expression in competitive settings, and [Radu Marculescu](http://users.ece.utexas.edu/~radum/) on network science for deep learning.  -->
+My PhD research was funded by the [Leverhulme Center for the Future of Intelligence](http://lcfi.ac.uk/) (Trust and Transparency Initiative) with generous donations from [DeepMind](https://deepmind.com/) and [Leverhulme Trust](https://www.leverhulme.ac.uk/). Previously, I was a Fellow at the [Mozilla Foundation](https://foundation.mozilla.org/en/) and a Research Fellow at the [Partnership on AI](https://www.partnershiponai.org/). I completed a joint bachelors-masters in [Electrical and Computer Engineering](http://www.ece.cmu.edu/) at [Carnegie Mellon University](http://www.cmu.edu/). <!--advised by [Jos&eacute; Moura](http://users.ece.cmu.edu/~moura/). During four wonderful years in Pittsburgh, I collaborated with [Pradeep Ravikumar](http://www.cs.cmu.edu/~pradeepr/) on explainable AI and [Zico Kolter](http://zicokolter.com/) on automated pothole detection.[Fei Fang](https://feifang.info/) and [Manuela Veloso](https://www.cs.cmu.edu/~mmv/) on robot affect expression in competitive settings, and [Radu Marculescu](http://users.ece.utexas.edu/~radum/) on network science for deep learning.  -->
 
 I grew up in Basking Ridge, New Jersey, USA.
 
@@ -21,14 +18,18 @@ I grew up in Basking Ridge, New Jersey, USA.
 <table class='news-table'>
     <col width="15%">
     <col width="85%">
+    <tr>
+        <td valign="top"><strong>[Oct 2023]</strong></td>
+        <td>Joined the <a href="https://nyudatascience.medium.com/meet-the-fellow-umang-bhatt-33fc9a3edf99">Center for Data Science</a> at New York University as an Assistant Professor & Faculty Fellow</td>
+    </tr>
         <tr>
         <td valign="top"><strong>[Jul 2022]</strong></td>
         <td>Joined the <a href="https://crcs.seas.harvard.edu/">Center for Research on Computation and Society</a> at Harvard SEAS as a Summer Fellow</td>
     </tr>
-    <tr>
+    <!-- <tr>
         <td valign="top"><strong>[Mar 2022]</strong></td>
         <td>Awarded a <a href="http://www.eng.cam.ac.uk/news/phd-student-umang-bhatt-has-been-awarded-jp-morgan-ai-phd-fellowship">J.P. Morgan AI PhD Fellowship</a></td>
-    </tr>
+    </tr> -->
     <!-- <tr>
         <td valign="top"><strong>[Feb 2022]</strong></td>
         <td>Launched the Alan Turing Institute's Interest Group on Human-Machine Teams</td>
