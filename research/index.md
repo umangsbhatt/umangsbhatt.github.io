@@ -13,7 +13,7 @@ You can find the most up-to-date list of my work on [Google Scholar](https://sch
 ### Journal and Conference Publications (Refereed and Archived)
 
 1. **Umang Bhatt**\*, Holli Sargeant\*      
-<span style="color:navy">When Should Algorithms Resign? A Proposal for AI Governance</span>      
+<span style="color:SlateBlue">When Should Algorithms Resign? A Proposal for AI Governance</span>      
 *(Forthcoming) IEEE Computer, 2024.*      
 [<button type="button" class="btn btn-info">Preprint</button>](https://arxiv.org/abs/2402.18326)   
 

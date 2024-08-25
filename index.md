@@ -8,7 +8,7 @@ comments: false
 
 I am an Assistant Professor and Faculty Fellow at the [Center for Data Science](https://cds.nyu.edu/) at [New York University](https://www.nyu.edu/). I spent my PhD years in the [Machine Learning Group](http://mlg.eng.cam.ac.uk/) at the [University of Cambridge](https://www.cam.ac.uk/), where I was advised by [Adrian Weller](http://mlg.eng.cam.ac.uk/adrian/). Currently, I am also a Research Associate at the [Alan Turing Institute](http://turing.ac.uk/) and an Advisor to the [Responsible AI Institute](https://www.responsible.ai/). My research interests lie in trustworthy machine learning, responsible artificial intelligence, and human-machine collaboration.
 
-My PhD research was funded by the [Leverhulme Center for the Future of Intelligence](http://lcfi.ac.uk/) (Trust and Transparency Initiative) with generous donations from [Google DeepMind](https://deepmind.com/) and the [Leverhulme Trust](https://www.leverhulme.ac.uk/). Previously, I was a Summer Fellow at the [https://crcs.seas.harvard.edu/](Center for Research on Computation and Society) within Harvard SEAS, a Fellow at the [Mozilla Foundation](https://foundation.mozilla.org/en/) and a Research Fellow at the [Partnership on AI](https://www.partnershiponai.org/). I completed a joint bachelors-masters in [Electrical and Computer Engineering](http://www.ece.cmu.edu/) at [Carnegie Mellon University](http://www.cmu.edu/). I grew up in Basking Ridge, New Jersey, USA.
+My PhD research was funded by the [Leverhulme Center for the Future of Intelligence](http://lcfi.ac.uk/) (Trust and Transparency Initiative) with generous donations from [Google DeepMind](https://deepmind.com/) and the [Leverhulme Trust](https://www.leverhulme.ac.uk/). Previously, I was a Summer Fellow at the [Center for Research on Computation and Society](https://crcs.seas.harvard.edu/) within Harvard SEAS, a Fellow at the [Mozilla Foundation](https://foundation.mozilla.org/en/) and a Research Fellow at the [Partnership on AI](https://www.partnershiponai.org/). I completed a joint bachelors-masters in [Electrical and Computer Engineering](http://www.ece.cmu.edu/) at [Carnegie Mellon University](http://www.cmu.edu/). I grew up in Basking Ridge, New Jersey, USA.
 
 <!-- , where I worked with [Jos&eacute; Moura](http://users.ece.cmu.edu/~moura/). During four wonderful years in Pittsburgh, I collaborated with [Pradeep Ravikumar](http://www.cs.cmu.edu/~pradeepr/) on explainable AI and [Zico Kolter](http://zicokolter.com/) on automated pothole detection.[Fei Fang](https://feifang.info/) and [Manuela Veloso](https://www.cs.cmu.edu/~mmv/) on robot affect expression in competitive settings, and [Radu Marculescu](http://users.ece.utexas.edu/~radum/) on network science for deep learning.  -->
 
@@ -21,7 +21,7 @@ My PhD research was funded by the [Leverhulme Center for the Future of Intellige
     <col width="15%">
     <col width="85%">
     <tr>
-        <td valign="top"><strong>[Summer 2024]</strong></td>
+        <td valign="top"><strong>[Jul 2024]</strong></td>
         <td>Served as Associate Chair for <a href="https://icml.cc/Conferences/2024">ICML 2024</a> and as Finance Chair for <a href="https://facctconference.org/">FAccT 2024</a> </td>
     </tr>
     <tr>
@@ -30,7 +30,7 @@ My PhD research was funded by the [Leverhulme Center for the Future of Intellige
     </tr>
      <tr>
         <td valign="top"><strong>[Nov 2023]</strong></td>
-        <td>Passed my PhD viva with no corrections: <a href="https://www.repository.cam.ac.uk/items/065ba398-4026-43f1-b925-641fb8d6dd82">thesis</a>  </td>
+        <td>Passed my PhD viva with no corrections! My<a href="https://www.repository.cam.ac.uk/items/065ba398-4026-43f1-b925-641fb8d6dd82">thesis</a> is publicly available</td>
     </tr>    
     <tr>
         <td valign="top"><strong>[Jul 2023]</strong></td>
