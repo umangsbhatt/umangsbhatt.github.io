@@ -34,7 +34,7 @@ My PhD research was funded by the [Leverhulme Center for the Future of Intellige
     </tr>
      <tr>
         <td valign="top"><strong>[Nov 2023]</strong></td>
-        <td>Passed my PhD viva with no corrections! My<a href="https://www.repository.cam.ac.uk/items/065ba398-4026-43f1-b925-641fb8d6dd82">thesis</a> is publicly available</td>
+        <td>Passed my PhD viva with no corrections! My <a href="https://www.repository.cam.ac.uk/items/065ba398-4026-43f1-b925-641fb8d6dd82">thesis</a> is publicly available</td>
     </tr>    
     <tr>
         <td valign="top"><strong>[Jul 2023]</strong></td>
