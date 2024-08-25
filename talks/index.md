@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Talks
-tags: [talks, umang, bhatt, cambridge, cmu, graduate]
+tags: [talks, umang, bhatt, cmu, cambridge, explainability, machine learning, ML, interpretability, artificial intelligence, AI, graduate, human-machine team, human-AI, collaboration, responsible AI, nyu, professor]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 ---
@@ -10,7 +10,20 @@ Below is a list of research talks I have given.
 
 ----
 
+"[Algorithmic Resignation](/reports/UB_AR_2024.pdf)"
+* TU Dortmund, *RC Trustworthy Data Science Seminar*. Dortmund, Germany. July 2024.
+* Google, *Responsible AI Talk Series*. Virtual. July 2024.
+* Aalto University, *ELISE HCML Workshop*. Helsinki, Finland. June 2024.
+* KTH Royal Institute of Technology, *[RPL Summer School](https://summer-school.rpl.eecs.kth.se/#speakers)*. Stockholm, Sweden. June 2024.
+* NYU, *Center for Data Science Seminar*. New York, NY. April 2024.
+* Department of Defense, *Chief Digital and Artificial Intelligence Office (CDAO)*. Virtual. February 2024.
+* KAUST, *[Rising Stars in AI Symposium](https://drive.google.com/file/d/1o_tNcD4-Yp-PE0yI4OZzijfQPntrP8bmtKmWLn28FtM/preview)*. Jeddah, Saudi Arabia. February 2024.
+* Instituto dos Advogados de São Paulo - IASP, *Seminar*. São Paulo, Brazil. December 2023.
+
+----
+
 "[Algorithmic Transparency in Machine Learning](/reports/UB_HMT_2022.pdf)"
+* NYU, *Center for Responsible AI*. New York, NY. November 2023.
 * House of Lords, *Select Committee on AI in Weapon Systems*. Cambridge, UK. June 2023.
 * Indian Institute of Technology Bombay, *C-MInDS Seminar*. Mumbai, India. January 2023.
 * St. Edmund’s College, *Winter Programme on AI*. Virtual. December 2022.

@@ -1,27 +1,19 @@
 ---
 layout: page
 title: Teaching
-tags: [teaching, umang, bhatt, cambridge, cmu, graduate]
+tags: [teaching, umang, bhatt, cmu, cambridge, explainability, machine learning, ML, interpretability, artificial intelligence, AI, graduate, human-machine team, human-AI, collaboration, responsible AI, nyu, professor]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 ---
 
-I am very fortunate to co-supervise and mentor stellar students.   
+I have taught the following courses. 
 
-**University of Cambridge (2020-2023)**
-* [Matthew Barker](https://matthewbarker.me/), MEng in Information Engineering *(Next: Trustwise)* 
-* [Vivek Palaniappan](https://www.linkedin.com/in/vivek-palaniappan), MEng in Information Engineering *(Next: Citadel)*
-* [Katherine Collins](https://collinskatie.github.io/), MPhil in Machine Learning and Machine Intelligence *(Next: ML PhD at Cambridge)*
-Departmental Thesis Distinction
-* [Varun Babbar](https://scholar.google.com/citations?user=cXV58usAAAAJ&hl=en), MEng in Information Engineering *(Next: CS PhD at Duke)*
-Winner of 2022 Engineering Division F Thesis Prize
-* [Javier Abad Martinez](https://ml.inf.ethz.ch/people/person-detail.MzEwOTc5.TGlzdC8xODA3LC0xNzg2MjE4NDI4.html), Research Assistant *(Next: CS PhD at ETH Zurich)*
-* [Dan Ley](https://www.dan-ley.com/), MEng in Information Engineering *(Next: CS PhD at Harvard)*
-Winner of 2021 Engineering Division F Thesis Prize
+**New York University (2023-Present)**
+* Spring 2024: [Responsible Data Science](https://dataresponsibly.github.io/rds24/) (DS-UA 202)
 
 -----
 
-Below is a list of courses for which I was a teaching assistant.
+I was a teaching assistant for the following courses.
 
 **University of Cambridge (2020-2023)**
 * Lent 2023: [Inference](http://teaching.eng.cam.ac.uk/content/engineering-tripos-part-iia-3f8-inference-2022-23) (3F8) taught by [Jose Miguel Hernandez-Lobato](https://jmhl.org/) and [David Krueger](https://www.davidscottkrueger.com/)

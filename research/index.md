@@ -1,21 +1,100 @@
 ---
 layout: page
 title: Research
-tags: [research, umang, bhatt, cambridge, cmu, graduate, explainability, interpretability, explainable AI]
+tags: [research, umang, bhatt, cmu, cambridge, explainability, machine learning, ML, interpretability, artificial intelligence, AI, graduate, human-machine team, human-AI, collaboration, responsible AI, nyu, professor]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 ---
 
-My interests broadly lie in the field of **trustworthy machine learning** (ML). Specifically, I focus on algorithmic transparency and its effects on decision-making in human-machine teams. I build tools for routing decision-makers to appropriate forms of decision support and for capturing how AI systems are used in decision-making contexts all over the world. 
+My interests broadly lie in the field of **trustworthy machine learning** (ML). During my PhD, I focused on algorithmic transparency and its effects on AI-assisted decision-making. I am currently build tools for routing decision-makers to appropriate forms of decision support and for cataloging how AI systems are used in decision-making contexts all over the world. 
 
-You can find the most up-to-date list of my work on [Google Scholar](https://scholar.google.com/citations?user=qq8bxPkAAAAJ&hl=en). The list below is not maintained regularly. 
+You can find the most up-to-date list of my work on [Google Scholar](https://scholar.google.com/citations?user=qq8bxPkAAAAJ&hl=en). The list below is updated periodically. 
 
-### Conference Publications (Refereed and Archived)
+### Journal and Conference Publications (Refereed and Archived)
+
+1. **Umang Bhatt**\*, Holli Sargeant\*      
+<span style="color:navy">When Should Algorithms Resign? A Proposal for AI Governance</span>      
+*(Forthcoming) IEEE Computer, 2024.*      
+[<button type="button" class="btn btn-info">Preprint</button>](https://arxiv.org/abs/2402.18326)   
+
+1. Katherine Collins\*, Ilia Sucholutsky\*, **Umang Bhatt**\*, Kartik Chandra, Lionel Wong, Mina Lee, Cedegao Zhang, Tan Zhi-Xuan, Mark Ho, Vikash Mansinghka, Adrian Weller, Joshua Tenenbaum, Thomas Griffths      
+<span style="color:navy">Building Machines that Learn and Think with People</span>      
+*(Forthcoming) Nature Human Behavior, 2024.*      
+[<button type="button" class="btn btn-info">Preprint</button>](https://arxiv.org/abs/2408.03943)   
+
+1. Katherine Collins, Albert Jiang, Simon Frieder, Lionel Wong, Miri Zilka, **Umang Bhatt**, Thomas Lukasiewicz, Yuhuai Wu, Joshua Tenenbaum, William Hart, Timothy Gowers, Wenda Li, Adrian Weller, Mateja Jamnik      
+<span style="color:navy">Evaluating Language Models for Mathematics through Interactionse</span>      
+*Proceedings of the National Academy of Sciences, 2024.*      
+[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/2408.03943)
+[<button type="button" class="btn btn-danger">Code</button>](https://github.com/barkermrl/feedback-log)   
+
+1. Sreejan Kumar, Raja Marjieh, Byron Zhang, Declan Campbell, Michael Hu, **Umang Bhatt**, Brenden Lake, Thomas Griffiths      
+<span style="color:navy">Comparing Abstraction in Humans and Large Language Models Using Multimodal Serial Reproduction</span>      
+*46th Annual Conference of the Cognitive Science Society (CogSci), 2024.*      
+[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/2402.03618)           
+
+1. Valerie Chen\*, **Umang Bhatt**\*, Hoda Heidari, Adrian Weller, Ameet Talwalkar      
+<span style="color:navy">Perspectives on Incorporating Expert Feedback into Model Updates</span>      
+*Patterns, 2023.*      
+[<button type="button" class="btn btn-info">Paper</button>](https://www.sciencedirect.com/science/article/pii/S2666389923001319)   
+
+1. Isa Inuwa-Dutse, Alice Toniolo, Adrian Weller, **Umang Bhatt**      
+<span style="color:navy">Algorithmic Loafing and Mitigation Strategies in Human-AI Teams</span>      
+*Computers in Human Behavior: Artificial Humans, 2023.*      
+[<button type="button" class="btn btn-info">Paper</button>](https://www.sciencedirect.com/science/article/pii/S2949882123000245) 
+
+1. Matthew Barker, Katherine Collins, Krishnamurthy Dvijotham, Adrian Weller, **Umang Bhatt**      
+<span style="color:navy">Selective Concept Models: Permitting Stakeholder Customisation at Test-Time</span>      
+*AAAI Conference on Human Computation and Crowdsourcing (HCOMP), 2023.*          
+[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/2306.08424)           
+
+1. Matthew Barker, Emma Kallina, Dhananjay Ashok, Katherine Collins, Ashley Casovan, Adrian Weller, Ameet Talwalkar, Valerie Chen, **Umang Bhatt**      
+<span style="color:navy">FeedbackLogs: Recording and Incorporating Stakeholder Feedback into Machine Learning Pipeline</span>      
+*ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO), 2023.*          
+[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/2307.15475)
+[<button type="button" class="btn btn-danger">Code</button>](https://github.com/barkermrl/feedback-log)
+[<button type="button" class="btn">Press</button>](https://montrealethics.ai/feedbacklogs-recording-and-incorporating-stakeholder-feedback-into-machine-learning-pipelines/)               
+
+1. Alan Chan, Rebecca Salganik, Alva Markelius, Chris Pang, Nitarshan Rajkumar, Dmitrii Krasheninnikov, Lauro Langosco, Zhonghao He, Yawen Duan, Micah Carroll, Michelle Lin, Alex Mayhew, Katherine Collins, Maryam Molamohammadi, John Burden, Wanru Zhao, Shalaleh Rismani, Konstantinos Voudouris, **Umang Bhatt**, Adrian Weller, David Krueger, Tegan Maharaj              
+<span style="color:navy">Harms from Increasingly Agentic Algorithmic Systems</span>      
+*ACM Conference on Fairness, Accountability, and Transparency (FAccT), 2023.*              
+[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/2302.10329)    
+
+1. Katherine Collins, Matthew Barker, Mateo Espinosa Zarlenga, Naveen Raman, **Umang Bhatt**, Mateja Jamnik, Ilia Sucholutsky, Adrian Weller, Krishnamurthy Dvijotham      
+<span style="color:navy">Human Uncertainty in Concept-Based AI Systems</span>      
+*AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society (AIES), 2023.*              
+[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/2303.12872)
+[<button type="button" class="btn">Press</button>](https://www.cam.ac.uk/research/news/how-sure-is-sure-incorporating-human-error-into-machine-learning)            
+
+1. Zeju Qiu, Weiyang Liu, Tim Xiao, Zhen Liu, Yucen Luo, **Umang Bhatt**, Adrian Weller, Bernhard Scholkopf       
+<span style="color:navy">Iterative Teaching by Data Hallucination</span>      
+*International Conference on Artificial Intelligence and Statistics (AISTATS), 2023.*                
+[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/2210.17467)    
+
+1. Javier Abad Martinez, **Umang Bhatt**, Adrian Weller, Giovanni Cherubin       
+<span style="color:navy">Approximating Full Conformal Prediction at Scale via Influence Functions</span>      
+*AAAI Conference on Artificial Intelligence (AAAI), 2023.*                
+[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/2202.01315)    
+
+1. Mateo Zarlenga, Pietro Barbiero, Zohreh Shams, Dmitry Kazhdan, **Umang Bhatt**, Adrian Weller, Mateja Jamnik       
+<span style="color:navy">Towards Robust Metrics for Concept Representation Evaluation</span>      
+*AAAI Conference on Artificial Intelligence (AAAI), 2023.*                
+[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/2301.10367)    
 
 1. Katherine Collins, **Umang Bhatt**, Weiyang Liu, Vihari Piratla, Ilia Sucholutsky, Bradley Love, Adrian Weller      
 <span style="color:navy">Human-in-the-Loop Mixup</span>      
 *Conference on Uncertainty in Artificial Intelligence (UAI), 2023.* **(Oral)**             
 [<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/2211.01202)        
+
+1. Ilia Sucholutsky, Ruairidh Battleday, Katherine Collins, Raja Marjieh, Joshua Peterson, Pulkit Singh, **Umang Bhatt**, Nori Jacoby, Adrian Weller, Thomas Griffiths            
+<span style="color:navy">On the Informativeness of Supervision Signals</span>      
+*Conference on Uncertainty in Artificial Intelligence (UAI), 2023.*              
+[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/2211.01407)        
+
+1. John Zerilli, **Umang Bhatt**, Adrian Weller      
+<span style="color:navy">How Transparency Modulates Trust in Artificial Intelligence</span>      
+*Patterns, 2022.*             
+[<button type="button" class="btn btn-info">Paper</button>](https://www.sciencedirect.com/science/article/pii/S2666389922000289)     
 
 1. Yuxin Xiao, Paul Pu Liang, **Umang Bhatt**,  Willie Neiswanger, Ruslan Salakhutdinov, Louis-Philippe Morency   
 <span style="color:navy">Uncertainty Quantification with Pre-trained Language Models: A Large-Scale Empirical Analysis</span>      
@@ -70,7 +149,7 @@ You can find the most up-to-date list of my work on [Google Scholar](https://sch
 
 1. **Umang Bhatt**, Alice Xiang, Shubham Sharma, Adrian Weller, Ankur Taly, Yunhan Jia, Joydeep Ghosh, Ruchir Puri, Jos&eacute; M. F. Moura, Peter Eckersley  
 <span style="color:navy">Explainable Machine Learning in Deployment</span>   
-*ACM Conference on Fairness, Accountability, and Transparency (FAT\*), 2020.*   
+*ACM Conference on Fairness, Accountability, and Transparency (FAccT), 2020.*   
 [<button type="button" class="btn btn-info">Paper</button>](https://dl.acm.org/doi/abs/10.1145/3351095.3375624)
 [<button type="button" class="btn btn-success">Poster</button>](/reports/hcml.pdf){:target="_blank"} 
 [<button type="button" class="btn">Blog</button>](https://www.partnershiponai.org/xai-in-practice/)
@@ -105,12 +184,16 @@ You can find the most up-to-date list of my work on [Google Scholar](https://sch
 
 -----
 
-### Journal Papers and Book Chapters (Refereed and Archived)    
+### Theses    
 
-1. John Zerilli, **Umang Bhatt**, Adrian Weller      
-<span style="color:navy">How Transparency Modulates Trust in Artificial Intelligence</span>      
-*Patterns, 2022.*             
-[<button type="button" class="btn btn-info">Paper</button>](https://www.sciencedirect.com/science/article/pii/S2666389922000289)   
+1. **Umang Bhatt**          
+<span style="color:navy">Trustworthy Machine Learning: From Algorithmic Transparency to Decision Support</span>      
+*Universty of Cambridge, 2024.*         
+[<button type="button" class="btn btn-info">Paper</button>](https://www.repository.cam.ac.uk/items/065ba398-4026-43f1-b925-641fb8d6dd82)   
+
+-----
+
+### Book Chapters (Refereed and Archived)    
 
 1. **Umang Bhatt**, Zohreh Shams      
 <span style="color:navy">Trust in Artificial Intelligence: Clinicians Are Essential</span>      
@@ -121,10 +204,15 @@ You can find the most up-to-date list of my work on [Google Scholar](https://sch
 
 ### Workshop Publications (Refereed) -- Not Updated Frequently
 
+1. Ana Lucic, Sheeraz Ahmad, Amanda Furtado Brinhosa, Vera Liao, Himani Agrawal, **Umang Bhatt**, Krishnaram Kenthapadi, Alice Xiang, Maarten de Rijke, Nicholas Drabowski      
+<span style="color:navy">Towards the Use of Saliency Maps for Explaining Low-Quality Electrocardiograms to End Users</span>      
+*ICML Workshop on Interpretable ML in Healthcare, 2022.*      
+[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/2207.02726)  
+
 1. Valerie Chen\*, **Umang Bhatt**\*, Hoda Heidari, Adrian Weller, Ameet Talwalkar      
 <span style="color:navy">Perspectives on Incorporating Expert Feedback into Model Updates</span>      
 *ICML Workshop on Updatable Machine Learning, 2022.*      
-[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/2205.06905) 
+[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/2205.06905)   
 
 1. **Umang Bhatt**, Adrian Weller, Giovanni Cherubin      
 <span style="color:navy">Fast Conformal Classification using Influence Functions</span>      
