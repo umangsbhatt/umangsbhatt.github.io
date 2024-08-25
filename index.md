@@ -21,6 +21,10 @@ My PhD research was funded by the [Leverhulme Center for the Future of Intellige
     <col width="15%">
     <col width="85%">
     <tr>
+        <td valign="top"><strong>[Aug 2024]</strong></td>
+        <td>Running a Responsible AI practical at <a href="https://deeplearningindaba.com/2024/">Deep Learning Indaba 2024</a>: see you in Dakar! </td>
+    </tr>
+    <tr>
         <td valign="top"><strong>[Jul 2024]</strong></td>
         <td>Served as Associate Chair for <a href="https://icml.cc/Conferences/2024">ICML 2024</a> and as Finance Chair for <a href="https://facctconference.org/">FAccT 2024</a> </td>
     </tr>
