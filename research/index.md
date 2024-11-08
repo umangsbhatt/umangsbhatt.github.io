@@ -10,17 +10,17 @@ My interests broadly lie in the field of **trustworthy machine learning** (ML). 
 
 You can find the most up-to-date list of my work on [Google Scholar](https://scholar.google.com/citations?user=qq8bxPkAAAAJ&hl=en). The list below is updated periodically. 
 
-### Journal and Conference Publications (Refereed and Archived)
+### Journal and Conference Publications (Refereed and Archived) 
+
+1. Katherine Collins\*, Ilia Sucholutsky\*, **Umang Bhatt**\*, Kartik Chandra\*, Lionel Wong\*, Mina Lee, Cedegao Zhang, Tan Zhi-Xuan, Mark Ho, Vikash Mansinghka, Adrian Weller, Joshua Tenenbaum, Thomas Griffths      
+<span style="color:SlateBlue">Building Machines that Learn and Think with People</span>      
+*Nature Human Behavior, 2024.*      
+[<button type="button" class="btn btn-info">Paper</button>](https://www.nature.com/articles/s41562-024-01991-9)    
 
 1. **Umang Bhatt**\*, Holli Sargeant\*      
 <span style="color:SlateBlue">When Should Algorithms Resign? A Proposal for AI Governance</span>      
-*(Forthcoming) IEEE Computer, 2024.*      
-[<button type="button" class="btn btn-info">Preprint</button>](https://arxiv.org/abs/2402.18326)   
-
-1. Katherine Collins\*, Ilia Sucholutsky\*, **Umang Bhatt**\*, Kartik Chandra, Lionel Wong, Mina Lee, Cedegao Zhang, Tan Zhi-Xuan, Mark Ho, Vikash Mansinghka, Adrian Weller, Joshua Tenenbaum, Thomas Griffths      
-<span style="color:SlateBlue">Building Machines that Learn and Think with People</span>      
-*(Forthcoming) Nature Human Behavior, 2024.*      
-[<button type="button" class="btn btn-info">Preprint</button>](https://arxiv.org/abs/2408.03943)   
+*IEEE Computer, 2024.*      
+[<button type="button" class="btn btn-info">Paper</button>](https://ieeexplore.ieee.org/document/10687308)  
 
 1. Katherine Collins, Albert Jiang, Simon Frieder, Lionel Wong, Miri Zilka, **Umang Bhatt**, Thomas Lukasiewicz, Yuhuai Wu, Joshua Tenenbaum, William Hart, Timothy Gowers, Wenda Li, Adrian Weller, Mateja Jamnik      
 <span style="color:SlateBlue">Evaluating Language Models for Mathematics through Interactionse</span>      

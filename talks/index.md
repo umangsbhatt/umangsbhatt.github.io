@@ -10,6 +10,11 @@ Below is a list of research talks I have given.
 
 ----
 
+"Trustworthy Machine Learning: Transparency, Collaboration, and Evaluation"
+* University of Cambridge, *Center for Human-Inspired AI*. Cambridge, UK. October 2024.
+
+----
+
 "[Algorithmic Resignation](/reports/UB_AR_2024.pdf)"
 * TU Dortmund, *RC Trustworthy Data Science Seminar*. Dortmund, Germany. July 2024.
 * Google, *Responsible AI Talk Series*. Virtual. July 2024.
