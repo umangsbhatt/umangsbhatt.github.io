@@ -13,6 +13,7 @@ I am very fortunate to supervise and mentor stellar students.
 * [Kendall Brogle](https://www.linkedin.com/in/kendall-brogle-752977240/), Research Assistant   
 
 **New York University (2023-Present)**
+* [Lujain Ibrahim](https://lujainibrahim.com/), Visiting PhD Student
 * [Elaf Almahmoud](https://elaugh.info/), MS in Computer Science
 * [Ghina Al-Shdaifat](https://www.linkedin.com/in/ghinaalshdaifat/), MS in Data Science
 * Mihir Upadhyay, MS in Data Science
