@@ -12,7 +12,7 @@ You can find the most up-to-date list of my work on [Google Scholar](https://sch
 
 ### Journal and Conference Publications (Refereed and Archived) 
 
-1. Katherine Collins\*, Ilia Sucholutsky\*, **Umang Bhatt**\*, Kartik Chandra\*, Lionel Wong\*, Mina Lee, Cedegao Zhang, Tan Zhi-Xuan, Mark Ho, Vikash Mansinghka, Adrian Weller, Joshua Tenenbaum, Thomas Griffths      
+1. Katherine Collins\*, Ilia Sucholutsky\*, **Umang Bhatt**\*, Kartik Chandra\*, Lionel Wong\*, Mina Lee, Cedegao Zhang, Tan Zhi-Xuan, Mark Ho, Vikash Mansinghka, Adrian Weller, Joshua Tenenbaum, Thomas Griffiths      
 <span style="color:SlateBlue">Building Machines that Learn and Think with People</span>      
 *Nature Human Behavior, 2024.*      
 [<button type="button" class="btn btn-info">Paper</button>](https://www.nature.com/articles/s41562-024-01991-9)    

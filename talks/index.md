@@ -11,7 +11,7 @@ Below is a list of research talks I have given.
 ----
 
 "Trustworthy Machine Learning: Transparency, Collaboration, and Evaluation"
-* University of Cambridge, *Center for Human-Inspired AI*. Cambridge, UK. October 2024.
+* University of Cambridge, *Centre for Human-Inspired AI*. Cambridge, UK. October 2024.
 
 ----
 
