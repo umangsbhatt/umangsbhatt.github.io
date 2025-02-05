@@ -16,6 +16,7 @@ Below is a list of research talks I have given.
 ----
 
 "[Algorithmic Resignation](/reports/UB_AR_2024.pdf)"
+* Universidad de los Andes, *Machine Learning Seminar*. Bogota, Colombia. December 2024.
 * TU Dortmund, *RC Trustworthy Data Science Seminar*. Dortmund, Germany. July 2024.
 * Google, *Responsible AI Talk Series*. Virtual. July 2024.
 * Aalto University, *ELISE HCML Workshop*. Helsinki, Finland. June 2024.
