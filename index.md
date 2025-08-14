@@ -10,48 +10,30 @@ I am an Assistant Professor at the [University of Cambridge](https://www.cam.ac.
 
 Previously, I was an Assistant Professor & Faculty Fellow at the [Center for Data Science](https://cds.nyu.edu/) at [New York University](https://www.nyu.edu/) and a Senior Research Associate at [Alan Turing Institute](http://turing.ac.uk/). I completed my PhD in the [Cambridge Machine Learning Group](http://mlg.eng.cam.ac.uk/), where I was advised by [Adrian Weller](http://mlg.eng.cam.ac.uk/adrian/). I hold a MS and BS in [Electrical and Computer Engineering](http://www.ece.cmu.edu/) from [Carnegie Mellon University](http://www.cmu.edu/). I grew up in Basking Ridge, New Jersey, USA.
 
-Stay tuned for details on our trustworthy AI lab. If you’re interested in joining or supporting us, please get in touch.
-
-
 ----
 
 ## Research
 
 I build trustworthy artificial intelligence (AI) systems for high-stakes deployment.  I am keen to develop new algorithms and tools that support effective human-AI interaction and manage the partnership between humans and AI systems. Drawing from machine learning, cognitive science, philosophy, and law, my group and I investigate when and how AI can be trusted, integrated into decision-making, and evaluated in ecologically valid settings. My work pays particular attention to critical domains such as healthcare, education, and national security, where transparency and human oversight of AI systems is essential. 
 
-While my full publication list can be found on [Google Scholar](https://scholar.google.com/citations?user=qq8bxPkAAAAJ&hl=en), here is a selection.
+While my full publication list can be found on [Google Scholar](https://scholar.google.com/citations?user=qq8bxPkAAAAJ&hl=en), here is a recent selection.
 
-1. <span style="color:SlateBlue">[Learning Personalized Decision Support Policies](https://ojs.aaai.org/index.php/AAAI/article/view/33555)</span>.   
-**Umang Bhatt**\*, Valerie Chen\*, Katherine Collins, Parameswaran Kamalaruban, Emma Kallina, Adrian Weller, Ameet Talwalkar.    
-*AAAI Conference on Artificial Intelligence (AAAI), 2025.*      
+1. <span style="color:SlateBlue">Learning Personalized Decision Support Policies</span>.  
+**Umang Bhatt**\*, Valerie Chen\*, Katherine Collins, Parameswaran Kamalaruban, Emma Kallina, Adrian Weller, Ameet Talwalkar   
+*AAAI Conference on Artificial Intelligence (AAAI), 2025* 
+[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33555)     
 
-1. Katherine Collins\*, Ilia Sucholutsky\*, **Umang Bhatt**\*, Kartik Chandra\*, Lionel Wong\*, Mina Lee, Cedegao Zhang, Tan Zhi-Xuan, Mark Ho, Vikash Mansinghka, Adrian Weller, Joshua Tenenbaum, Thomas Griffiths      
-<span style="color:SlateBlue">Building Machines that Learn and Think with People</span>      
-*Nature Human Behavior, 2024.*      
+1. <span style="color:SlateBlue">Building Machines that Learn and Think with People</span>.  
+Katherine Collins\*, Ilia Sucholutsky\*, **Umang Bhatt**\*, Kartik Chandra\*, Lionel Wong\*, Mina Lee, Cedegao Zhang, Tan Zhi-Xuan, Mark Ho, Vikash Mansinghka, Adrian Weller, Joshua Tenenbaum, Thomas Griffiths    
+*Nature Human Behavior, 2024*   
 [<button type="button" class="btn btn-info">Paper</button>](https://www.nature.com/articles/s41562-024-01991-9)    
 
-1. **Umang Bhatt**\*, Holli Sargeant\*      
-<span style="color:SlateBlue">When Should Algorithms Resign? A Proposal for AI Governance</span>      
-*IEEE Computer, 2024.*      
-[<button type="button" class="btn btn-info">Paper</button>](https://ieeexplore.ieee.org/document/10687308) 
-
-1. **Umang Bhatt**          
-<span style="color:SlateBlue">Trustworthy Machine Learning: From Algorithmic Transparency to Decision Support</span>      
-*Universty of Cambridge, 2023.*         
-[<button type="button" class="btn btn-info">Thesis</button>](https://www.repository.cam.ac.uk/items/065ba398-4026-43f1-b925-641fb8d6dd82)    
+1. <span style="color:SlateBlue">When Should Algorithms Resign? A Proposal for AI Governance</span>     
+**Umang Bhatt**\*, Holli Sargeant\*      
+*IEEE Computer, 2024*      
+[<button type="button" class="btn btn-info">Paper</button>](https://ieeexplore.ieee.org/document/10687308)          
    
-1. **Umang Bhatt**, Javier Antoran, Yunfeng Zhang, Q. Vera Liao, Prasanna Sattigeri, Riccardo Fogliato, Gabrielle Melancon, Ranganath Krishnan, Jason Stanley,  Omesh Tickoo, Lama Nachman, Rumi Chunara, Madhulika Srikumar, Adrian Weller, Alice Xiang     
-<span style="color:SlateBlue">Uncertainty as a Form of Transparency: Measuring, Communicating, and Using Uncertainty</span>   
-*AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society (AIES) 2021.*   
-[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/2011.07586)    
-
-1. **Umang Bhatt**, Alice Xiang, Shubham Sharma, Adrian Weller, Ankur Taly, Yunhan Jia, Joydeep Ghosh, Ruchir Puri, Jos&eacute; M. F. Moura, Peter Eckersley  
-<span style="color:SlateBlue">Explainable Machine Learning in Deployment</span>   
-*ACM Conference on Fairness, Accountability, and Transparency (FAccT), 2020.*   
-[<button type="button" class="btn btn-info">Paper</button>](https://dl.acm.org/doi/abs/10.1145/3351095.3375624)          
-   
-
-Over the years, my research has supported by many organizations, including the [Responsible AI Institute](https://www.responsible.ai/), [Harvard Center for Research on Computation and Society](https://crcs.seas.harvard.edu/), [Mozilla Foundation](https://foundation.mozilla.org/en/), [Partnership on AI](https://www.partnershiponai.org/), and the [Leverhulme Center for the Future of Intelligence](http://lcfi.ac.uk/) (Trust and Transparency Initiative) via generous donations from [Google DeepMind](https://deepmind.com/) and the [Leverhulme Trust](https://www.leverhulme.ac.uk/). 
+Over the years, my research has supported by the [Responsible AI Institute](https://www.responsible.ai/), [Harvard Center for Research on Computation and Society](https://crcs.seas.harvard.edu/), [Mozilla Foundation](https://foundation.mozilla.org/en/), [Partnership on AI](https://www.partnershiponai.org/), and the [Leverhulme Center for the Future of Intelligence](http://lcfi.ac.uk/) (Trust and Transparency Initiative) via generous donations from [Google DeepMind](https://deepmind.com/) and the [Leverhulme Trust](https://www.leverhulme.ac.uk/). 
 
 -----
 
@@ -67,7 +49,7 @@ I am fortunate to work with stellar students. We are an interdisciplinary, fast-
 
 
 
-### Former Advisees
+**Former Advisees**
 * [Mackenzie Jorgensen](https://mjorgen1.github.io/), Postdoctoral Research Assosciate, Alan Turing Institute  
 *Next: Postdoc at Northumbria* 
 * [Kendall Brogle](https://www.linkedin.com/in/kendall-brogle-752977240/), Research Assistant, Alan Turing Institute  
@@ -82,6 +64,8 @@ I am fortunate to work with stellar students. We are an interdisciplinary, fast-
 *Next: PhD at ETH Zurich* 
 * [Dan Ley](https://www.dan-ley.com/), MEng in Information Engineering, Cambridge           
 *Next: PhD at Harvard*  
+
+Stay tuned for details on our trustworthy AI lab. If you’re interested in joining or supporting us, please get in touch with me.
 
 
 
