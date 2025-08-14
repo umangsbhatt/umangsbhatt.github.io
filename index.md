@@ -21,8 +21,9 @@ I build trustworthy artificial intelligence (AI) systems for high-stakes deploym
 
 While my full publication list can be found on [Google Scholar](https://scholar.google.com/citations?user=qq8bxPkAAAAJ&hl=en), here is a selection.
 
-1. <span style="color:SlateBlue">Learning Personalized Decision Support Policies</span>. **Umang Bhatt**\*, Valerie Chen\*, Katherine Collins, Parameswaran Kamalaruban, Emma Kallina, Adrian Weller, Ameet Talwalkar. *AAAI Conference on Artificial Intelligence (AAAI), 2025.*      
-[<button type="button" class="btn btn-info">Paper</button>](https://ojs.aaai.org/index.php/AAAI/article/view/33555)    
+1. <span style="color:SlateBlue">[Learning Personalized Decision Support Policies](https://ojs.aaai.org/index.php/AAAI/article/view/33555)</span>.   
+**Umang Bhatt**\*, Valerie Chen\*, Katherine Collins, Parameswaran Kamalaruban, Emma Kallina, Adrian Weller, Ameet Talwalkar.    
+*AAAI Conference on Artificial Intelligence (AAAI), 2025.*      
 
 1. Katherine Collins\*, Ilia Sucholutsky\*, **Umang Bhatt**\*, Kartik Chandra\*, Lionel Wong\*, Mina Lee, Cedegao Zhang, Tan Zhi-Xuan, Mark Ho, Vikash Mansinghka, Adrian Weller, Joshua Tenenbaum, Thomas Griffiths      
 <span style="color:SlateBlue">Building Machines that Learn and Think with People</span>      
