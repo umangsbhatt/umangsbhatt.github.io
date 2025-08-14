@@ -17,11 +17,11 @@ Stay tuned for details on our trustworthy AI lab. If you’re interested in join
 
 ## Research
 
-I build trustworthy artificial intelligence (AI) systems for high-stakes deployment.  I am keen to develop new algorithms and tools that support effective human-AI interaction and manage the partnership between humans and AI systems. Drawing from machine learning, cognitive science, philosophy, and law, my group and I investigate when and how AI can be trusted, integrated into decision-making, and evaluated in ecologically valid settings. My work pays particular attention to critical domains such as healthcare, education, and national security, where transparency and human oversight of AI systems is essential. While my full publication list can be found on [Google Scholar](https://scholar.google.com/citations?user=qq8bxPkAAAAJ&hl=en), here is a selection.
+I build trustworthy artificial intelligence (AI) systems for high-stakes deployment.  I am keen to develop new algorithms and tools that support effective human-AI interaction and manage the partnership between humans and AI systems. Drawing from machine learning, cognitive science, philosophy, and law, my group and I investigate when and how AI can be trusted, integrated into decision-making, and evaluated in ecologically valid settings. My work pays particular attention to critical domains such as healthcare, education, and national security, where transparency and human oversight of AI systems is essential. 
 
-1. **Umang Bhatt**\*, Valerie Chen\*, Katherine Collins, Parameswaran Kamalaruban, Emma Kallina, Adrian Weller, Ameet Talwalkar      
-<span style="color:SlateBlue">Learning Personalized Decision Support Policies</span>      
-*AAAI Conference on Artificial Intelligence (AAAI), 2025.*      
+While my full publication list can be found on [Google Scholar](https://scholar.google.com/citations?user=qq8bxPkAAAAJ&hl=en), here is a selection.
+
+1. <span style="color:SlateBlue">Learning Personalized Decision Support Policies</span>. **Umang Bhatt**\*, Valerie Chen\*, Katherine Collins, Parameswaran Kamalaruban, Emma Kallina, Adrian Weller, Ameet Talwalkar. *AAAI Conference on Artificial Intelligence (AAAI), 2025.*      
 [<button type="button" class="btn btn-info">Paper</button>](https://ojs.aaai.org/index.php/AAAI/article/view/33555)    
 
 1. Katherine Collins\*, Ilia Sucholutsky\*, **Umang Bhatt**\*, Kartik Chandra\*, Lionel Wong\*, Mina Lee, Cedegao Zhang, Tan Zhi-Xuan, Mark Ho, Vikash Mansinghka, Adrian Weller, Joshua Tenenbaum, Thomas Griffiths      
@@ -67,9 +67,9 @@ I am fortunate to work with stellar students. We are an interdisciplinary, fast-
 
 
 ### Former Advisees
-* [Mackenzie Jorgensen](https://mjorgen1.github.io/), Postdoctoral Research Assosciate, Alan Turing Institute
+* [Mackenzie Jorgensen](https://mjorgen1.github.io/), Postdoctoral Research Assosciate, Alan Turing Institute  
 *Next: Postdoc at Northumbria* 
-* [Kendall Brogle](https://www.linkedin.com/in/kendall-brogle-752977240/), Research Assistant, Alan Turing Institute
+* [Kendall Brogle](https://www.linkedin.com/in/kendall-brogle-752977240/), Research Assistant, Alan Turing Institute  
 *Next: MPhil at Cambridge* 
 * [Matthew Barker](https://matthewbarker.me/), MEng in Information Engineering, Cambridge       
 *Next: Trustwise*  
@@ -82,7 +82,7 @@ I am fortunate to work with stellar students. We are an interdisciplinary, fast-
 * [Dan Ley](https://www.dan-ley.com/), MEng in Information Engineering, Cambridge           
 *Next: PhD at Harvard*  
 
------
+
 
 <!-- ## Teaching
 
