@@ -18,7 +18,7 @@ Over the years, my research has supported by the [Responsible AI Institute](http
 
 ----
 
-While my full publication list can be found on [Google Scholar](https://scholar.google.com/citations?user=qq8bxPkAAAAJ&hl=en), here is a recent selection that continues to shape my thinking.
+While a longer publication list can be found on [Google Scholar](https://scholar.google.com/citations?user=qq8bxPkAAAAJ&hl=en), here is a recent selection that continues to shape my thinking.
 
 1. <span style="color:SlateBlue">Learning Personalized Decision Support Policies</span>.  
 **Umang Bhatt**\*, Valerie Chen\*, Katherine Collins, Parameswaran Kamalaruban, Emma Kallina, Adrian Weller, Ameet Talwalkar   
