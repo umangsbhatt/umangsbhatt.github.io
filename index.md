@@ -12,11 +12,22 @@ Previously, I was an Assistant Professor & Faculty Fellow at the [Center for Dat
 
 ----
 
-## Research
-
 I build trustworthy artificial intelligence (AI) systems for high-stakes deployment.  I am keen to develop new algorithms and tools that support effective human-AI interaction and manage the partnership between humans and AI systems. Drawing from machine learning, cognitive science, philosophy, and law, my group and I investigate when and how AI can be trusted, integrated into decision-making, and evaluated in ecologically valid settings. My work pays particular attention to critical domains such as healthcare, education, and national security, where transparency and human oversight of AI systems is essential. 
 
-While my full publication list can be found on [Google Scholar](https://scholar.google.com/citations?user=qq8bxPkAAAAJ&hl=en), here is a recent selection.
+I am fortunate to work with stellar students. We are an interdisciplinary, fast-growing group. If you’d like to join as an MPhil/PhD student or postdoc, please get in touch.
+
+* [Drew Calcagno](https://www.linkedin.com/in/drewcalcagno/), incoming PhD Student, Cambridge
+* [Bernardo Villegas](https://www.linkedin.com/in/bernardovillegas96/), incoming PhD Student, Cambridge 
+* [Elaf Almahmoud](https://www.linkedin.com/in/elafalmahmoud/), incoming PhD Student, Cambridge
+* [Noah Broestl](https://www.linkedin.com/in/noah-broestl-95340113/), incoming PhD Student, Cambridge (co-advised with [Adrian Weller](http://mlg.eng.cam.ac.uk/adrian/))
+
+Over the years, my research has supported by the [Responsible AI Institute](https://www.responsible.ai/), [Harvard Center for Research on Computation and Society](https://crcs.seas.harvard.edu/), [Mozilla Foundation](https://foundation.mozilla.org/en/), [Partnership on AI](https://www.partnershiponai.org/), and the [Leverhulme Center for the Future of Intelligence](http://lcfi.ac.uk/) (Trust and Transparency) via generous donations from [Google DeepMind](https://deepmind.com/) and the [Leverhulme Trust](https://www.leverhulme.ac.uk/). 
+
+Stay tuned for details on our trustworthy AI lab. If you’re interested in joining or supporting us, please get in touch with me.
+
+----
+
+While my full publication list can be found on [Google Scholar](https://scholar.google.com/citations?user=qq8bxPkAAAAJ&hl=en), here is a recent selection that continues to shape my thinking.
 
 1. <span style="color:SlateBlue">Learning Personalized Decision Support Policies</span>.  
 **Umang Bhatt**\*, Valerie Chen\*, Katherine Collins, Parameswaran Kamalaruban, Emma Kallina, Adrian Weller, Ameet Talwalkar   
@@ -32,22 +43,6 @@ Katherine Collins\*, Ilia Sucholutsky\*, **Umang Bhatt**\*, Kartik Chandra\*, Li
 **Umang Bhatt**\*, Holli Sargeant\*      
 *IEEE Computer, 2024*      
 [<button type="button" class="btn btn-info">Paper</button>](https://ieeexplore.ieee.org/document/10687308)          
-   
-Over the years, my research has supported by the [Responsible AI Institute](https://www.responsible.ai/), [Harvard Center for Research on Computation and Society](https://crcs.seas.harvard.edu/), [Mozilla Foundation](https://foundation.mozilla.org/en/), [Partnership on AI](https://www.partnershiponai.org/), and the [Leverhulme Center for the Future of Intelligence](http://lcfi.ac.uk/) (Trust and Transparency Initiative) via generous donations from [Google DeepMind](https://deepmind.com/) and the [Leverhulme Trust](https://www.leverhulme.ac.uk/). 
-
------
-
-## Group
-
-I am fortunate to work with stellar students. We are an interdisciplinary, fast-growing group. If you’d like to join as an MPhil/PhD student or postdoc, please get in touch.
-
-
-* [Drew Calcagno](https://www.linkedin.com/in/drewcalcagno/), incoming PhD Student, Cambridge
-* [Bernardo Villegas](https://www.linkedin.com/in/bernardovillegas96/), incoming PhD Student, Cambridge 
-* [Elaf Almahmoud](https://www.linkedin.com/in/elafalmahmoud/), incoming PhD Student, Cambridge
-* [Noah Broestl](https://www.linkedin.com/in/noah-broestl-95340113/), incoming PhD Student, Cambridge (co-advised with [Adrian Weller](http://mlg.eng.cam.ac.uk/adrian/))
-
-
 
 **Former Advisees**
 * [Mackenzie Jorgensen](https://mjorgen1.github.io/), Postdoctoral Research Assosciate, Alan Turing Institute  
@@ -63,10 +58,7 @@ I am fortunate to work with stellar students. We are an interdisciplinary, fast-
 * [Javier Abad Martinez](https://ml.inf.ethz.ch/people/person-detail.MzEwOTc5.TGlzdC8xODA3LC0xNzg2MjE4NDI4.html), Research Assistant, Cambridge        
 *Next: PhD at ETH Zurich* 
 * [Dan Ley](https://www.dan-ley.com/), MEng in Information Engineering, Cambridge           
-*Next: PhD at Harvard*  
-
-Stay tuned for details on our trustworthy AI lab. If you’re interested in joining or supporting us, please get in touch with me.
-
+*Next: PhD at Harvard* 
 
 
 <!-- ## Teaching

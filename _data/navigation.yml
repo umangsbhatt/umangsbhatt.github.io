@@ -1,7 +1,11 @@
 # Site navigation links
 
-- title: 
+- title: Home
   url: /
+
+- title: Research
+  url: https://scholar.google.com/citations?user=qq8bxPkAAAAJ&hl=en
+
 
 - title: CV
   url: /reports/UB_CV.pdf
