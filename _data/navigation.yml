@@ -1,22 +1,8 @@
 # Site navigation links
 
-- title: Home
-  url: /
+# - title: 
+#   url: /
 
-- title: Research
-  url: /research/
+# - title: CV
+#   url: /reports/UB_CV.pdf
 
-- title: Teaching
-  url: /teaching/
-
-- title: Group
-  url: /group/
-
-- title: Talks
-  url: /talks/
-  
-- title: CV
-  url: /reports/UB_CV.pdf
-
-- title: Contact
-  url: /contact/
