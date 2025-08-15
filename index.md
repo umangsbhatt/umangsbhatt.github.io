@@ -11,42 +11,39 @@ I am an Assistant Professor at the [University of Cambridge](https://www.cam.ac.
 Previously, I was an Assistant Professor & Faculty Fellow at the [Center for Data Science](https://cds.nyu.edu/) at [New York University](https://www.nyu.edu/) and a Senior Research Associate at [Alan Turing Institute](http://turing.ac.uk/). I completed my PhD in the [Cambridge Machine Learning Group](http://mlg.eng.cam.ac.uk/), where I was advised by [Adrian Weller](http://mlg.eng.cam.ac.uk/adrian/). I hold a MS and BS in [Electrical and Computer Engineering](http://www.ece.cmu.edu/) from [Carnegie Mellon University](http://www.cmu.edu/). I grew up in Basking Ridge, New Jersey, USA.
 
 ----
-
+### Research
 I build trustworthy artificial intelligence (AI) systems for high-stakes deployment.  I am keen to develop new algorithms and tools that support effective human-AI interaction and manage the partnership between humans and AI systems. Drawing from machine learning, cognitive science, philosophy, and law, my group and I investigate when and how AI can be trusted, integrated into decision-making, and evaluated in ecologically valid settings. My work pays particular attention to critical domains such as healthcare, education, and national security, where transparency and human oversight of AI systems is essential. 
 
 Over the years, my research has supported by the [Responsible AI Institute](https://www.responsible.ai/), [Harvard Center for Research on Computation and Society](https://crcs.seas.harvard.edu/), [Mozilla Foundation](https://foundation.mozilla.org/en/), [Partnership on AI](https://www.partnershiponai.org/), and the [Leverhulme Center for the Future of Intelligence](http://lcfi.ac.uk/) (Trust and Transparency) via generous donations from [Google DeepMind](https://deepmind.com/) and the [Leverhulme Trust](https://www.leverhulme.ac.uk/). Stay tuned for details on our soon-to-be-announced Trustworthy AI Laboratory at Cambridge. If you’re interested in joining or supporting us, please get in touch with me.
 
 ----
 
+### Select Recent Publications
 While a longer publication list can be found on [Google Scholar](https://scholar.google.com/citations?user=qq8bxPkAAAAJ&hl=en), here is a recent selection that continues to shape my thinking.
 
-1. <span style="color:SlateBlue">Learning Personalized Decision Support Policies</span>.  
-**Umang Bhatt**\*, Valerie Chen\*, Katherine Collins, Parameswaran Kamalaruban, Emma Kallina, Adrian Weller, Ameet Talwalkar   
-*AAAI Conference on Artificial Intelligence (AAAI), 2025*      
-[<button type="button" class="btn btn-info">Paper</button>](https://ojs.aaai.org/index.php/AAAI/article/view/33555)     
+1. [Learning Personalized Decision Support Policies](https://ojs.aaai.org/index.php/AAAI/article/view/33555)    
+**Umang Bhatt**\*, Valerie Chen\*, Katherine Collins, Parameswaran Kamalaruban, Emma Kallina, Adrian Weller, Ameet Talwalkar. *AAAI Conference on Artificial Intelligence (AAAI), 2025*       
 
-1. <span style="color:SlateBlue">Building Machines that Learn and Think with People</span>.  
-Katherine Collins\*, Ilia Sucholutsky\*, **Umang Bhatt**\*, Kartik Chandra\*, Lionel Wong\*, Mina Lee, Cedegao Zhang, Tan Zhi-Xuan, Mark Ho, Vikash Mansinghka, Adrian Weller, Joshua Tenenbaum, Thomas Griffiths    
-*Nature Human Behavior, 2024*     
-[<button type="button" class="btn btn-info">Paper</button>](https://www.nature.com/articles/s41562-024-01991-9)    
+1. [Building Machines that Learn and Think with People](https://www.nature.com/articles/s41562-024-01991-9)    
+Katherine Collins\*, Ilia Sucholutsky\*, **Umang Bhatt**\*, Kartik Chandra\*, Lionel Wong\*, Mina Lee, Cedegao Zhang, Tan Zhi-Xuan, Mark Ho, Vikash Mansinghka, Adrian Weller, Joshua Tenenbaum, Thomas Griffiths. *Nature Human Behavior, 2024*    
 
-1. <span style="color:SlateBlue">When Should Algorithms Resign? A Proposal for AI Governance</span>     
-**Umang Bhatt**\*, Holli Sargeant\*      
-*IEEE Computer, 2024*      
-[<button type="button" class="btn btn-info">Paper</button>](https://ieeexplore.ieee.org/document/10687308) 
-    
+1. [When Should Algorithms Resign? A Proposal for AI Governance](https://ieeexplore.ieee.org/document/10687308) 
+**Umang Bhatt**\*, Holli Sargeant\*. *IEEE Computer, 2024*      
+
 ----
 
-I am fortunate to work with stellar students. We are an interdisciplinary, fast-growing group. If you’d like to join as an MPhil/PhD student or postdoc, please get in touch.
+### Group Members
+
+ The best way to work with me is to apply to CHIA's [MPhil](https://www.postgraduate.study.cam.ac.uk/courses/directory/iethmphia) or [PhD](https://www.postgraduate.study.cam.ac.uk/courses/directory/iethpdhii) programme and list my name in your application. If you are already a Cambridge student, please reach out to me directly. 
+
+ We are an interdisciplinary, fast-growing group. If you’d like to join as an MPhil/PhD student or postdoc, please get in touch.
 
 * [Drew Calcagno](https://www.linkedin.com/in/drewcalcagno/), incoming PhD Student, Cambridge
 * [Bernardo Villegas](https://www.linkedin.com/in/bernardovillegas96/), incoming PhD Student, Cambridge 
 * [Elaf Almahmoud](https://www.linkedin.com/in/elafalmahmoud/), incoming PhD Student, Cambridge
 * [Noah Broestl](https://www.linkedin.com/in/noah-broestl-95340113/), incoming PhD Student, Cambridge (co-advised with [Adrian Weller](http://mlg.eng.cam.ac.uk/adrian/))
 
-----
-
-**Former Advisees**
+**Former**
 * [Mackenzie Jorgensen](https://mjorgen1.github.io/), Postdoctoral Research Assosciate, Alan Turing Institute  
 *Next: Postdoc at Northumbria* 
 * [Kendall Brogle](https://www.linkedin.com/in/kendall-brogle-752977240/), Research Assistant, Alan Turing Institute  
