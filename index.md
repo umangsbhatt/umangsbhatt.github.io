@@ -19,7 +19,7 @@ Over the years, my research has supported by the [Responsible AI Institute](http
 ----
 
 ### Select Recent Publications
-While a longer publication list can be found on [Google Scholar](https://scholar.google.com/citations?user=qq8bxPkAAAAJ&hl=en), here is a recent selection that continues to shape my thinking.
+A longer publication list can be found on [Google Scholar](https://scholar.google.com/citations?user=qq8bxPkAAAAJ&hl=en).
 
 1. [Learning Personalized Decision Support Policies](https://ojs.aaai.org/index.php/AAAI/article/view/33555)    
 **Umang Bhatt**\*, Valerie Chen\*, Katherine Collins, Parameswaran Kamalaruban, Emma Kallina, Adrian Weller, Ameet Talwalkar. *AAAI Conference on Artificial Intelligence (AAAI), 2025*       
@@ -34,9 +34,7 @@ Katherine Collins\*, Ilia Sucholutsky\*, **Umang Bhatt**\*, Kartik Chandra\*, Li
 
 ### Group Members
 
- The best way to work with me is to apply to CHIA's [MPhil](https://www.postgraduate.study.cam.ac.uk/courses/directory/iethmphia) or [PhD](https://www.postgraduate.study.cam.ac.uk/courses/directory/iethpdhii) programme and list my name in your application. If you are already a Cambridge student, please reach out to me directly. 
-
- We are an interdisciplinary, fast-growing group. If you’d like to join as an MPhil/PhD student or postdoc, please get in touch.
+ The best way to work with me is to apply to CHIA's [MPhil](https://www.postgraduate.study.cam.ac.uk/courses/directory/iethmphia) or [PhD](https://www.postgraduate.study.cam.ac.uk/courses/directory/iethpdhii) programme and list my name in your application. If you are already a Cambridge student or are interested in postdoctoral roles, please reach out to me directly. 
 
 * [Drew Calcagno](https://www.linkedin.com/in/drewcalcagno/), incoming PhD Student, Cambridge
 * [Bernardo Villegas](https://www.linkedin.com/in/bernardovillegas96/), incoming PhD Student, Cambridge 
