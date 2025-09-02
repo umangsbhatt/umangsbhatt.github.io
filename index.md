@@ -6,7 +6,7 @@ modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 ---
 
-I am an Assistant Professor at the [University of Cambridge](https://www.cam.ac.uk/), where I am based in the [Institute for Technology and Humanity](https://www.ith.cam.ac.uk/) (ITH) and its [Centre for Human-Inspired Artificial Intelligence](https://www.chia.cam.ac.uk/) (CHIA). I am also an Official Fellow in Computer Science at [King's College, Cambridge](https://www.kings.cam.ac.uk/). 
+I am an Assistant Professor in Trustworthy Artificial Intelligence at the [University of Cambridge](https://www.cam.ac.uk/), where I am based in the [Institute for Technology and Humanity](https://www.ith.cam.ac.uk/) (ITH) and its [Centre for Human-Inspired Artificial Intelligence](https://www.chia.cam.ac.uk/) (CHIA). I am also an Official Fellow in Computer Science at [King's College, Cambridge](https://www.kings.cam.ac.uk/). 
 
 Previously, I was an Assistant Professor & Faculty Fellow at the [Center for Data Science](https://cds.nyu.edu/) at [New York University](https://www.nyu.edu/) and a Senior Research Associate at [Alan Turing Institute](http://turing.ac.uk/). I completed my PhD in the [Cambridge Machine Learning Group](http://mlg.eng.cam.ac.uk/), where I was advised by [Adrian Weller](http://mlg.eng.cam.ac.uk/adrian/). I hold a MS and BS in [Electrical and Computer Engineering](http://www.ece.cmu.edu/) from [Carnegie Mellon University](http://www.cmu.edu/). I grew up in Basking Ridge, New Jersey, USA.
 
@@ -34,7 +34,7 @@ Katherine Collins\*, Ilia Sucholutsky\*, **Umang Bhatt**\*, Kartik Chandra\*, Li
 
 ### Group Members
 
- The best way to work with me is to apply to CHIA's [MPhil](https://www.postgraduate.study.cam.ac.uk/courses/directory/iethmphia) or [PhD](https://www.postgraduate.study.cam.ac.uk/courses/directory/iethpdhii) programme and list my name in your application. If you are already a Cambridge student or are interested in postdoctoral roles, please reach out to me directly. 
+ The best way to work with me is to apply to CHIA's [MPhil](https://www.postgraduate.study.cam.ac.uk/courses/directory/iethmphia) or [PhD](https://www.postgraduate.study.cam.ac.uk/courses/directory/iethpdhii) programme and list my name in your application. If you are already a student at Cambridge or are interested in postdoctoral roles in my group, please reach out to me directly. 
 
 * [Drew Calcagno](https://www.linkedin.com/in/drewcalcagno/), incoming PhD Student, Cambridge
 * [Bernardo Villegas](https://www.linkedin.com/in/bernardovillegas96/), incoming PhD Student, Cambridge 
