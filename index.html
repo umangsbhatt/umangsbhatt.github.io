@@ -1,0 +1,504 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Umang Bhatt · University of Cambridge</title>
+    <meta name="description" content="Umang Bhatt is an Assistant Professor in Trustworthy AI at the University of Cambridge, researching human-AI collaboration, explainability, and responsible AI systems.">
+    <meta name="keywords" content="Umang Bhatt, Cambridge, machine learning, AI, trustworthy AI, explainability, human-AI collaboration, responsible AI, CHIA, ITH">
+    <meta name="author" content="Umang Bhatt">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://umangsbhatt.github.io/">
+    <meta property="og:title" content="Umang Bhatt · University of Cambridge">
+    <meta property="og:description" content="Assistant Professor in Trustworthy AI at the University of Cambridge, researching human-AI collaboration and responsible AI systems.">
+    <meta property="og:image" content="https://umangsbhatt.github.io/images/bio.jpg">
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@umangsbhatt">
+    <meta name="twitter:creator" content="@umangsbhatt">
+    <meta name="twitter:title" content="Umang Bhatt · University of Cambridge">
+    <meta name="twitter:description" content="Assistant Professor in Trustworthy AI at Cambridge, researching human-AI collaboration and responsible AI.">
+    <meta name="twitter:image" content="https://umangsbhatt.github.io/images/bio.jpg">
+
+    <!-- Canonical URL -->
+    <link rel="canonical" href="https://umangsbhatt.github.io/">
+
+    <!-- Favicon -->
+    <link rel="icon" href="images/cmu-icon.png">
+    <link rel="apple-touch-icon" href="images/cmu-icon.png">
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-0KGV4EHDTX"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-0KGV4EHDTX');
+    </script>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,500;0,600;1,400&family=DM+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --color-text: #1a1a1a;
+            --color-text-muted: #555;
+            --color-accent: #1a6b6d;
+            --color-accent-hover: #0d4a4c;
+            --color-bg: #fafaf8;
+            --color-border: #e0e0dc;
+            --font-body: 'Crimson Pro', Georgia, serif;
+            --font-heading: 'DM Sans', -apple-system, sans-serif;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: var(--font-body);
+            font-size: 17px;
+            line-height: 1.75;
+            color: var(--color-text);
+            background: var(--color-bg);
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+        }
+
+        .container {
+            max-width: 820px;
+            margin: 0 auto;
+            padding: 40px 24px;
+        }
+
+        /* Header */
+        header {
+            margin-bottom: 0;
+        }
+
+        h1 {
+            font-family: var(--font-heading);
+            font-size: 26px;
+            font-weight: 600;
+            color: var(--color-text);
+            margin-bottom: 4px;
+            letter-spacing: -0.02em;
+        }
+
+        .header-row {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            flex-wrap: wrap;
+            gap: 12px;
+        }
+
+        .subtitle {
+            font-family: var(--font-heading);
+            font-size: 14px;
+            color: var(--color-text-muted);
+        }
+
+        nav {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            font-size: 15px;
+        }
+
+        nav a {
+            color: var(--color-text-muted);
+            text-decoration: none;
+            transition: color 0.15s ease;
+        }
+
+        nav a:hover {
+            color: var(--color-accent);
+        }
+
+        .header-rule {
+            border: none;
+            border-top: 1px solid var(--color-border);
+            margin: 20px 0 32px 0;
+        }
+
+        /* Main content */
+        .intro {
+            display: flex;
+            gap: 32px;
+            margin-bottom: 32px;
+            align-items: flex-start;
+        }
+
+        .photo {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            object-fit: cover;
+            flex-shrink: 0;
+        }
+
+        .bio p {
+            margin-bottom: 16px;
+        }
+
+        /* Links */
+        a {
+            color: var(--color-accent);
+            text-decoration: none;
+            transition: color 0.2s ease;
+        }
+
+        a:hover {
+            color: var(--color-accent-hover);
+        }
+
+        strong {
+            font-weight: 600;
+            color: var(--color-text);
+        }
+
+        /* Sections */
+        section {
+            margin-bottom: 40px;
+        }
+
+        h2 {
+            font-family: var(--font-heading);
+            font-size: 18px;
+            font-weight: 600;
+            margin-bottom: 16px;
+            padding-bottom: 10px;
+            border-bottom: 1px solid var(--color-border);
+            color: var(--color-text);
+            letter-spacing: -0.01em;
+        }
+
+        /* Publications */
+        .publication {
+            margin-bottom: 20px;
+        }
+
+        .publication .title {
+            font-weight: 500;
+        }
+
+        .publication .title a {
+            color: var(--color-text);
+            border-bottom: 1px solid transparent;
+            transition: border-color 0.2s ease, color 0.2s ease;
+        }
+
+        .publication .title a:hover {
+            color: var(--color-accent);
+            border-bottom-color: var(--color-accent);
+        }
+
+        .publication .authors {
+            color: var(--color-text-muted);
+            font-size: 15px;
+        }
+
+        .publication .venue {
+            font-style: italic;
+            color: var(--color-text-muted);
+            font-size: 15px;
+        }
+
+        /* PhD Students Grid */
+        .students-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+            gap: 28px;
+            margin-top: 24px;
+        }
+
+        .student-card {
+            text-align: center;
+        }
+
+        .student-card img {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            object-fit: cover;
+            margin-bottom: 12px;
+            border: 3px solid var(--color-border);
+            background: #f0f0f0;
+            transition: border-color 0.2s ease;
+        }
+
+        .student-card:hover img {
+            border-color: var(--color-accent);
+        }
+
+        /* Placeholder for missing images */
+        .student-card img[src=""],
+        .student-card img:not([src]) {
+            background: linear-gradient(135deg, #e8e8e8 0%, #f5f5f5 100%);
+        }
+
+        .student-card .name {
+            font-family: var(--font-heading);
+            font-weight: 500;
+            margin-bottom: 4px;
+        }
+
+        .student-card .name a {
+            color: var(--color-text);
+            transition: color 0.2s ease;
+        }
+
+        .student-card .name a:hover {
+            color: var(--color-accent);
+        }
+
+        .student-card .role {
+            font-family: var(--font-heading);
+            font-size: 13px;
+            color: var(--color-text-muted);
+        }
+
+        /* Alumni */
+        .alumni {
+            margin-top: 32px;
+        }
+
+        .alumni-title {
+            font-family: var(--font-heading);
+            font-weight: 600;
+            margin-bottom: 12px;
+            color: var(--color-text-muted);
+            font-size: 14px;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        .group-list {
+            list-style: none;
+        }
+
+        .group-list li {
+            margin-bottom: 8px;
+        }
+
+        .next {
+            color: var(--color-text-muted);
+            font-size: 14px;
+        }
+
+        /* Footer */
+        footer {
+            margin-top: 48px;
+            padding-top: 24px;
+            border-top: 1px solid var(--color-border);
+            font-family: var(--font-heading);
+            font-size: 13px;
+            color: var(--color-text-muted);
+        }
+
+        /* Focus states for accessibility */
+        a:focus {
+            outline: 2px solid var(--color-accent);
+            outline-offset: 2px;
+        }
+
+        /* Smooth scrolling */
+        html {
+            scroll-behavior: smooth;
+        }
+
+        @media (prefers-reduced-motion: reduce) {
+            html {
+                scroll-behavior: auto;
+            }
+            *, *::before, *::after {
+                transition-duration: 0.01ms !important;
+            }
+        }
+
+        /* Responsive */
+        @media (max-width: 700px) {
+            .container {
+                padding: 28px 20px;
+            }
+
+            h1 {
+                font-size: 22px;
+            }
+
+            .intro {
+                flex-direction: column;
+                gap: 24px;
+            }
+
+            .photo {
+                width: 120px;
+                height: 120px;
+            }
+
+            .header-row {
+                gap: 12px;
+            }
+
+            nav {
+                gap: 10px;
+            }
+
+            section {
+                margin-bottom: 32px;
+            }
+
+            h2 {
+                font-size: 16px;
+            }
+
+            .students-grid {
+                grid-template-columns: repeat(2, 1fr);
+                gap: 20px;
+            }
+
+            .student-card img {
+                width: 80px;
+                height: 80px;
+            }
+        }
+
+        @media (max-width: 480px) {
+            body {
+                font-size: 16px;
+            }
+
+            .student-card img {
+                width: 70px;
+                height: 70px;
+            }
+
+            .student-card .name {
+                font-size: 14px;
+            }
+
+            .student-card .role {
+                font-size: 12px;
+            }
+
+            .publication .authors,
+            .publication .venue {
+                font-size: 14px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Umang Bhatt</h1>
+            <div class="header-row">
+                <span class="subtitle">University of Cambridge</span>
+                <nav>
+                    <a href="mailto:usb20@cam.ac.uk" title="Email"><i class="fa fa-envelope"></i></a>
+                    <a href="https://scholar.google.com/citations?user=qq8bxPkAAAAJ&hl=en" title="Google Scholar"><i class="fa fa-graduation-cap"></i></a>
+                    <a href="reports/UB_CV.pdf" title="CV"><i class="fa fa-file-text-o"></i></a>
+                    <a href="https://twitter.com/umangsbhatt" title="Twitter"><i class="fa fa-twitter"></i></a>
+                    <a href="https://github.com/umangsbhatt" title="GitHub"><i class="fa fa-github"></i></a>
+                    <a href="https://linkedin.com/in/umangsbhatt" title="LinkedIn"><i class="fa fa-linkedin"></i></a>
+                </nav>
+            </div>
+        </header>
+        <hr class="header-rule">
+
+        <main>
+            <div class="intro">
+                <img src="images/bio.jpg" alt="Umang Bhatt" class="photo">
+                <div class="bio">
+                    <p>I am an Assistant Professor in Trustworthy Artificial Intelligence at the <a href="https://www.cam.ac.uk/">University of Cambridge</a>, where I am based in the <a href="https://www.ith.cam.ac.uk/">Institute for Technology and Humanity</a> (ITH) and its <a href="https://www.chia.cam.ac.uk/">Centre for Human-Inspired Artificial Intelligence</a> (CHIA). I am also a Fellow and Director of Studies in Computer Science at <a href="https://www.kings.cam.ac.uk/">King's College, Cambridge</a>.</p>
+
+                    <p>Previously, I was an Assistant Professor & Faculty Fellow at the <a href="https://cds.nyu.edu/">Center for Data Science</a> at <a href="https://www.nyu.edu/">New York University</a> and a Senior Research Associate at <a href="http://turing.ac.uk/">Alan Turing Institute</a>. I completed my PhD in the <a href="http://mlg.eng.cam.ac.uk/">Cambridge Machine Learning Group</a>, advised by <a href="http://mlg.eng.cam.ac.uk/adrian/">Adrian Weller</a>. I hold a MS and BS in <a href="http://www.ece.cmu.edu/">Electrical and Computer Engineering</a> from <a href="http://www.cmu.edu/">Carnegie Mellon University</a>. I grew up in Basking Ridge, New Jersey, USA.</p>
+                </div>
+            </div>
+
+            <section>
+                <h2>Research</h2>
+                <p>I build trustworthy artificial intelligence (AI) systems for high-stakes deployment. I develop new algorithms and tools that support effective human-AI interaction and manage the partnership between humans and AI systems. Drawing from machine learning, cognitive science, philosophy, and law, my group investigates when and how AI can be trusted, integrated into decision-making, and evaluated in ecologically valid settings.</p>
+                <p style="margin-top: 16px;">My work pays particular attention to critical domains such as healthcare, education, and national security, where transparency and human oversight of AI systems is essential.</p>
+                <p style="margin-top: 16px;">Our research has been supported by the <a href="https://www.responsible.ai/">Responsible AI Institute</a>, <a href="https://crcs.seas.harvard.edu/">Harvard CRCS</a>, <a href="https://foundation.mozilla.org/en/">Mozilla Foundation</a>, <a href="https://www.partnershiponai.org/">Partnership on AI</a>, and the <a href="http://lcfi.ac.uk/">Leverhulme Center for the Future of Intelligence</a>.</p>
+            </section>
+
+            <section>
+                <h2>Select Publications</h2>
+                <p style="margin-bottom: 20px;">Full list on <a href="https://scholar.google.com/citations?user=qq8bxPkAAAAJ&hl=en">Google Scholar</a>.</p>
+
+                <div class="publication">
+                    <div class="title"><a href="https://ojs.aaai.org/index.php/AAAI/article/view/33555">Learning Personalized Decision Support Policies</a></div>
+                    <div class="authors"><strong>Umang Bhatt</strong>*, Valerie Chen*, Katherine Collins, Parameswaran Kamalaruban, Emma Kallina, Adrian Weller, Ameet Talwalkar</div>
+                    <div class="venue">AAAI Conference on Artificial Intelligence, 2025</div>
+                </div>
+
+                <div class="publication">
+                    <div class="title"><a href="https://www.nature.com/articles/s41562-024-01991-9">Building Machines that Learn and Think with People</a></div>
+                    <div class="authors">Katherine Collins*, Ilia Sucholutsky*, <strong>Umang Bhatt</strong>*, Kartik Chandra*, Lionel Wong*, Mina Lee, Cedegao Zhang, Tan Zhi-Xuan, Mark Ho, Vikash Mansinghka, Adrian Weller, Joshua Tenenbaum, Thomas Griffiths</div>
+                    <div class="venue">Nature Human Behavior, 2024</div>
+                </div>
+
+                <div class="publication">
+                    <div class="title"><a href="https://ieeexplore.ieee.org/document/10687308">When Should Algorithms Resign? A Proposal for AI Governance</a></div>
+                    <div class="authors"><strong>Umang Bhatt</strong>*, Holli Sargeant*</div>
+                    <div class="venue">IEEE Computer, 2024</div>
+                </div>
+            </section>
+
+            <section>
+                <h2>Group</h2>
+                <p>Stay tuned for details on our soon-to-be-announced <strong>Trustworthy AI Laboratory</strong> at Cambridge. If you're interested in joining or supporting us, please get in touch.</p>
+                <p style="margin-top: 12px;">The best way to work with me is to apply to CHIA's <a href="https://www.postgraduate.study.cam.ac.uk/courses/directory/iethmphia">MPhil</a> or <a href="https://www.postgraduate.study.cam.ac.uk/courses/directory/iethpdhii">PhD</a> programme and list my name in your application. If you are already a student at Cambridge or interested in postdoctoral roles, please reach out directly.</p>
+
+                <div class="students-grid">
+                    <div class="student-card">
+                        <img src="images/students/drew.jpg" alt="Drew Calcagno" onerror="this.src='images/students/placeholder.svg'">
+                        <div class="name"><a href="https://www.linkedin.com/in/drewcalcagno/">Drew Calcagno</a></div>
+                        <div class="role">PhD Student</div>
+                    </div>
+                    <div class="student-card">
+                        <img src="images/students/bernardo.jpg" alt="Bernardo Villegas" onerror="this.src='images/students/placeholder.svg'">
+                        <div class="name"><a href="https://www.linkedin.com/in/bernardovillegas96/">Bernardo Villegas</a></div>
+                        <div class="role">PhD Student</div>
+                    </div>
+                    <div class="student-card">
+                        <img src="images/students/elaf.jpg" alt="Elaf Almahmoud" onerror="this.src='images/students/placeholder.svg'">
+                        <div class="name"><a href="https://www.linkedin.com/in/elafalmahmoud/">Elaf Almahmoud</a></div>
+                        <div class="role">PhD Student</div>
+                    </div>
+                    <div class="student-card">
+                        <img src="images/students/noah.jpg" alt="Noah Broestl" onerror="this.src='images/students/placeholder.svg'">
+                        <div class="name"><a href="https://www.linkedin.com/in/noah-broestl-95340113/">Noah Broestl</a></div>
+                        <div class="role">PhD Student<br><span style="font-size: 11px;">(w/ Adrian Weller)</span></div>
+                    </div>
+                </div>
+
+                <div class="alumni">
+                    <div class="alumni-title">Alumni</div>
+                    <ul class="group-list">
+                        <li><a href="https://mjorgen1.github.io/">Mackenzie Jorgensen</a> <span class="next">→ Postdoc at RAI UK</span></li>
+                        <li><a href="https://www.linkedin.com/in/kendall-brogle-752977240/">Kendall Brogle</a> <span class="next">→ MPhil at Cambridge</span></li>
+                        <li><a href="https://matthewbarker.me/">Matthew Barker</a> <span class="next">→ Trustwise</span></li>
+                        <li><a href="https://www.linkedin.com/in/vivek-palaniappan">Vivek Palaniappan</a> <span class="next">→ Citadel</span></li>
+                        <li><a href="https://scholar.google.com/citations?user=cXV58usAAAAJ&hl=en">Varun Babbar</a> <span class="next">→ PhD at Duke</span></li>
+                        <li><a href="https://ml.inf.ethz.ch/people/person-detail.MzEwOTc5.TGlzdC8xODA3LC0xNzg2MjE4NDI4.html">Javier Abad Martinez</a> <span class="next">→ PhD at ETH Zurich</span></li>
+                        <li><a href="https://www.dan-ley.com/">Dan Ley</a> <span class="next">→ PhD at Harvard</span></li>
+                    </ul>
+                </div>
+            </section>
+        </main>
+
+        <footer>
+            <p>Umang Bhatt · University of Cambridge · usb20@cam.ac.uk</p>
+        </footer>
+    </div>
+</body>
+</html>
