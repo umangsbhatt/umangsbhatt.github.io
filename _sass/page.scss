@@ -1,11 +1,28 @@
 /* ==========================================================================
-   Page layout
+   Page layout - Academic Clarity
    ========================================================================== */
 
 body {
 	background-color: $bodycolor;
 	font-family: $base-font;
 	color: $text-color;
+	line-height: 1.7;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+/* Subtle grain texture overlay */
+body::before {
+	content: '';
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	pointer-events: none;
+	opacity: 0.015;
+	background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)'/%3E%3C/svg%3E");
+	z-index: 1000;
 }
 
 /*
@@ -14,11 +31,12 @@ body {
 
 .navigation-wrapper {
 	@include container;
-	padding: 2em 0 1em;
+	padding: 2.5em 0 1.5em;
 	font-family: $heading-font;
-	font-weight: 700;
-	text-transform: uppercase;
+	font-weight: 500;
 	@include clearfix;
+	border-bottom: 1px solid $border-color;
+	margin-bottom: 0;
 }
 
 /* Site name */
@@ -29,12 +47,30 @@ body {
 	margin-bottom: 1em;
 	float: none;
 	display: block;
-	@include font-rem(24);
+	@include font-rem(20);
+	letter-spacing: -0.01em;
+	a {
+		color: $text-color;
+		position: relative;
+		&::after {
+			content: '';
+			position: absolute;
+			bottom: -2px;
+			left: 0;
+			width: 0;
+			height: 2px;
+			background: $accent-primary;
+			transition: width 0.3s ease;
+		}
+		&:hover::after {
+			width: 100%;
+		}
+	}
 	@media #{$small} {
 		@include grid(12,2);
 		@include prefix(12,0.5);
 		@include suffix(12,0.5);
-		@include font-rem(16);
+		@include font-rem(18);
 	}
 	@media #{$x-large} {
 		@include grid(12,1.5);
@@ -47,7 +83,7 @@ body {
 	@include grid(12,10);
 	@include prefix(12,1);
 	@include suffix(12,1);
-	margin-bottom: 1em;
+	margin-bottom: 0;
 	float: none;
 	display: block;
 	@media #{$small} {
@@ -67,27 +103,30 @@ body {
 	li {
 		display: block;
 		list-style-type: none;
-		border-bottom: 1px solid lighten($black,80);
-		border-bottom: 1px solid fade($black,10);
-		@include font-rem(16);
+		border-bottom: 1px solid $border-color;
+		@include font-rem(15);
 		&:last-child {
 			border-bottom: 0 solid transparent;
 		}
 		@media #{$small} {
 			display: inline;
-			margin-right: 25px;
+			margin-right: 2em;
 			white-space: nowrap;
 			border-bottom: 0 solid transparent;
 		}
 		a {
 			display: block;
-			padding: 10px 0;
-			decoration: none;
+			padding: 12px 0;
+			color: $text-muted;
+			text-decoration: none;
 			border-bottom: 0 solid transparent;
-			@include transition(all .2s);
+			transition: color 0.2s ease;
 			@media #{$small} {
 				display: inline;
 				padding: 0;
+			}
+			&:hover {
+				color: $accent-primary;
 			}
 		}
 	}
@@ -222,7 +261,7 @@ $button-size: 1.5rem;
 	@include container;
 	@include clearfix;
 	clear: both;
-	margin-top: 2em;
+	margin-top: 3em;
 	h1 {
 		margin-top: 0;
 	}
@@ -242,20 +281,22 @@ $button-size: 1.5rem;
 			@include grid(12,5.5);
 		}
         a {
-            color:Brown;
-            background-color:transparent;
-            text-decoration:none;
-        }
-        a.hover:hover {
-            color:DarkRed;
-            background-color:transparent;
-            text-decoration:none;
+            color: $accent-primary;
+            background-color: transparent;
+            text-decoration: none;
+            border-bottom: 1px solid transparent;
+            transition: border-color 0.2s ease;
+            &:hover {
+                border-bottom-color: $accent-primary;
+            }
         }
         ol, ul {
-            padding-left: 1em;
+            padding-left: 1.25em;
+            li {
+                margin-bottom: 0.4em;
+            }
         }
-        text-align: justify;
-        text-justify: inter-word;
+        text-align: left;
 	}
 }
 
@@ -368,20 +409,26 @@ $button-size: 1.5rem;
 /* Default social media links in author sidebar */
 .author-social {
   display: block;
-  margin-bottom: 5px;
-  @include font-rem(14);
-  color: $black;
+  margin-bottom: 8px;
+  @include font-rem(13);
+  font-family: $heading-font;
+  color: $text-muted;
+  transition: color 0.2s ease, transform 0.2s ease;
   &:visited {
-    color: $black;
+    color: $text-muted;
   }
   &:hover {
-    @include scale(1.1);
+    color: $accent-primary;
+    transform: translateX(3px);
   }
-  &:active {
-    @include translate(0, 2px);
+  &:focus {
+    outline: 2px solid $accent-primary;
+    outline-offset: 2px;
   }
   .fa {
-		margin-right: 5px;
+		margin-right: 8px;
+		width: 16px;
+		text-align: center;
 	}
 }
 
@@ -389,8 +436,13 @@ $button-size: 1.5rem;
 .article-author-side {
 	display: none;
 	.bio-photo {
-		max-width: 110px;
-		@include rounded(10px);
+		max-width: 120px;
+		border-radius: 50%;
+		border: 3px solid $border-color;
+		transition: border-color 0.3s ease;
+		&:hover {
+			border-color: $accent-primary;
+		}
 	}
 	@media #{$small} {
 		display: block;
@@ -401,17 +453,23 @@ $button-size: 1.5rem;
 		p,
 		.author-social {
 			display: block;
-			max-width: 125px;
+			max-width: 140px;
 		}
 		h3 {
-			margin-top: 10px;
-			margin-bottom: 10px;
+			margin-top: 16px;
+			margin-bottom: 8px;
+			font-size: 1.1rem;
+			font-weight: 600;
+			color: $text-color;
 		}
 		p {
 			margin-bottom: 20px;
+			font-size: 0.85rem;
+			color: $text-muted;
+			line-height: 1.5;
 		}
 		.author-social {
-			margin-bottom: 5px;
+			margin-bottom: 6px;
 		}
 	}
 	@media #{$large} {
@@ -419,7 +477,7 @@ $button-size: 1.5rem;
 		.bio-photo,
 		p,
 		.author-social {
-			max-width: 150px;
+			max-width: 160px;
 		}
 	}
 	@media #{$x-large} {
@@ -643,7 +701,9 @@ $button-size: 1.5rem;
 	@include container;
 	@include clearfix;
 	clear: both;
-	padding-bottom: 3em;
+	padding: 3em 0;
+	margin-top: 4em;
+	border-top: 1px solid $border-color;
 	a,
 	a:active,
 	a:visited,
@@ -652,12 +712,20 @@ $button-size: 1.5rem;
 	h5,
 	h6,
 	span {
-		@include font-rem(14);
+		@include font-rem(13);
+		color: $text-muted;
+	}
+	a {
+		transition: color 0.2s ease;
+		&:hover {
+			color: $accent-primary;
+		}
 	}
 	footer {
 		@include grid(12,10);
 		@include prefix(12,1);
 		@include suffix(12,1);
+		text-align: center;
 		@media #{$small} {
 			@include grid(12,6);
 			@include prefix(12,3);

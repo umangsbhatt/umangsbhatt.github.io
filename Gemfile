@@ -1,5 +1,8 @@
 source "https://rubygems.org"
 
-gem 'jekyll', '2.5.3'
+gem 'jekyll', '~> 4.4'
 gem 'jekyll-sitemap'
-gem 'octopress', '~> 3.0'
+gem 'webrick'
+gem 'logger'
+gem 'csv'
+gem 'base64'

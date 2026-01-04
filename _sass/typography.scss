@@ -1,5 +1,5 @@
 /* ==========================================================================
-   Typography
+   Typography - Academic Clarity
    ========================================================================== */
 
 /*
@@ -8,24 +8,40 @@
 
 h1, h2, h3, h4, h5, h6 {
 	font-family: $heading-font;
+	font-weight: 500;
+	letter-spacing: -0.02em;
+	line-height: 1.25;
+	color: $text-color;
 }
 h1 {
-	@include font-size(32);
+	@include font-size(36);
+	font-weight: 600;
+	letter-spacing: -0.03em;
+	margin-bottom: 0.5em;
 }
 h2 {
 	@include font-size(28);
+	margin-top: 1.5em;
+	margin-bottom: 0.5em;
 }
 h3 {
-	@include font-size(24);
+	@include font-size(22);
+	margin-top: 1.25em;
+	margin-bottom: 0.4em;
 }
 h4 {
 	@include font-size(18);
+	font-weight: 600;
 }
 h5 {
 	@include font-size(16);
+	font-weight: 600;
 }
 h6 {
 	@include font-size(14);
+	font-weight: 600;
+	text-transform: uppercase;
+	letter-spacing: 0.05em;
 }
 
 /*
@@ -35,6 +51,7 @@ h6 {
 a {
 	text-decoration: none;
 	color: $link-color;
+	transition: color 0.2s ease, border-color 0.2s ease;
 	&:visited {
 		color: $linkcolorvisited;
 	}
@@ -42,7 +59,8 @@ a {
 		color: $linkcolorhover;
 	}
 	&:focus {
-		outline: thin dotted;
+		outline: 2px solid $accent-primary;
+		outline-offset: 2px;
 		color: $linkcolorfocus;
 	}
 	&:hover,
@@ -109,11 +127,14 @@ figcaption {
    ========================================================================== */
 
 blockquote {
-	margin-left: -28px;
-	padding-left: 20px;
-	border-left: 8px solid $border-color;
+	margin: 1.5em 0;
+	margin-left: 0;
+	padding: 1em 1.5em;
+	border-left: 3px solid $accent-primary;
+	background: linear-gradient(to right, rgba(26, 107, 109, 0.03), transparent);
 	font-family: $alt-font;
 	font-style: italic;
+	color: $text-muted;
 }
 
 /*

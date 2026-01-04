@@ -1,42 +1,48 @@
 /* ==========================================================================
-   Sass variables
+   Sass variables - Academic Clarity Theme
    ========================================================================== */
 
 /*
    Typography
    ========================================================================== */
 
-$doc-font-size: 16;
-$doc-line-height: 26;
+$doc-font-size: 17;
+$doc-line-height: 28;
 $paragraph-indent: false !default;
-$base-font: 'PT Serif', serif;
-$heading-font: 'PT Sans Narrow', sans-serif;
-$code-font: Monaco, "Courier New", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", monospace;
+$base-font: 'Crimson Pro', Georgia, serif;
+$heading-font: 'DM Sans', 'Helvetica Neue', sans-serif;
+$code-font: 'JetBrains Mono', 'Fira Code', Monaco, monospace;
 $alt-font: $base-font;
 
 /*
-   Colors
+   Colors - Refined Academic Palette
    ========================================================================== */
 
-$bodycolor      : #fff;
+$bodycolor      : #FAFAF8;
 $body-color     : $bodycolor;
-$textcolor      : #333332;
+$textcolor      : #1a1a1a;
 $text-color     : $textcolor;
-$border-color   : $text-color;
-$basecolor 		  : #343434;
+$text-muted     : #5a5a5a;
+$border-color   : #e0e0dc;
+$basecolor 		  : #2a2a2a;
 $compcolor 		  : spin($basecolor, 180);
-$bordercolor    : $basecolor;
+$bordercolor    : #e0e0dc;
 $white          : #fff;
-$black          : #111;
-$accentcolor    : $black;
+$black          : #1a1a1a;
+$accentcolor    : #1a6b6d;
+
+/* Accent colors */
+$accent-primary   : #1a6b6d;
+$accent-light     : #e8f4f4;
+$accent-dark      : #0d4a4c;
 
 /* buttons */
-$primary			: $black;
-$success			: #5cb85c;
-$warning			: #dd8338;
-$danger				: #C64537;
-$info				  : #308cbc;
-$video				  : #778899;
+$primary			: $accent-primary;
+$success			: #3d8b40;
+$warning			: #c17d2e;
+$danger				: #b84a3f;
+$info				  : #2a7ab8;
+$video				  : #6b7280;
 
 /* brands */
 $facebook-color     : #3b5998;
@@ -48,16 +54,16 @@ $linkedin-color     : #4875b4;
 $pinterest-color    : #cb2027;
 $rss-color          : #fa9b39;
 $tumblr-color       : #2c4762;
-$twitter-color      : #55acee;
+$twitter-color      : #1da1f2;
 $vimeo-color        : #1ab7ea;
 $youtube-color      : #ff3333;
 
 /* links */
-$linkcolor 		    : #044a51;
+$linkcolor 		    : #1a6b6d;
 $link-color       : $linkcolor;
-$linkcolorhover 	: darken($linkcolor, 10);
-$linkcolorvisited : lighten($linkcolorhover, 20);
-$linkcolorfocus 	: darken($linkcolorvisited, 10);
+$linkcolorhover 	: darken($linkcolor, 12);
+$linkcolorvisited : $linkcolor;
+$linkcolorfocus 	: $accent-dark;
 
 /*
    Breakpoints

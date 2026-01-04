@@ -22,12 +22,14 @@ Over the years, my research has supported by the [Responsible AI Institute](http
 A longer publication list can be found on [Google Scholar](https://scholar.google.com/citations?user=qq8bxPkAAAAJ&hl=en).
 
 1. [Learning Personalized Decision Support Policies](https://ojs.aaai.org/index.php/AAAI/article/view/33555)    
-**Umang Bhatt**\*, Valerie Chen\*, Katherine Collins, Parameswaran Kamalaruban, Emma Kallina, Adrian Weller, Ameet Talwalkar. *AAAI Conference on Artificial Intelligence (AAAI), 2025*       
+**Umang Bhatt**\*, Valerie Chen\*, Katherine Collins, Parameswaran Kamalaruban, Emma Kallina, Adrian Weller, Ameet Talwalkar.
+*AAAI Conference on Artificial Intelligence (AAAI), 2025*       
 
-1. [Building Machines that Learn and Think with People](https://www.nature.com/articles/s41562-024-01991-9)    
-Katherine Collins\*, Ilia Sucholutsky\*, **Umang Bhatt**\*, Kartik Chandra\*, Lionel Wong\*, Mina Lee, Cedegao Zhang, Tan Zhi-Xuan, Mark Ho, Vikash Mansinghka, Adrian Weller, Joshua Tenenbaum, Thomas Griffiths. *Nature Human Behavior, 2024*    
+1. [Building Machines that Learn and Think with People](https://www.nature.com/articles/s41562-024-01991-9)        
+Katherine Collins\*, Ilia Sucholutsky\*, **Umang Bhatt**\*, Kartik Chandra\*, Lionel Wong\*, Mina Lee, Cedegao Zhang, Tan Zhi-Xuan, Mark Ho, Vikash Mansinghka, Adrian Weller, Joshua Tenenbaum, Thomas Griffiths. 
+     *Nature Human Behavior, 2024*    
 
-1. [When Should Algorithms Resign? A Proposal for AI Governance](https://ieeexplore.ieee.org/document/10687308) 
+1. [When Should Algorithms Resign? A Proposal for AI Governance](https://ieeexplore.ieee.org/document/10687308)       
 **Umang Bhatt**\*, Holli Sargeant\*. *IEEE Computer, 2024*      
 
 ----
