@@ -313,10 +313,19 @@
             color: var(--color-text-muted);
         }
 
-        /* Focus states for accessibility */
-        a:focus {
+        /* Focus states for accessibility: keyboard only, not on mouse click */
+        a:focus-visible {
             outline: 2px solid var(--color-accent);
             outline-offset: 2px;
+        }
+
+        /* In group cards the avatar ring is the focus indicator, so skip the box */
+        .student-card a:focus-visible {
+            outline: none;
+        }
+
+        .student-card:has(a:focus-visible) img {
+            border-color: var(--color-accent);
         }
 
         /* Smooth scrolling */
